@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ConsoleLoop</title>
+    <link href="https://consoleloop.com/feed.xml" rel="self" />
+    <link href="https://consoleloop.com" />
+    <updated>2022-09-21T03:20:40-04:00</updated>
+    <author>
+        <name>ConsoleLoop</name>
+    </author>
+    <id>https://consoleloop.com</id>
+
+    <entry>
+        <title>Sleeping Dogs Definitive Edition | RX 5500 | 8GB vs 16GB RAM Benchmarks</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/sleeping-dogs-definitive-edition-or-rx-5500-or-8gb-vs-16gb-ram-benchmarks/"/>
+        <id>https://consoleloop.com/sleeping-dogs-definitive-edition-or-rx-5500-or-8gb-vs-16gb-ram-benchmarks/</id>
+            <category term="Videos"/>
+
+        <updated>2022-09-21T03:20:40-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/19/thumbnail.webp" alt="" />
+                <figure class="post__video"><iframe loading="lazy" src="https://www.youtube.com/embed/GKdNH76wbPQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

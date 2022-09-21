@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ConsoleLoop",
+    "description": "",
+    "home_page_url": "https://consoleloop.com",
+    "feed_url": "https://consoleloop.com/feed.json",
+    "user_comment": "",
+    "icon": "https://consoleloop.com/media/website/logo.webp",
+    "author": {
+        "name": "ConsoleLoop"
+    },
+    "items": [
+        {
+            "id": "https://consoleloop.com/sleeping-dogs-definitive-edition-or-rx-5500-or-8gb-vs-16gb-ram-benchmarks/",
+            "url": "https://consoleloop.com/sleeping-dogs-definitive-edition-or-rx-5500-or-8gb-vs-16gb-ram-benchmarks/",
+            "title": "Sleeping Dogs Definitive Edition | RX 5500 | 8GB vs 16GB RAM Benchmarks",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" src=\"https://www.youtube.com/embed/GKdNH76wbPQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/19/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-09-20T12:00:00-04:00",
+            "date_modified": "2022-09-21T03:20:40-04:00"
+        }
+    ]
+}
