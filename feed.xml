@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-09-26T14:22:24-04:00</updated>
+    <updated>2022-09-27T23:13:47-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Netflix Opens Game Studio, E3 2023 Is A Go, and New Silent Hill Rated!</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/netflix-opens-game-studio-e3-2023-is-a-go-and-new-silent-hill-rated/"/>
+        <id>https://consoleloop.com/netflix-opens-game-studio-e3-2023-is-a-go-and-new-silent-hill-rated/</id>
+            <category term="Videos"/>
+
+        <updated>2022-09-27T23:13:47-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/26/thumbnail.webp" alt="ConsoleLoop 3" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/v9xnzjVtsc0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>GTA 6 Leaker Arrested, Xbox Series S Takes On Sony, and PS5 Gets A Upgraded Chip!</title>
         <author>
