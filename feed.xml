@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-09-27T23:13:47-04:00</updated>
+    <updated>2022-09-28T21:21:20-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Resident Evil Winters Story Is Over, PS5 Call Of Duty Bundle, and PUBG Next Game!</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/resident-evil-winters-story-is-over-ps5-call-of-duty-bundle-and-pubg-next-game/"/>
+        <id>https://consoleloop.com/resident-evil-winters-story-is-over-ps5-call-of-duty-bundle-and-pubg-next-game/</id>
+            <category term="Videos"/>
+
+        <updated>2022-09-28T21:21:20-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/27/thumbnail.webp" alt="ConsoleLoop 4" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/HmFl3VgllTM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Netflix Opens Game Studio, E3 2023 Is A Go, and New Silent Hill Rated!</title>
         <author>
