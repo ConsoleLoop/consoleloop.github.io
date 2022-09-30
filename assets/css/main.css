@@ -1053,8 +1053,13 @@ ul.menu {
   border-radius: 20px;
   width: 100%;
 }
-a.thumbnail:hover {
+a.thumbnail {
+  opacity: 0.9;
+}
+a.thumbnail:hover,
+a.thumbnail:focus {
   background: linear-gradient(90deg, rgba(102,28,30,1) 25%, rgba(131,110,44,1) 100%);
+  opacity: 1;
 }
 .thumbnail-title {
   padding: 10px;
@@ -1345,10 +1350,11 @@ button.button-black:focus {
 .preview-section img {
   border-radius: 20px;
   padding: 3px;
-  opacity: 0.85;
+  opacity: 0.9;
   background: var(--black-light);
 }
-.preview-section img:hover {
+.preview-section img:hover,
+.preview-section img:focus {
   opacity: 1;
   background: linear-gradient(to right, #037860, #1F1F68);
 }
