@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-03T22:16:37-04:00</updated>
+    <updated>2022-10-04T17:20:45-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>2 Million PSVR2 Headsets, Killer Instinct Hacked, and 2K Lost Their Tattoo Lawsuit!</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/"/>
+        <id>https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-04T17:20:45-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/31/thumbnail.webp" alt="ConsoleLoop 7" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/6ovSe_uvqj0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Horizon Getting Remastered, Developers Attempt Stadia Rescue, and PS5 Has Been Hacked!</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/25/thumbnail-2.webp" alt="ConsoleLoop 2" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/MNSrLYZdvsw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>FBI + GTA 6 Leaker, PSVR2 Not Backward Compatible, and Nintendo Removes More Features!</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/fbi-gta-6-leaker-psvr2-not-backward-compatible-and-nintendo-removes-more-features/"/>
-        <id>https://consoleloop.com/fbi-gta-6-leaker-psvr2-not-backward-compatible-and-nintendo-removes-more-features/</id>
-            <category term="Videos"/>
-
-        <updated>2022-09-29T20:50:37-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/24/thumbnail-2.webp" alt="ConsoleLoop 1" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/O39EZYL5q-s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
