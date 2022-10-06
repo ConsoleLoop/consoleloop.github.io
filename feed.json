@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/advanced-warfare-2-leaks-playstation-stars-launch-and-bayonetta-voice-actor-replaced/",
+            "url": "https://consoleloop.com/advanced-warfare-2-leaks-playstation-stars-launch-and-bayonetta-voice-actor-replaced/",
+            "title": "Advanced Warfare 2 Leaks, PlayStation Stars Launch, and Bayonetta Voice Actor Replaced",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Mnjsc9-rZtA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/33/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-06T14:57:19-04:00",
+            "date_modified": "2022-10-06T15:03:04-04:00"
+        },
+        {
             "id": "https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/",
             "url": "https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/",
             "title": "Spider-Man&#x27;s New Face, Dead Space Remake Info, and a Cyberpunk Sequel Is In The Works",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-09-28T21:21:20-04:00",
             "date_modified": "2022-09-28T21:21:20-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/netflix-opens-game-studio-e3-2023-is-a-go-and-new-silent-hill-rated/",
-            "url": "https://consoleloop.com/netflix-opens-game-studio-e3-2023-is-a-go-and-new-silent-hill-rated/",
-            "title": "Netflix Opens Game Studio, E3 2023 Is A Go, and New Silent Hill Rated!",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/v9xnzjVtsc0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/26/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-09-27T23:13:23-04:00",
-            "date_modified": "2022-09-27T23:13:47-04:00"
         }
     ]
 }
