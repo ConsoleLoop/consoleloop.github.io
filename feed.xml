@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-04T17:20:45-04:00</updated>
+    <updated>2022-10-05T20:49:14-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Spider-Man&#x27;s New Face, Dead Space Remake Info, and a Cyberpunk Sequel Is In The Works</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/"/>
+        <id>https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-05T20:49:14-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/32/thumbnail.webp" alt="ConsoleLoop 8" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/mc0CieWkOnM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2 Million PSVR2 Headsets, Killer Instinct Hacked, and 2K Lost Their Tattoo Lawsuit!</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/26/thumbnail.webp" alt="ConsoleLoop 3" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/v9xnzjVtsc0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>GTA 6 Leaker Arrested, Xbox Series S Takes On Sony, and PS5 Gets A Upgraded Chip!</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/gta-6-leaker-arrested-xbox-series-s-takes-on-sony-and-ps5-gets-a-upgraded-chip/"/>
-        <id>https://consoleloop.com/gta-6-leaker-arrested-xbox-series-s-takes-on-sony-and-ps5-gets-a-upgraded-chip/</id>
-            <category term="Videos"/>
-
-        <updated>2022-09-29T20:50:56-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/25/thumbnail-2.webp" alt="ConsoleLoop 2" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/MNSrLYZdvsw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

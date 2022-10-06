@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/",
+            "url": "https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/",
+            "title": "Spider-Man&#x27;s New Face, Dead Space Remake Info, and a Cyberpunk Sequel Is In The Works",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/mc0CieWkOnM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/32/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-05T20:49:14-04:00",
+            "date_modified": "2022-10-05T20:49:14-04:00"
+        },
+        {
             "id": "https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/",
             "url": "https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/",
             "title": "2 Million PSVR2 Headsets, Killer Instinct Hacked, and 2K Lost Their Tattoo Lawsuit!",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-09-27T23:13:23-04:00",
             "date_modified": "2022-09-27T23:13:47-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/gta-6-leaker-arrested-xbox-series-s-takes-on-sony-and-ps5-gets-a-upgraded-chip/",
-            "url": "https://consoleloop.com/gta-6-leaker-arrested-xbox-series-s-takes-on-sony-and-ps5-gets-a-upgraded-chip/",
-            "title": "GTA 6 Leaker Arrested, Xbox Series S Takes On Sony, and PS5 Gets A Upgraded Chip!",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/MNSrLYZdvsw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/25/thumbnail-2.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-09-26T14:19:19-04:00",
-            "date_modified": "2022-09-29T20:50:56-04:00"
         }
     ]
 }
