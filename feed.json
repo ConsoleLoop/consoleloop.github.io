@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/new-need-for-speed-cd-project-red-opens-studio-half-life-might-be-coming-to-psvr2/",
+            "url": "https://consoleloop.com/new-need-for-speed-cd-project-red-opens-studio-half-life-might-be-coming-to-psvr2/",
+            "title": "New Need For Speed, CD Project Red Opens Studio, Half-Life Might Be Coming To PSVR2",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/eZfbSbiR2VA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/34/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-07T14:01:08-04:00",
+            "date_modified": "2022-10-07T14:01:08-04:00"
+        },
+        {
             "id": "https://consoleloop.com/advanced-warfare-2-leaks-playstation-stars-launch-and-bayonetta-voice-actor-replaced/",
             "url": "https://consoleloop.com/advanced-warfare-2-leaks-playstation-stars-launch-and-bayonetta-voice-actor-replaced/",
             "title": "Advanced Warfare 2 Leaks, PlayStation Stars Launch, and Bayonetta Voice Actor Replaced",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-09-30T20:32:56-04:00",
             "date_modified": "2022-09-30T20:32:56-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/resident-evil-winters-story-is-over-ps5-call-of-duty-bundle-and-pubg-next-game/",
-            "url": "https://consoleloop.com/resident-evil-winters-story-is-over-ps5-call-of-duty-bundle-and-pubg-next-game/",
-            "title": "Resident Evil Winters Story Is Over, PS5 Call Of Duty Bundle, and PUBG Next Game!",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/HmFl3VgllTM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/27/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-09-28T21:21:20-04:00",
-            "date_modified": "2022-09-28T21:21:20-04:00"
         }
     ]
 }
