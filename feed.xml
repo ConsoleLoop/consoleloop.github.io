@@ -3,7 +3,7 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-10T05:03:10-04:00</updated>
+    <updated>2022-10-10T13:06:35-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://consoleloop.com/steam-deck-in-stock-ea-replacing-origin-and-multiple-silent-hill-games-in-the-works/</id>
             <category term="Videos"/>
 
-        <updated>2022-10-10T05:03:10-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://consoleloop.com/media/posts/36/thumbnail.webp" alt="ConsoleLoop 11" />
-                    Upload In Progress!
-                ]]>
-            </summary>
+        <updated>2022-10-10T13:06:35-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/36/thumbnail.webp" alt="ConsoleLoop 11" />
-                <h2 class="align-center">Upload In Progress!</h2>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/yrJg8_2R9Q8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
