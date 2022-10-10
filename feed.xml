@@ -3,12 +3,35 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-09T22:39:11-04:00</updated>
+    <updated>2022-10-10T05:03:10-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Steam Deck In-Stock, EA Replacing Origin, and Multiple Silent Hill Games In The Works</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/steam-deck-in-stock-ea-replacing-origin-and-multiple-silent-hill-games-in-the-works/"/>
+        <id>https://consoleloop.com/steam-deck-in-stock-ea-replacing-origin-and-multiple-silent-hill-games-in-the-works/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-10T05:03:10-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://consoleloop.com/media/posts/36/thumbnail.webp" alt="ConsoleLoop 11" />
+                    Upload In Progress!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/36/thumbnail.webp" alt="ConsoleLoop 11" />
+                <h2 class="align-center">Upload In Progress!</h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RX 5500 | 8GB vs 16GB RAM Benchmarks | Batman Arkham Knight</title>
         <author>
@@ -96,24 +119,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/31/thumbnail.webp" alt="ConsoleLoop 7" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/6ovSe_uvqj0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Horizon Getting Remastered, Developers Attempt Stadia Rescue, and PS5 Has Been Hacked!</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/horizon-getting-remastered-developers-attempt-stadia-rescue-and-ps5-has-been-hacked/"/>
-        <id>https://consoleloop.com/horizon-getting-remastered-developers-attempt-stadia-rescue-and-ps5-has-been-hacked/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-03T22:16:37-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/30/thumbnail.webp" alt="ConsoleLoop 6" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/_CTkMPeX7hY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
