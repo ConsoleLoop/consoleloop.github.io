@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/",
+            "url": "https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/",
+            "title": "Starfield&#x27;s Bethesda&#x27;s Biggest Game, Spider-Man Multiplayer, Xbox Teases Streaming Box",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/zjIeqW1de0U\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/37/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-11T01:38:52-04:00",
+            "date_modified": "2022-10-11T11:50:51-04:00"
+        },
+        {
             "id": "https://consoleloop.com/steam-deck-in-stock-ea-replacing-origin-and-multiple-silent-hill-games-in-the-works/",
             "url": "https://consoleloop.com/steam-deck-in-stock-ea-replacing-origin-and-multiple-silent-hill-games-in-the-works/",
             "title": "Steam Deck In-Stock, EA Replacing Origin, and Multiple Silent Hill Games In The Works",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-10-05T20:49:14-04:00",
             "date_modified": "2022-10-05T20:49:14-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/",
-            "url": "https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/",
-            "title": "2 Million PSVR2 Headsets, Killer Instinct Hacked, and 2K Lost Their Tattoo Lawsuit!",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/6ovSe_uvqj0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/31/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-04T17:20:45-04:00",
-            "date_modified": "2022-10-04T17:20:45-04:00"
         }
     ]
 }

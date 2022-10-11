@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-10T13:06:35-04:00</updated>
+    <updated>2022-10-11T11:50:51-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Starfield&#x27;s Bethesda&#x27;s Biggest Game, Spider-Man Multiplayer, Xbox Teases Streaming Box</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/"/>
+        <id>https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-11T11:50:51-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/37/thumbnail.webp" alt="ConsoleLoop 12" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/zjIeqW1de0U" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Steam Deck In-Stock, EA Replacing Origin, and Multiple Silent Hill Games In The Works</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/32/thumbnail.webp" alt="ConsoleLoop 8" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/mc0CieWkOnM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>2 Million PSVR2 Headsets, Killer Instinct Hacked, and 2K Lost Their Tattoo Lawsuit!</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/"/>
-        <id>https://consoleloop.com/2-million-psvr2-headsets-killer-instinct-hacked-and-2k-lost-their-tattoo-lawsuit/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-04T17:20:45-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/31/thumbnail.webp" alt="ConsoleLoop 7" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/6ovSe_uvqj0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
