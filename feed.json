@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/meta-quest-pro-was-announced-and-a-call-of-duty-modern-warfare-2-expansion-for-2023/",
+            "url": "https://consoleloop.com/meta-quest-pro-was-announced-and-a-call-of-duty-modern-warfare-2-expansion-for-2023/",
+            "title": "Meta Quest Pro Was Announced and a Call of Duty Modern Warfare 2 Expansion for 2023?",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/pB62rzCPNDQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/38/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-12T19:03:30-04:00",
+            "date_modified": "2022-10-12T19:03:30-04:00"
+        },
+        {
             "id": "https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/",
             "url": "https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/",
             "title": "Starfield&#x27;s Bethesda&#x27;s Biggest Game, Spider-Man Multiplayer, Xbox Teases Streaming Box",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-10-06T14:57:19-04:00",
             "date_modified": "2022-10-06T15:03:04-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/",
-            "url": "https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/",
-            "title": "Spider-Man&#x27;s New Face, Dead Space Remake Info, and a Cyberpunk Sequel Is In The Works",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/mc0CieWkOnM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/32/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-05T20:49:14-04:00",
-            "date_modified": "2022-10-05T20:49:14-04:00"
         }
     ]
 }

@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-11T11:50:51-04:00</updated>
+    <updated>2022-10-12T19:03:30-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Meta Quest Pro Was Announced and a Call of Duty Modern Warfare 2 Expansion for 2023?</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/meta-quest-pro-was-announced-and-a-call-of-duty-modern-warfare-2-expansion-for-2023/"/>
+        <id>https://consoleloop.com/meta-quest-pro-was-announced-and-a-call-of-duty-modern-warfare-2-expansion-for-2023/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-12T19:03:30-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/38/thumbnail.webp" alt="ConsoleLoop 13" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/pB62rzCPNDQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Starfield&#x27;s Bethesda&#x27;s Biggest Game, Spider-Man Multiplayer, Xbox Teases Streaming Box</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/33/thumbnail.webp" alt="ConsoleLoop 9" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Mnjsc9-rZtA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Spider-Man&#x27;s New Face, Dead Space Remake Info, and a Cyberpunk Sequel Is In The Works</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/"/>
-        <id>https://consoleloop.com/spider-mans-new-face-dead-space-remake-info-and-a-cyberpunk-sequel-is-in-the-works/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-05T20:49:14-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/32/thumbnail.webp" alt="ConsoleLoop 8" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/mc0CieWkOnM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
