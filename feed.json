@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/a-new-character-joins-bloodborne-karting-and-spider-man-miles-morales-is-headed-to-pc/",
+            "url": "https://consoleloop.com/a-new-character-joins-bloodborne-karting-and-spider-man-miles-morales-is-headed-to-pc/",
+            "title": "A New Character Joins Bloodborne Karting and Spider-Man Miles Morales Is Headed To PC",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Zl3w_Hwtrlw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/40/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-14T12:27:32-04:00",
+            "date_modified": "2022-10-14T12:27:32-04:00"
+        },
+        {
             "id": "https://consoleloop.com/overwatch-2-issues-apology-game-pass-was-blocked-by-sony-and-more/",
             "url": "https://consoleloop.com/overwatch-2-issues-apology-game-pass-was-blocked-by-sony-and-more/",
             "title": "Overwatch 2 Issues Apology, Game Pass Was Blocked By Sony, and More!",
@@ -84,36 +99,6 @@
             ],
             "date_published": "2022-10-09T22:38:26-04:00",
             "date_modified": "2022-10-09T22:39:11-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/new-need-for-speed-cd-project-red-opens-studio-half-life-might-be-coming-to-psvr2/",
-            "url": "https://consoleloop.com/new-need-for-speed-cd-project-red-opens-studio-half-life-might-be-coming-to-psvr2/",
-            "title": "New Need For Speed, CD Project Red Opens Studio, Half-Life Might Be Coming To PSVR2",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/eZfbSbiR2VA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/34/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-07T14:01:08-04:00",
-            "date_modified": "2022-10-07T14:01:08-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/advanced-warfare-2-leaks-playstation-stars-launch-and-bayonetta-voice-actor-replaced/",
-            "url": "https://consoleloop.com/advanced-warfare-2-leaks-playstation-stars-launch-and-bayonetta-voice-actor-replaced/",
-            "title": "Advanced Warfare 2 Leaks, PlayStation Stars Launch, and Bayonetta Voice Actor Replaced",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Mnjsc9-rZtA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/33/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-06T14:57:19-04:00",
-            "date_modified": "2022-10-06T15:03:04-04:00"
         }
     ]
 }
