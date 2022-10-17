@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/bayonetta-actor-claims-low-pay-konami-silent-hill-event-and-gotham-knights-is-30fps/",
+            "url": "https://consoleloop.com/bayonetta-actor-claims-low-pay-konami-silent-hill-event-and-gotham-knights-is-30fps/",
+            "title": "Bayonetta Actor Claims Low Pay, Konami Silent Hill Event, and Gotham Knights Is 30fps?",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/nuqBtZ-VZu4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/41/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-17T12:24:11-04:00",
+            "date_modified": "2022-10-17T12:24:11-04:00"
+        },
+        {
             "id": "https://consoleloop.com/a-new-character-joins-bloodborne-karting-and-spider-man-miles-morales-is-headed-to-pc/",
             "url": "https://consoleloop.com/a-new-character-joins-bloodborne-karting-and-spider-man-miles-morales-is-headed-to-pc/",
             "title": "A New Character Joins Bloodborne Karting and Spider-Man Miles Morales Is Headed To PC",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-10-10T05:00:52-04:00",
             "date_modified": "2022-10-10T13:06:35-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-batman-arkham-knight/",
-            "url": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-batman-arkham-knight/",
-            "title": "RX 5500 | 8GB vs 16GB RAM Benchmarks | Batman Arkham Knight",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/psqFGTjegow\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/35/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-09T22:38:26-04:00",
-            "date_modified": "2022-10-09T22:39:11-04:00"
         }
     ]
 }
