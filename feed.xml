@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-18T03:54:36-04:00</updated>
+    <updated>2022-10-19T18:03:21-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Spider-Man 2 On Schedule, New Mortal Kombat Game, and Modern Warfare 2 Pre-Load Times</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/"/>
+        <id>https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-19T18:03:21-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/43/thumbnail.webp" alt="ConsoleLoop 18" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OOQgnmug6XM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resident Evil Village Broken, EA Online Shutdown, and Minecraft 2023 Update Revealed</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/38/thumbnail.webp" alt="ConsoleLoop 13" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/pB62rzCPNDQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Starfield&#x27;s Bethesda&#x27;s Biggest Game, Spider-Man Multiplayer, Xbox Teases Streaming Box</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/"/>
-        <id>https://consoleloop.com/starfields-bethesdas-biggest-game-spider-man-multiplayer-xbox-teases-streaming-box/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-11T11:50:51-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/37/thumbnail.webp" alt="ConsoleLoop 12" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/zjIeqW1de0U" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
