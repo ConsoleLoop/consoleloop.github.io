@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/overwatch-2-map-disabled-devil-may-cry-5-breaks-record-and-silent-hill-games-revealed/",
+            "url": "https://consoleloop.com/overwatch-2-map-disabled-devil-may-cry-5-breaks-record-and-silent-hill-games-revealed/",
+            "title": "Overwatch 2 Map Disabled, Devil May Cry 5 Breaks Record and Silent Hill Games Revealed",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/rN1GdizGcXU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/44/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-20T17:27:57-04:00",
+            "date_modified": "2022-10-20T17:27:57-04:00"
+        },
+        {
             "id": "https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/",
             "url": "https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/",
             "title": "Spider-Man 2 On Schedule, New Mortal Kombat Game, and Modern Warfare 2 Pre-Load Times",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-10-13T17:45:09-04:00",
             "date_modified": "2022-10-13T17:45:09-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/meta-quest-pro-was-announced-and-a-call-of-duty-modern-warfare-2-expansion-for-2023/",
-            "url": "https://consoleloop.com/meta-quest-pro-was-announced-and-a-call-of-duty-modern-warfare-2-expansion-for-2023/",
-            "title": "Meta Quest Pro Was Announced and a Call of Duty Modern Warfare 2 Expansion for 2023?",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/pB62rzCPNDQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/38/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-12T19:03:30-04:00",
-            "date_modified": "2022-10-12T19:03:30-04:00"
         }
     ]
 }
