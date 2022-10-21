@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-20T17:27:57-04:00</updated>
+    <updated>2022-10-21T17:44:21-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Wolverine Release Possible In 2023, Lies Of P DLC Planned, Resident Evil Village Demo</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/wolverine-release-possible-in-2023-lies-of-p-dlc-planned-resident-evil-village-demo/"/>
+        <id>https://consoleloop.com/wolverine-release-possible-in-2023-lies-of-p-dlc-planned-resident-evil-village-demo/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-21T17:44:21-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/45/thumbnail.webp" alt="ConsoleLoop 20" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/gK8GnrQBgWI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Overwatch 2 Map Disabled, Devil May Cry 5 Breaks Record and Silent Hill Games Revealed</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/40/thumbnail.webp" alt="ConsoleLoop 15" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Zl3w_Hwtrlw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Overwatch 2 Issues Apology, Game Pass Was Blocked By Sony, and More!</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/overwatch-2-issues-apology-game-pass-was-blocked-by-sony-and-more/"/>
-        <id>https://consoleloop.com/overwatch-2-issues-apology-game-pass-was-blocked-by-sony-and-more/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-13T17:45:09-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/39/thumbnail.webp" alt="ConsoleLoop 14" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/F5uPLpAMI3U" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
