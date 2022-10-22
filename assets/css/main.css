@@ -509,7 +509,7 @@ input[type="button"] {
   padding: 0 30px;
   color: #555;
   text-align: center;
-  font-size: 11px;
+  font-size: 1.5rem;
   font-weight: 600;
   line-height: 38px;
   letter-spacing: .1rem;
@@ -518,7 +518,7 @@ input[type="button"] {
   white-space: nowrap;
   background-color: transparent;
   border-radius: 4px;
-  border: 1px solid #bbb;
+  border: none;
   cursor: pointer;
   box-sizing: border-box; }
 .button:hover,
@@ -698,9 +698,9 @@ form {
 .full-mw            { max-width: 100%; }
 .pull-r             { float: right; }
 .pull-l             { float: left; }
-.txt-l              { text-align: left; }
-.txt-r              { text-align: right; }
-.align-center              { text-align: center; }
+.align-left         { text-align: left; }
+.align-right        { text-align: right; }
+.align-center       { text-align: center; }
 .dis-n              { display: none; }
 .dis-b              { display: block; }
 .dis-i              { display: inline; }
@@ -747,12 +747,17 @@ there.
 }
 @media (max-width: 767px) {
   .pad-v-xs { margin-top: 1.5rem; margin-bottom: 1.5rem;}
+  .align-center-xs              { text-align: center; }
 }
 
 /* Tablet */
 @media (min-width: 768px) {
   .dis-n-sm                     { display: none; }
   .dis-b-sm                     { display: block; }
+  .dis-i-sm                     { display: inline; }
+  .dis-ib-sm                    { display: inline-block; }
+  .align-right-sm               { text-align: right; }
+  .align-center-sm              { text-align: center; }
 }
 @media (max-width: 1023px) {
   .mgl-0-sm                     { margin-left: 0; }
@@ -802,6 +807,7 @@ there.
 
 /* Desktop FHD */
 @media (min-width: 1920px) {
+  .align-left-xl                     { text-align: left; }
   .dis-n-xl                     { display: none; }
   .dis-b-xl                     { display: block; }
   .mgl-0-xl                     { margin-left: 0; }
@@ -912,7 +918,9 @@ a:hover {
   color: var(--gray-light);
 }
 a:focus {
-  text-decoration: overline underline;
+  border-radius: 4px;
+  outline: 3px solid var(--gray-dark);
+  text-decoration: none;
   color: var(--gray-light);
 }
 
@@ -933,10 +941,7 @@ h1, h2, h3, h4, h5, h6 {
 .hd-1 a {
   border-top: 2px solid transparent;
   border-bottom: 2px solid transparent;
-  background: linear-gradient(to right, #037860, #1F1F68);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+  color: var(--gray);
 }
 .hd-1 a:hover {
   border-bottom-color: var(--gray-light);
@@ -952,10 +957,6 @@ h1, h2, h3, h4, h5, h6 {
   border-top: 2px solid transparent;
   border-bottom: 2px solid transparent;
   color: var(--gray);
-  /*background: linear-gradient(90deg, rgba(102,28,30,1) 25%, rgba(131,110,44,1) 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;*/
 }
 .hd-2 a:hover {
   border-bottom-color: var(--gray-light);
@@ -968,7 +969,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--gray-light);
 }
 .feed__meta {
-  margin-bottom: 30px;
+  margin-bottom: 3rem;
   font-size: 2rem;
   color: var(--gray);
 }
@@ -986,16 +987,31 @@ h1, h2, h3, h4, h5, h6 {
   100% {transform: rotate(360deg)}
 }
 .navbar-links {
-  margin-top: 79.5px;
+  margin-top: 7.25rem;
   line-height: 1;
-  font-size: 3rem;
+  font-size: 4rem;
   font-variant: small-caps;
 }
 .navbar-links a {
-  color: var(--white-dark);
+  border-top: 2px solid transparent;
+  border-bottom: 2px solid transparent;
+  color: var(--gray);
 }
-.navbar-links ul li:first-child {
-    margin-right: 90px;
+.navbar-links a:hover {
+  border-bottom-color: var(--gray-light);
+  text-decoration: none;
+  color: var(--gray-light);
+}
+.navbar-links a:focus {
+  border-color: var(--gray-light);
+  text-decoration: none;
+  color: var(--gray-light);
+}
+.navbar-links ul li {
+    margin-right: 60px;
+}
+.navbar-links ul li:last-child {
+    margin-right: 0;
 }
 .navbar-links li {
   display: inline;
@@ -1027,11 +1043,17 @@ ul.menu {
   text-align: center;
 }
 .menubar-list a {
+  display: block;
   padding: 0 10px;
-  font-size: 2rem;
+  font-size: 3rem;
   font-variant: small-caps;
-  color: var(--white-dark);
+  color: var(--gray);
   text-shadow: 0 3px 5px #000;
+}
+@media (min-width: 768px) {
+  .menubar-list a {
+    display: inline;
+  }
 }
 
 .featured {
@@ -1046,20 +1068,19 @@ ul.menu {
 
 .thumbnail {
   display: block;
-  border-radius: 20px;
-  padding: 2px;
+  border-radius: 4px;
+  padding: 3px;
   background: var(--black-dark);
 }
 .thumbnail img {
-  border-radius: 20px;
+  border-radius: 4px;
   width: 100%;
 }
 a.thumbnail {
   opacity: 0.9;
 }
-a.thumbnail:hover,
-a.thumbnail:focus {
-  background: linear-gradient(90deg, rgba(102,28,30,1) 25%, rgba(131,110,44,1) 100%);
+a.thumbnail:hover {
+  background: linear-gradient(to right, #037860, #1F1F68);
   opacity: 1;
 }
 .thumbnail-title {
@@ -1069,7 +1090,7 @@ a.thumbnail:focus {
   text-shadow: 0 3px 5px #000;
 }
 @media (max-width: 1280px) {
-    margin-bottom: 30px;
+    margin-bottom: 3rem;
 }
 
 main {
@@ -1100,16 +1121,52 @@ footer p {
 footer span {
   color: var(--gray-dark);
 }
+.footer-links {
+  font-size: 3rem;
+}
 .footer-links ul {
   margin-bottom: 0;
 }
 .footer-links li {
-  display: inline;
+  display: block;
+  margin-top: 3rem;
+}
+.footer-links span {
+  display: none;
+}
+@media (min-width: 768px) {
+  .footer-links {
+    font-size: 2rem;
+  }
+  .footer-links li {
+    display: inline;
+    margin-top: 0;
+  }
+  .footer-links span {
+    display: inline;
+  }
 }
 .footer-social {
-  margin-bottom: 30px;
+  margin-bottom: 3rem;
   line-height: 1;
   font-size: 3rem;
+}
+.footer-social a {
+  display: block;
+  margin-bottom: 3rem;
+}
+.footer-social span {
+  display: none;
+  color: var(--black);
+}
+@media (min-width: 768px) {
+  .footer-social span {
+    display: inline;
+  }
+  .footer-social a {
+    display: inline;
+    margin-bottom: 0;
+  }
 }
 .footer-social svg {
   width: 2.5rem;
@@ -1125,7 +1182,8 @@ footer span {
 .copyright {
   padding: 14.5px 0;
   text-align: center;
-  color: var(--black);
+  background: var(--black-light);
+  color: var(--gray);
 }
 .copyright p {
   margin: 0;
@@ -1134,188 +1192,155 @@ footer span {
 
 /* Buttons */
 .button-lg {
-  height: 60px;
-  padding: 13px 18.5px;
-  font-size: 3rem;
-  font-weight: normal;
+  height: 64px;
+  padding: 15px 30px;
+  font-size: 2.5rem;
+}
+.button,
+button {
+  color: var(--black-light);
+}
+.button:hover,
+button:hover {
+  text-decoration: none;
+  color: var(--gray-dark);
+}
+.button:focus,
+button:focus {
+  text-decoration: none;
+  outline: 3px solid var(--gray-dark);
+  color: var(--gray-dark);
 }
 .button.button-blue,
 button.button-blue {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--blue) 50%, var(--blue-dark) 100%);
+  background: var(--blue);
 }
 .button.button-blue:hover,
 button.button-blue:hover,
 .button.button-blue:focus,
 button.button-blue:focus {
-  text-decoration: none;
-  border-color: var(--blue-light);
-  color: var(--blue-light);
+  background: var(--blue-light);
 }
 .button.button-purple,
 button.button-purple {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--purple) 50%, var(--purple-dark) 100%);
+  background: var(--purple);
 }
 .button.button-purple:hover,
 button.button-purple:hover,
 .button.button-purple:focus,
 button.button-purple:focus {
-  text-decoration: none;
-  border-color: var(--purple-light);
-  color: var(--purple-light);
+  background: var(--purple-light);
 }
 .button.button-pink,
 button.button-pink {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--pink) 50%, var(--pink-dark) 100%);
+  background: var(--pink);
 }
 .button.button-pink:hover,
 button.button-pink:hover,
 .button.button-pink:focus,
 button.button-pink:focus {
-  text-decoration: none;
-  border-color: var(--pink-light);
-  color: var(--pink-light);
+  background: var(--pink-light);
 }
 .button.button-red,
 button.button-red {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--red) 50%, var(--red-dark) 100%);
+  background: var(--red);
 }
 .button.button-red:hover,
 button.button-red:hover,
 .button.button-red:focus,
 button.button-red:focus {
-  text-decoration: none;
-  border-color: var(--red-light);
-  color: var(--red-light);
+  background: var(--red-light);
 }
 .button.button-orange,
 button.button-orange {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--orange) 50%, var(--orange-dark) 100%);
+  background: var(--orange);
 }
 .button.button-orange:hover,
 button.button-orange:hover,
 .button.button-orange:focus,
 button.button-orange:focus {
-  text-decoration: none;
-  border-color: var(--orange-light);
-  color: var(--orange-light);
+  background: var(--orange-light);
 }
 .button.button-yellow,
 button.button-yellow {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--yellow) 50%, var(--yellow-dark) 100%);
+  background: var(--yellow);
 }
 .button.button-yellow:hover,
 button.button-yellow:hover,
 .button.button-yellow:focus,
 button.button-yellow:focus {
-  text-decoration: none;
-  border-color: var(--yellow-light);
-  color: var(--yellow-light);
+  background: var(--yellow-light);
 }
 .button.button-green,
 button.button-green {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--green) 50%, var(--green-dark) 100%);
+  background: var(--green);
 }
 .button.button-green:hover,
 button.button-green:hover,
 .button.button-green:focus,
 button.button-green:focus {
-  text-decoration: none;
-  border-color: var(--green-light);
-  color: var(--green-light);
+  background: var(--green-light);
 }
 .button.button-teal,
 button.button-teal {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--teal) 50%, var(--teal-dark) 100%);
+  background: var(--teal);
 }
 .button.button-teal:hover,
 button.button-teal:hover,
 .button.button-teal:focus,
 button.button-teal:focus {
-  text-decoration: none;
-  border-color: var(--teal-light);
-  color: var(--teal-light);
+  background: var(--teal-light);
 }
 .button.button-cyan,
 button.button-cyan {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--cyan) 50%, var(--cyan-dark) 100%);
+  background: var(--cyan);
 }
 .button.button-cyan:hover,
 button.button-cyan:hover,
 .button.button-cyan:focus,
 button.button-cyan:focus {
-  text-decoration: none;
-  border-color: var(--cyan-light);
-  color: var(--cyan-light);
+  background: var(--cyan-light);
 }
 .button.button-white,
 button.button-white {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--white) 50%, var(--white-dark) 100%);
+  background: var(--white);
 }
 .button.button-white:hover,
 button.button-white:hover,
 .button.button-white:focus,
 button.button-white:focus {
-  text-decoration: none;
-  border-color: var(--gray-light);
-  color: var(--gray-light);
+  background: var(--gray-light);
 }
 .button.button-gray,
 button.button-gray {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--gray) 50%, var(--gray-dark) 100%);
+  background: var(--gray);
 }
 .button.button-gray:hover,
 button.button-gray:hover,
 .button.button-gray:focus,
 button.button-gray:focus {
-  text-decoration: none;
-  border-color: var(--gray-light);
-  color: var(--gray-light);
+  background: var(--gray-light);
 }
 .button.button-black,
 button.button-black {
-  border: 2px solid var(--black-light);
-  color: var(--black-light);
-  background: linear-gradient(90deg, var(--black) 50%, var(--black-dark) 100%);
+  background: var(--black);
 }
 .button.button-black:hover,
 button.button-black:hover,
 .button.button-black:focus,
 button.button-black:focus {
-  text-decoration: none;
-  border-color: var(--gray);
-  color: var(--gray);
+  background: var(--gray);
 }
 
 .page-header {
   min-height: 125px;
   padding: 37px 0;
+  text-align: center;
   background: var(--black);
 }
 .page-header h1 {
   margin-bottom: 0;
-  font-size: 3.8rem;
+  font-size: 4.5rem;
 }
 .page-header h6 {
   margin-bottom: 0;
@@ -1324,14 +1349,23 @@ button.button-black:focus {
 .post-header {
   min-height: 125px;
   padding: 37px 0;
+  text-align: center;
   background: var(--black);
   color: var(--gray-light);
 }
 .post-header h1 {
   color: var(--white-dark);
 }
-.post-header .label {
-  margin-right: 3px;
+
+.section-header {
+  min-height: 125px;
+  padding: 37px 0;
+  text-align: center;
+  background: var(--black);
+}
+.section-header h2 {
+  margin-bottom: 0;
+  font-size: 3.5rem;
 }
 
 .tag-title {
@@ -1343,48 +1377,80 @@ button.button-black:focus {
   padding: 5px;
 }
 
-.preview-section {
-  min-height: 350px;
+.game-section {
+  min-height: 240px;
   padding: 57.5px 0;
   background: var(--black-dark);
 }
-.preview-section img {
-  border-radius: 20px;
-  padding: 3px;
-  opacity: 0.9;
-  background: var(--black-light);
+.game-section img {
+  margin-bottom: 3rem;
+  border-radius: 4px;
 }
-.preview-section img:hover,
-.preview-section img:focus {
-  opacity: 1;
-  background: linear-gradient(to right, #037860, #1F1F68);
-}
-
-.previewbar {
-  min-height: 125px;
-  padding: 37px 0;
-  text-align: center;
-  background: var(--black-light);
-}
-.previewbar .button:last-child {
+.game-section .col-6:last-child img {
   margin-bottom: 0;
 }
 @media (min-width: 768px) {
-  .previewbar .button {
+  .game-section img {
+    margin-bottom: 0;
+  }
+}
+.game-buttons-section {
+  padding: 57.5px 0;
+  background: var(--black-light);
+}
+.game-buttons-section .button {
+  margin-right: 2.5rem;
+  margin-bottom: 0;
+}
+.game-buttons-section .button:last-child {
+  margin-right: 0;
+}
+@media (max-width: 767px) {
+  .game-buttons-section .button {
+    margin-right: 0;
+    margin-bottom: 2rem;
+  }
+  .game-buttons-section .button:last-child {
+    margin-right: 0;
     margin-bottom: 0;
   }
 }
 
-.info-section {
+.preview-section {
+  min-height: 240px;
+  padding: 57.5px 0;
+  background: var(--black-dark);
+}
+.preview-section img {
+  border-radius: 4px;
+  padding: 3px;
+  opacity: 0.9;
+  background: var(--black-light);
+}
+.preview-section img:hover {
+  opacity: 1;
+  background: linear-gradient(90deg, rgba(102,28,30,1) 25%, rgba(131,110,44,1) 100%);
+}
+@media (max-width: 1023px) {
+  .preview-section img  {
+    margin-bottom: 2rem;
+  }
+  .preview-section .col-6:last-child img {
+    margin-bottom: 0;
+  }
+}
+
+.details-section {
   padding: 67.5px 0;
-  background: var(--black);
-}
-.info-section a {
-  font-size: 2.5rem;
-}
-.info-section svg {
   font-size: 2rem;
-  color: var(--purple-dark);
+  background: var(--black-dark);
+  color: var(--gray);
+}
+.details-section a {
+  font-size: 2rem;
+}
+.details-section .details {
+  font-size: 2.5rem;
 }
 
 .comment-section {
@@ -1392,6 +1458,8 @@ button.button-black:focus {
 }
 
 .label {
+  display: inline-block;
+  margin-right: 1rem;
   padding: 4px 12px;
   font-size: 1.2rem;
   line-height: 1;
@@ -1427,6 +1495,7 @@ button.button-black:focus {
 }
 .label.label-white {
   background: var(--white-dark);
+  color: var(--gray-dark);
 }
 .label.label-gray {
   background: var(--gray-dark);
@@ -1438,7 +1507,7 @@ button.button-black:focus {
 .table {
   width: 100%;
   border-collapse: collapse;
-  border-spacing: 0px;
+  border-spacing: 0;
 }
 .table th, .table td {
   padding: 10px;
@@ -1459,28 +1528,33 @@ button.button-black:focus {
   background: var(--yellow-dark);
 }
 
+.wiki-svg {
+  font-size: 7rem;
+}
+
 .wiki-menu {
-  position: sticky;
-  z-index: 1;
-  top: -1px;
   padding: 37px 0;
   background: var(--black);
 }
-.wiki-menu .button {
-  margin-bottom: 0;
+@media (min-width: 768px) {
+  .wiki-menu .button {
+    margin-bottom: 0;
+  }
 }
 
-.wiki-info {
+.wiki-view {
   padding: 67.5px 0;
-  background: var(--black-dark);
 }
-.wiki-info small {
-  color: var(--gray-light);
+
+.wiki-links {
+  padding: 67.5px 0;
 }
-@media (max-width: 767px) {
-  .wiki-info .cover {
-    margin-bottom: 30px;
-  }
+.wiki-links a {
+  font-size: 2.5rem;
+}
+.wiki-links .col-6 svg {
+  font-size: 3.5rem;
+  color: var(--blue-dark);
 }
 
 .wiki-wallpapers {
@@ -1489,7 +1563,6 @@ button.button-black:focus {
 
 .wiki-cheats {
   padding: 67.5px 0;
-  background: var(--black-dark);
 }
 
 .wiki-guide {
@@ -1543,9 +1616,9 @@ button.button-black:focus {
 
 .advert-top {
   text-align: center;
-  margin-bottom: 67.5px;
+  margin-bottom: 6.75rem;
 }
 .advert-bottom {
   text-align: center;
-  margin-top: 67.5px;
+  margin-top: 6.75rem;
 }
