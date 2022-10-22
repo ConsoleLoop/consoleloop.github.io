@@ -1614,6 +1614,10 @@ button.button-black:focus {
   border: 0;
 }
 
+.post__maintag {
+  margin-right: 0;
+}
+
 .advert-top {
   text-align: center;
   margin-bottom: 6.75rem;
