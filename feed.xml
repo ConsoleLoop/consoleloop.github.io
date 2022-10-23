@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-21T17:44:21-04:00</updated>
+    <updated>2022-10-22T23:04:44-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>RX 5500 | 8GB vs 16GB RAM Benchmarks | Gears of War 4</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-gears-of-war-4/"/>
+        <id>https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-gears-of-war-4/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-22T23:04:44-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/48/thumbnail.webp" alt="Gears of War 4 Benchmark" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/JFWBmMiEayQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wolverine Release Possible In 2023, Lies Of P DLC Planned, Resident Evil Village Demo</title>
         <author>
