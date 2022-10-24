@@ -403,8 +403,8 @@ template {
     padding: 0; }
 }
 
-/* For devices larger than 768px */
-@media (min-width: 768px) {
+/* For devices larger than 1024px */
+@media (min-width: 1024px) {
   .container {
     width: 80%; }
   .col {
@@ -476,7 +476,7 @@ h5 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; }
 h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 
 /* Larger than mobile large */
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   h1 { font-size: 5.0rem; }
   h2 { font-size: 4.2rem; }
   h3 { font-size: 3.6rem; }
@@ -752,21 +752,19 @@ there.
 
 /* Tablet */
 @media (min-width: 768px) {
-  .dis-n-sm                     { display: none; }
-  .dis-b-sm                     { display: block; }
-  .dis-i-sm                     { display: inline; }
-  .dis-ib-sm                    { display: inline-block; }
-  .align-right-sm               { text-align: right; }
-  .align-center-sm              { text-align: center; }
+
 }
 @media (max-width: 1023px) {
-  .mgl-0-sm                     { margin-left: 0; }
+
 }
 
 /* Laptop */
 @media (min-width: 1024px) {
   .dis-n-md                     { display: none; }
   .dis-b-md                     { display: block; }
+  .dis-ib-md                    { display: inline-block; }
+  .align-right-md               { text-align: right; }
+  .align-center-md              { text-align: center; }
   .col-1-md                     { width: 4.66666666667%; }
   .col-2-md                     { width: 13.3333333333%; }
   .col-3-md                     { width: 22%;            }
@@ -1057,9 +1055,8 @@ ul.menu {
 }
 
 .featured {
-  min-height: 775px;
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background: var(--black);
 }
 .featured .row:last-child {
@@ -1106,6 +1103,40 @@ main article:last-child {
 }
 main article p {
   color: var(--white-dark);
+}
+
+.home_feed {
+  color: var(--gray-light);
+}
+.home_feed hr {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+.home_feed:last-child hr {
+  margin-bottom: 0;
+}
+.home_feed p {
+  font-size: 2.5rem;
+  color: var(--white-dark);
+}
+.home_feed svg {
+  margin-right: 0.5rem;
+  vertical-align: -0.125em;
+}
+.home_feed .thumbnail {
+  background: var(--black);
+}
+.home_feed .tag-seperator {
+  color: var(--black-dark);
+}
+@media (max-width: 767px) {
+  .home_tag {
+    display: block;
+    margin-top: 1rem;
+  }
+  .home_feed .tag-seperator {
+    display: none;
+  }
 }
 
 footer {
@@ -1625,4 +1656,7 @@ button.button-black:focus {
 .advert-bottom {
   text-align: center;
   margin-top: 6.75rem;
+}
+.advert-top img, .advert-bottom img {
+  max-width: 100%;
 }
