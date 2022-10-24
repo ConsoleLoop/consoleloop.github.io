@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/rx-5500-8gb-vs-16gb-ram-benchmarks-middle-earth-shadow-of-war/",
+            "url": "https://consoleloop.com/rx-5500-8gb-vs-16gb-ram-benchmarks-middle-earth-shadow-of-war/",
+            "title": "RX 5500 - 8GB vs 16GB RAM Benchmarks - Middle-Earth Shadow of War",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/RqubIwlwUOk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/52/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-23T22:39:10-04:00",
+            "date_modified": "2022-10-23T22:39:10-04:00"
+        },
+        {
             "id": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-gears-of-war-4/",
             "url": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-gears-of-war-4/",
             "title": "RX 5500 | 8GB vs 16GB RAM Benchmarks | Gears of War 4",
@@ -84,36 +99,6 @@
             ],
             "date_published": "2022-10-18T03:54:36-04:00",
             "date_modified": "2022-10-18T03:54:36-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/bayonetta-actor-claims-low-pay-konami-silent-hill-event-and-gotham-knights-is-30fps/",
-            "url": "https://consoleloop.com/bayonetta-actor-claims-low-pay-konami-silent-hill-event-and-gotham-knights-is-30fps/",
-            "title": "Bayonetta Actor Claims Low Pay, Konami Silent Hill Event, and Gotham Knights Is 30fps?",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/nuqBtZ-VZu4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/41/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-17T12:24:11-04:00",
-            "date_modified": "2022-10-17T12:24:11-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/a-new-character-joins-bloodborne-karting-and-spider-man-miles-morales-is-headed-to-pc/",
-            "url": "https://consoleloop.com/a-new-character-joins-bloodborne-karting-and-spider-man-miles-morales-is-headed-to-pc/",
-            "title": "A New Character Joins Bloodborne Karting and Spider-Man Miles Morales Is Headed To PC",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Zl3w_Hwtrlw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/40/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-14T12:27:32-04:00",
-            "date_modified": "2022-10-14T12:27:32-04:00"
         }
     ]
 }
