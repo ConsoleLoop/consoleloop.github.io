@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/",
+            "url": "https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/",
+            "title": "Bayonetta Voice Actor Controversy and Zombies Might Be Coming To Modern Warfare 2?",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/VHKdsE6pStM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/53/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-24T22:17:58-04:00",
+            "date_modified": "2022-10-24T22:18:22-04:00"
+        },
+        {
             "id": "https://consoleloop.com/rx-5500-8gb-vs-16gb-ram-benchmarks-middle-earth-shadow-of-war/",
             "url": "https://consoleloop.com/rx-5500-8gb-vs-16gb-ram-benchmarks-middle-earth-shadow-of-war/",
             "title": "RX 5500 - 8GB vs 16GB RAM Benchmarks - Middle-Earth Shadow of War",
@@ -84,21 +98,6 @@
             ],
             "date_published": "2022-10-19T18:03:21-04:00",
             "date_modified": "2022-10-19T18:03:21-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/resident-evil-village-broken-ea-online-shutdown-and-minecraft-2023-update-revealed/",
-            "url": "https://consoleloop.com/resident-evil-village-broken-ea-online-shutdown-and-minecraft-2023-update-revealed/",
-            "title": "Resident Evil Village Broken, EA Online Shutdown, and Minecraft 2023 Update Revealed",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/yXEX1ThEDzM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/42/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-18T03:54:36-04:00",
-            "date_modified": "2022-10-18T03:54:36-04:00"
         }
     ]
 }
