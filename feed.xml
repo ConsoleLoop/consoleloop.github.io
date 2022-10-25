@@ -3,7 +3,7 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-24T22:18:22-04:00</updated>
+    <updated>2022-10-25T04:47:35-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
@@ -16,13 +16,14 @@
         </author>
         <link href="https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/"/>
         <id>https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/</id>
+            <category term="Videos"/>
 
-        <updated>2022-10-24T22:18:22-04:00</updated>
+        <updated>2022-10-25T04:47:35-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/53/thumbnail.webp" alt="Console Loop 21" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/VHKdsE6pStM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/X2Ny90S5thI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
