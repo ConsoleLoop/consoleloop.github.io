@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-seems-to-be-a-scam-consoleloop/",
+            "url": "https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-seems-to-be-a-scam-consoleloop/",
+            "title": "RTX 4090 Graphics Cards Are Melting and Bloodborne Mobile Seems To Be A Scam - ConsoleLoop",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/CeAxZtrSHPs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/54/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-25T23:01:13-04:00",
+            "date_modified": "2022-10-25T23:03:17-04:00"
+        },
+        {
             "id": "https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/",
             "url": "https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/",
             "title": "Bayonetta Voice Actor Controversy and Zombies Might Be Coming To Modern Warfare 2?",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-10-20T17:27:57-04:00",
             "date_modified": "2022-10-20T17:27:57-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/",
-            "url": "https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/",
-            "title": "Spider-Man 2 On Schedule, New Mortal Kombat Game, and Modern Warfare 2 Pre-Load Times",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/OOQgnmug6XM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/43/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-19T18:03:21-04:00",
-            "date_modified": "2022-10-19T18:03:21-04:00"
         }
     ]
 }

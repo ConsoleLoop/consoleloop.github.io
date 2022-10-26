@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-25T12:49:53-04:00</updated>
+    <updated>2022-10-25T23:03:17-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>RTX 4090 Graphics Cards Are Melting and Bloodborne Mobile Seems To Be A Scam - ConsoleLoop</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-seems-to-be-a-scam-consoleloop/"/>
+        <id>https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-seems-to-be-a-scam-consoleloop/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-25T23:03:17-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/54/thumbnail.webp" alt="Console Loop 22" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/CeAxZtrSHPs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bayonetta Voice Actor Controversy and Zombies Might Be Coming To Modern Warfare 2?</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/44/thumbnail.webp" alt="ConsoleLoop 19" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/rN1GdizGcXU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Spider-Man 2 On Schedule, New Mortal Kombat Game, and Modern Warfare 2 Pre-Load Times</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/"/>
-        <id>https://consoleloop.com/spider-man-2-on-schedule-new-mortal-kombat-game-and-modern-warfare-2-pre-load-times/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-19T18:03:21-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/43/thumbnail.webp" alt="ConsoleLoop 18" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OOQgnmug6XM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
