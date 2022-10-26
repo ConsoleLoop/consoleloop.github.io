@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-26T00:02:38-04:00</updated>
+    <updated>2022-10-26T14:16:50-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Crash Bandicoot Developer Working On Warzone 2 &amp; Sony&#x27;s Creating A Development Studio</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/crash-bandicoot-developer-working-on-warzone-2-and-sonys-creating-a-development-studio/"/>
+        <id>https://consoleloop.com/crash-bandicoot-developer-working-on-warzone-2-and-sonys-creating-a-development-studio/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-26T14:16:50-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/55/thumbnail.webp" alt="Console Loop 23" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/KcyfI6hKXtg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RTX 4090 Graphics Cards Are Melting and Bloodborne Mobile Is A Scam - ConsoleLoop</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/45/thumbnail.webp" alt="ConsoleLoop 20" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/gK8GnrQBgWI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Overwatch 2 Map Disabled, Devil May Cry 5 Breaks Record and Silent Hill Games Revealed</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/overwatch-2-map-disabled-devil-may-cry-5-breaks-record-and-silent-hill-games-revealed/"/>
-        <id>https://consoleloop.com/overwatch-2-map-disabled-devil-may-cry-5-breaks-record-and-silent-hill-games-revealed/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-20T17:27:57-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/44/thumbnail.webp" alt="ConsoleLoop 19" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/rN1GdizGcXU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
