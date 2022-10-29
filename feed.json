@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/call-of-duty-might-come-to-switch-and-gotham-knights-denuvo-removal-was-a-mistake/",
+            "url": "https://consoleloop.com/call-of-duty-might-come-to-switch-and-gotham-knights-denuvo-removal-was-a-mistake/",
+            "title": "Call of Duty Might Come To Switch and Gotham Knights Denuvo Removal Was A Mistake",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/BFGpriGK1lQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/57/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-28T22:55:36-04:00",
+            "date_modified": "2022-10-28T22:55:36-04:00"
+        },
+        {
             "id": "https://consoleloop.com/genshin-impact-has-been-impacted-by-a-data-breach-and-the-witcher-remake-was-announced/",
             "url": "https://consoleloop.com/genshin-impact-has-been-impacted-by-a-data-breach-and-the-witcher-remake-was-announced/",
             "title": "Genshin Impact Has Been Impacted By A Data Breach &amp; The Witcher Remake Was Announced",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-10-23T22:39:10-04:00",
             "date_modified": "2022-10-23T22:39:10-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-gears-of-war-4/",
-            "url": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-gears-of-war-4/",
-            "title": "RX 5500 | 8GB vs 16GB RAM Benchmarks | Gears of War 4",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/N94jsvSUG7M\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/48/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-22T23:04:44-04:00",
-            "date_modified": "2022-10-25T12:49:53-04:00"
         }
     ]
 }
