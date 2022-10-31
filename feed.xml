@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-29T20:48:29-04:00</updated>
+    <updated>2022-10-30T21:12:18-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>This Is How To Disable Crossplay On Xbox Series X|S</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/"/>
+        <id>https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-30T21:12:18-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/60/thumbnail.webp" alt="Disable Crossplay On Xbox" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DZI1DbV2hK4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RX 5500 | 16GB RAM Benchmark | Call of Duty Modern Warfare 2 Beta</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/54/thumbnail.webp" alt="Console Loop 22" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/CeAxZtrSHPs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bayonetta Voice Actor Controversy and Zombies Might Be Coming To Modern Warfare 2?</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/"/>
-        <id>https://consoleloop.com/bayonetta-voice-actor-controversy-and-zombies-might-be-coming-to-modern-warfare-2/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-25T04:47:35-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/53/thumbnail.webp" alt="Console Loop 21" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/X2Ny90S5thI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
