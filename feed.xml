@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-31T20:32:12-04:00</updated>
+    <updated>2022-11-01T14:15:56-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>PlayStation Plus Subscriber Count Dropping and Modern Warfare 2 Is Breaking Records</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/playstation-plus-subscriber-count-dropping-and-modern-warfare-2-is-breaking-records/"/>
+        <id>https://consoleloop.com/playstation-plus-subscriber-count-dropping-and-modern-warfare-2-is-breaking-records/</id>
+            <category term="Videos"/>
+
+        <updated>2022-11-01T14:15:56-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/62/thumbnail.webp" alt="Console Loop 27" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/uJGdNc5jf5E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>God of War Ragnarok Released Early and Microsoft Is Taking A Hit For Every Xbox Sold</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/56/thumbnail.webp" alt="Console Loop 24" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PfluH9MaPmU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Crash Bandicoot Developer Working On Warzone 2 &amp; Sony&#x27;s Creating A Development Studio</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/crash-bandicoot-developer-working-on-warzone-2-and-sonys-creating-a-development-studio/"/>
-        <id>https://consoleloop.com/crash-bandicoot-developer-working-on-warzone-2-and-sonys-creating-a-development-studio/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-26T15:31:34-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/55/thumbnail.webp" alt="Console Loop 23" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Hj7--Hq5ul8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
