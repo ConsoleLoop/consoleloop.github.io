@@ -3,12 +3,30 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-10-30T21:12:18-04:00</updated>
+    <updated>2022-10-31T20:32:12-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>God of War Ragnarok Released Early and Microsoft Is Taking A Hit For Every Xbox Sold</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/"/>
+        <id>https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/</id>
+            <category term="Videos"/>
+
+        <updated>2022-10-31T20:32:12-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/61/thumbnail.webp" alt="Console Loop 26" />
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vx2e2Vm7kOc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>This Is How To Disable Crossplay On Xbox Series X|S</title>
         <author>
@@ -96,24 +114,6 @@
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/55/thumbnail.webp" alt="Console Loop 23" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Hj7--Hq5ul8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>RTX 4090 Graphics Cards Are Melting and Bloodborne Mobile Is A Scam - ConsoleLoop</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-is-a-scam-consoleloop/"/>
-        <id>https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-is-a-scam-consoleloop/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-26T00:02:38-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/54/thumbnail.webp" alt="Console Loop 22" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/CeAxZtrSHPs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

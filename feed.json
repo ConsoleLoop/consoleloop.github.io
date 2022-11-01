@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/",
+            "url": "https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/",
+            "title": "God of War Ragnarok Released Early and Microsoft Is Taking A Hit For Every Xbox Sold",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/vx2e2Vm7kOc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/61/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos"
+            ],
+            "date_published": "2022-10-31T20:32:12-04:00",
+            "date_modified": "2022-10-31T20:32:12-04:00"
+        },
+        {
             "id": "https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/",
             "url": "https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/",
             "title": "This Is How To Disable Crossplay On Xbox Series X|S",
@@ -84,21 +99,6 @@
             ],
             "date_published": "2022-10-26T14:16:50-04:00",
             "date_modified": "2022-10-26T15:31:34-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-is-a-scam-consoleloop/",
-            "url": "https://consoleloop.com/rtx-4090-graphics-cards-are-melting-and-bloodborne-mobile-is-a-scam-consoleloop/",
-            "title": "RTX 4090 Graphics Cards Are Melting and Bloodborne Mobile Is A Scam - ConsoleLoop",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/CeAxZtrSHPs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/54/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-25T23:01:13-04:00",
-            "date_modified": "2022-10-26T00:02:38-04:00"
         }
     ]
 }
