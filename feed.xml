@@ -3,12 +3,31 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-01T14:15:56-04:00</updated>
+    <updated>2022-11-01T23:14:32-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>A Crappy Way to Die Achievement | Call of Duty Modern Warfare 2</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/a-crappy-way-to-die-achievement-call-of-duty-modern-warfare-2/"/>
+        <id>https://consoleloop.com/a-crappy-way-to-die-achievement-call-of-duty-modern-warfare-2/</id>
+            <category term="Videos"/>
+            <category term="Call of Duty Modern Warfare 2 Videos"/>
+
+        <updated>2022-11-01T23:09:41-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://consoleloop.com/media/posts/63/thumbnail.webp" alt="A Crappy Way to Die Achievement" />
+                <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/g0O8fWedDNk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>PlayStation Plus Subscriber Count Dropping and Modern Warfare 2 Is Breaking Records</title>
         <author>
@@ -17,8 +36,9 @@
         <link href="https://consoleloop.com/playstation-plus-subscriber-count-dropping-and-modern-warfare-2-is-breaking-records/"/>
         <id>https://consoleloop.com/playstation-plus-subscriber-count-dropping-and-modern-warfare-2-is-breaking-records/</id>
             <category term="Videos"/>
+            <category term="Console Loops"/>
 
-        <updated>2022-11-01T14:15:56-04:00</updated>
+        <updated>2022-11-01T23:10:42-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -35,8 +55,9 @@
         <link href="https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/"/>
         <id>https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/</id>
             <category term="Videos"/>
+            <category term="Console Loops"/>
 
-        <updated>2022-10-31T20:32:12-04:00</updated>
+        <updated>2022-11-01T23:11:31-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -71,8 +92,9 @@
         <link href="https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/"/>
         <id>https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/</id>
             <category term="Videos"/>
+            <category term="Benchmarks"/>
 
-        <updated>2022-10-29T20:48:29-04:00</updated>
+        <updated>2022-11-01T23:14:23-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -89,31 +111,14 @@
         <link href="https://consoleloop.com/call-of-duty-might-come-to-switch-and-gotham-knights-denuvo-removal-was-a-mistake/"/>
         <id>https://consoleloop.com/call-of-duty-might-come-to-switch-and-gotham-knights-denuvo-removal-was-a-mistake/</id>
             <category term="Videos"/>
+            <category term="Console Loops"/>
 
-        <updated>2022-10-28T22:55:36-04:00</updated>
+        <updated>2022-11-01T23:14:32-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://consoleloop.com/media/posts/57/thumbnail.webp" alt="Console Loop 25" />
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/BFGpriGK1lQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Genshin Impact Has Been Impacted By A Data Breach &amp; The Witcher Remake Was Announced</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/genshin-impact-has-been-impacted-by-a-data-breach-and-the-witcher-remake-was-announced/"/>
-        <id>https://consoleloop.com/genshin-impact-has-been-impacted-by-a-data-breach-and-the-witcher-remake-was-announced/</id>
-            <category term="Videos"/>
-
-        <updated>2022-10-27T22:41:31-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/56/thumbnail.webp" alt="Console Loop 24" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PfluH9MaPmU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
