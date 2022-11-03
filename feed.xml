@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-01T23:14:32-04:00</updated>
+    <updated>2022-11-02T20:59:20-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Crash Bandicoot - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/crash-bandicoot-gaming-trivia/"/>
+        <id>https://consoleloop.com/crash-bandicoot-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/64/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-02T20:59:20-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/64/thumbnail.webp" class="type:primaryImage" alt="Crash Bandicoot Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/H0dv6cNcyl0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Crappy Way to Die Achievement | Call of Duty Modern Warfare 2</title>
         <author>
@@ -16,6 +36,7 @@
         </author>
         <link href="https://consoleloop.com/a-crappy-way-to-die-achievement-call-of-duty-modern-warfare-2/"/>
         <id>https://consoleloop.com/a-crappy-way-to-die-achievement-call-of-duty-modern-warfare-2/</id>
+        <media:content url="https://consoleloop.com/media/posts/63/thumbnail.webp" medium="image" />
             <category term="Videos"/>
             <category term="Call of Duty Modern Warfare 2 Videos"/>
 
@@ -23,7 +44,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/63/thumbnail.webp" alt="A Crappy Way to Die Achievement" />
+                    <p><img src="https://consoleloop.com/media/posts/63/thumbnail.webp" class="type:primaryImage" alt="A Crappy Way to Die Achievement" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/g0O8fWedDNk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
@@ -35,6 +56,7 @@
         </author>
         <link href="https://consoleloop.com/playstation-plus-subscriber-count-dropping-and-modern-warfare-2-is-breaking-records/"/>
         <id>https://consoleloop.com/playstation-plus-subscriber-count-dropping-and-modern-warfare-2-is-breaking-records/</id>
+        <media:content url="https://consoleloop.com/media/posts/62/thumbnail.webp" medium="image" />
             <category term="Videos"/>
             <category term="Console Loops"/>
 
@@ -42,7 +64,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/62/thumbnail.webp" alt="Console Loop 27" />
+                    <p><img src="https://consoleloop.com/media/posts/62/thumbnail.webp" class="type:primaryImage" alt="Console Loop 27" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/uJGdNc5jf5E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
@@ -54,6 +76,7 @@
         </author>
         <link href="https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/"/>
         <id>https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/</id>
+        <media:content url="https://consoleloop.com/media/posts/61/thumbnail.webp" medium="image" />
             <category term="Videos"/>
             <category term="Console Loops"/>
 
@@ -61,7 +84,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/61/thumbnail.webp" alt="Console Loop 26" />
+                    <p><img src="https://consoleloop.com/media/posts/61/thumbnail.webp" class="type:primaryImage" alt="Console Loop 26" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vx2e2Vm7kOc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
@@ -73,13 +96,14 @@
         </author>
         <link href="https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/"/>
         <id>https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/</id>
+        <media:content url="https://consoleloop.com/media/posts/60/thumbnail.webp" medium="image" />
             <category term="Videos"/>
 
         <updated>2022-10-30T21:12:18-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/60/thumbnail.webp" alt="Disable Crossplay On Xbox" />
+                    <p><img src="https://consoleloop.com/media/posts/60/thumbnail.webp" class="type:primaryImage" alt="Disable Crossplay On Xbox" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DZI1DbV2hK4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
@@ -91,6 +115,7 @@
         </author>
         <link href="https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/"/>
         <id>https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/</id>
+        <media:content url="https://consoleloop.com/media/posts/58/thumbnail.webp" medium="image" />
             <category term="Videos"/>
             <category term="Benchmarks"/>
 
@@ -98,27 +123,8 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/58/thumbnail.webp" alt="Call of Duty Modern Warfare 2 Beta Benchmark" />
+                    <p><img src="https://consoleloop.com/media/posts/58/thumbnail.webp" class="type:primaryImage" alt="Call of Duty Modern Warfare 2 Beta Benchmark" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/tIHi2U4Lntg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Call of Duty Might Come To Switch and Gotham Knights Denuvo Removal Was A Mistake</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/call-of-duty-might-come-to-switch-and-gotham-knights-denuvo-removal-was-a-mistake/"/>
-        <id>https://consoleloop.com/call-of-duty-might-come-to-switch-and-gotham-knights-denuvo-removal-was-a-mistake/</id>
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-01T23:14:32-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://consoleloop.com/media/posts/57/thumbnail.webp" alt="Console Loop 25" />
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/BFGpriGK1lQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
