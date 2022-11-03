@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-02T21:51:35-04:00</updated>
+    <updated>2022-11-03T19:49:36-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Battlefield 3 - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/battlefield-3-gaming-trivia/"/>
+        <id>https://consoleloop.com/battlefield-3-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/66/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-03T19:49:36-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/66/thumbnail.webp" class="type:primaryImage" alt="Battlefield 3 Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/h1iSNhAnJ4g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The PlayStation VR2 Price Revealed and Square Enix Montreal Has Been Shut Down</title>
         <author>
@@ -106,25 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/61/thumbnail.webp" class="type:primaryImage" alt="Console Loop 26" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vx2e2Vm7kOc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>This Is How To Disable Crossplay On Xbox Series X|S</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/"/>
-        <id>https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/</id>
-        <media:content url="https://consoleloop.com/media/posts/60/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-
-        <updated>2022-10-30T21:12:18-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/60/thumbnail.webp" class="type:primaryImage" alt="Disable Crossplay On Xbox" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DZI1DbV2hK4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

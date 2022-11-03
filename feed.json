@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/battlefield-3-gaming-trivia/",
+            "url": "https://consoleloop.com/battlefield-3-gaming-trivia/",
+            "title": "Battlefield 3 - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"453\" height=\"805\" src=\"https://www.youtube.com/embed/h1iSNhAnJ4g\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/66/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-03T19:49:36-04:00",
+            "date_modified": "2022-11-03T19:49:36-04:00"
+        },
+        {
             "id": "https://consoleloop.com/the-playstation-vr2-price-revealed-and-square-enix-montreal-has-been-shut-down/",
             "url": "https://consoleloop.com/the-playstation-vr2-price-revealed-and-square-enix-montreal-has-been-shut-down/",
             "title": "The PlayStation VR2 Price Revealed and Square Enix Montreal Has Been Shut Down",
@@ -89,21 +105,6 @@
             ],
             "date_published": "2022-10-31T20:32:12-04:00",
             "date_modified": "2022-11-01T23:11:31-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/",
-            "url": "https://consoleloop.com/this-is-how-to-disable-crossplay-on-xbox-series-x-or-s/",
-            "title": "This Is How To Disable Crossplay On Xbox Series X|S",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/DZI1DbV2hK4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/60/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos"
-            ],
-            "date_published": "2022-10-30T19:38:07-04:00",
-            "date_modified": "2022-10-30T21:12:18-04:00"
         }
     ]
 }
