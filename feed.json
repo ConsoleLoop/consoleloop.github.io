@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/the-playstation-vr2-price-revealed-and-square-enix-montreal-has-been-shut-down/",
+            "url": "https://consoleloop.com/the-playstation-vr2-price-revealed-and-square-enix-montreal-has-been-shut-down/",
+            "title": "The PlayStation VR2 Price Revealed and Square Enix Montreal Has Been Shut Down",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/VWT_x-07ixw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/65/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-11-02T21:51:35-04:00",
+            "date_modified": "2022-11-02T21:51:35-04:00"
+        },
+        {
             "id": "https://consoleloop.com/crash-bandicoot-gaming-trivia/",
             "url": "https://consoleloop.com/crash-bandicoot-gaming-trivia/",
             "title": "Crash Bandicoot - Gaming Trivia",
@@ -88,22 +104,6 @@
             ],
             "date_published": "2022-10-30T19:38:07-04:00",
             "date_modified": "2022-10-30T21:12:18-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/",
-            "url": "https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/",
-            "title": "RX 5500 | 16GB RAM Benchmark | Call of Duty Modern Warfare 2 Beta",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/tIHi2U4Lntg\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/58/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Benchmarks"
-            ],
-            "date_published": "2022-10-29T20:48:29-04:00",
-            "date_modified": "2022-11-01T23:14:23-04:00"
         }
     ]
 }

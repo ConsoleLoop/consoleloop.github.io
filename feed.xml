@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-02T20:59:20-04:00</updated>
+    <updated>2022-11-02T21:51:35-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>The PlayStation VR2 Price Revealed and Square Enix Montreal Has Been Shut Down</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/the-playstation-vr2-price-revealed-and-square-enix-montreal-has-been-shut-down/"/>
+        <id>https://consoleloop.com/the-playstation-vr2-price-revealed-and-square-enix-montreal-has-been-shut-down/</id>
+        <media:content url="https://consoleloop.com/media/posts/65/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-02T21:51:35-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/65/thumbnail.webp" class="type:primaryImage" alt="Console Loop 28" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/VWT_x-07ixw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Crash Bandicoot - Gaming Trivia</title>
         <author>
@@ -105,26 +125,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/60/thumbnail.webp" class="type:primaryImage" alt="Disable Crossplay On Xbox" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DZI1DbV2hK4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>RX 5500 | 16GB RAM Benchmark | Call of Duty Modern Warfare 2 Beta</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/"/>
-        <id>https://consoleloop.com/rx-5500-or-16gb-ram-benchmark-or-call-of-duty-modern-warfare-2-beta/</id>
-        <media:content url="https://consoleloop.com/media/posts/58/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Benchmarks"/>
-
-        <updated>2022-11-01T23:14:23-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/58/thumbnail.webp" class="type:primaryImage" alt="Call of Duty Modern Warfare 2 Beta Benchmark" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/tIHi2U4Lntg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
