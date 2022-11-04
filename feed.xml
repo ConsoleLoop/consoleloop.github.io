@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-03T19:49:36-04:00</updated>
+    <updated>2022-11-03T23:30:00-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Kojima Addresses Abandoned Rumors and Nintendo Has Revealed Black Friday 2022 Deals</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/kojima-addresses-abandoned-rumors-and-nintendo-has-revealed-black-friday-2022-deals/"/>
+        <id>https://consoleloop.com/kojima-addresses-abandoned-rumors-and-nintendo-has-revealed-black-friday-2022-deals/</id>
+        <media:content url="https://consoleloop.com/media/posts/67/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-03T23:30:00-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/67/thumbnail.webp" class="type:primaryImage" alt="Console Loop 29" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/s9217r_45UQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Battlefield 3 - Gaming Trivia</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/62/thumbnail.webp" class="type:primaryImage" alt="Console Loop 27" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/uJGdNc5jf5E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>God of War Ragnarok Released Early and Microsoft Is Taking A Hit For Every Xbox Sold</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/"/>
-        <id>https://consoleloop.com/god-of-war-ragnarok-released-early-and-microsoft-is-taking-a-hit-for-every-xbox-sold/</id>
-        <media:content url="https://consoleloop.com/media/posts/61/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-01T23:11:31-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/61/thumbnail.webp" class="type:primaryImage" alt="Console Loop 26" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vx2e2Vm7kOc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
