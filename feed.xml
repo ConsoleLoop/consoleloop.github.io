@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-04T18:42:30-04:00</updated>
+    <updated>2022-11-05T11:08:20-04:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Gentleman Thief Achievement | Call of Duty Modern Warfare 2</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/gentleman-thief-achievement-call-of-duty-modern-warfare-2/"/>
+        <id>https://consoleloop.com/gentleman-thief-achievement-call-of-duty-modern-warfare-2/</id>
+        <media:content url="https://consoleloop.com/media/posts/69/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Call of Duty Modern Warfare 2 Videos"/>
+
+        <updated>2022-11-05T11:08:20-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/69/thumbnail.webp" class="type:primaryImage" alt="Gentleman Thief Achievement" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/8lOe6oxQI78" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ghostwire Tokyo Seems Confirmed For Xbox and AMD Revealed Next-Gen GPU&#x27;s</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/64/thumbnail.webp" class="type:primaryImage" alt="Crash Bandicoot Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/H0dv6cNcyl0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A Crappy Way to Die Achievement | Call of Duty Modern Warfare 2</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/a-crappy-way-to-die-achievement-call-of-duty-modern-warfare-2/"/>
-        <id>https://consoleloop.com/a-crappy-way-to-die-achievement-call-of-duty-modern-warfare-2/</id>
-        <media:content url="https://consoleloop.com/media/posts/63/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Call of Duty Modern Warfare 2 Videos"/>
-
-        <updated>2022-11-01T23:09:41-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/63/thumbnail.webp" class="type:primaryImage" alt="A Crappy Way to Die Achievement" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/g0O8fWedDNk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
