@@ -11,9 +11,25 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/rollercoaster-tycoon-3-gaming-trivia/",
+            "url": "https://consoleloop.com/rollercoaster-tycoon-3-gaming-trivia/",
+            "title": "RollerCoaster Tycoon 3 - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"453\" height=\"805\" src=\"https://www.youtube.com/embed/lmgD-7Ki7oM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/70/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-06T18:58:05-05:00",
+            "date_modified": "2022-11-06T18:58:05-05:00"
+        },
+        {
             "id": "https://consoleloop.com/gentleman-thief-achievement-call-of-duty-modern-warfare-2/",
             "url": "https://consoleloop.com/gentleman-thief-achievement-call-of-duty-modern-warfare-2/",
-            "title": "Gentleman Thief Achievement | Call of Duty Modern Warfare 2",
+            "title": "Gentleman Thief Achievement - Call of Duty Modern Warfare 2",
             "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"453\" height=\"805\" src=\"https://www.youtube.com/embed/8lOe6oxQI78\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
             "image": "https://consoleloop.com/media/posts/69/thumbnail.webp",
             "author": {
@@ -24,7 +40,7 @@
                    "Call of Duty Modern Warfare 2 Videos"
             ],
             "date_published": "2022-11-05T11:08:20-04:00",
-            "date_modified": "2022-11-05T11:08:20-04:00"
+            "date_modified": "2022-11-06T18:51:27-05:00"
         },
         {
             "id": "https://consoleloop.com/ghostwire-tokyo-seems-confirmed-for-xbox-and-amd-revealed-next-gen-gpus/",
@@ -89,22 +105,6 @@
             ],
             "date_published": "2022-11-02T21:51:35-04:00",
             "date_modified": "2022-11-02T21:51:35-04:00"
-        },
-        {
-            "id": "https://consoleloop.com/crash-bandicoot-gaming-trivia/",
-            "url": "https://consoleloop.com/crash-bandicoot-gaming-trivia/",
-            "title": "Crash Bandicoot - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"453\" height=\"805\" src=\"https://www.youtube.com/embed/H0dv6cNcyl0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/64/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-02T20:56:25-04:00",
-            "date_modified": "2022-11-02T20:59:20-04:00"
         }
     ]
 }
