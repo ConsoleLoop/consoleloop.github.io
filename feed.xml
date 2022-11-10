@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-09T22:16:32-05:00</updated>
+    <updated>2022-11-10T15:12:51-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Marvel&#x27;s Wolverine - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/marvels-wolverine-gaming-trivia/"/>
+        <id>https://consoleloop.com/marvels-wolverine-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/77/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-10T15:12:51-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/77/thumbnail.webp" class="type:primaryImage" alt="Marvel&#x27;s Wolverine Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/33cRXYoMvTA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Doom Eternal Hit With Soundtrack Controversy and Animal Crossing Tops Charts In Japan</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/72/thumbnail.webp" class="type:primaryImage" alt="Console Loop 31" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/b_lPUZHRNGs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Steam - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/steam-gaming-trivia/"/>
-        <id>https://consoleloop.com/steam-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/71/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-07T16:21:56-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/71/thumbnail.webp" class="type:primaryImage" alt="Steam Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="453" height="805" src="https://www.youtube.com/embed/5IonAtcP3HE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
