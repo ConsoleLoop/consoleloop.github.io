@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/doom-eternal-hit-with-soundtrack-controversy-and-animal-crossing-tops-charts-in-japan/",
+            "url": "https://consoleloop.com/doom-eternal-hit-with-soundtrack-controversy-and-animal-crossing-tops-charts-in-japan/",
+            "title": "Doom Eternal Hit With Soundtrack Controversy and Animal Crossing Tops Charts In Japan",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/D9arz_ceDxc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/76/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-11-09T22:16:32-05:00",
+            "date_modified": "2022-11-09T22:16:32-05:00"
+        },
+        {
             "id": "https://consoleloop.com/minecraft-gaming-trivia/",
             "url": "https://consoleloop.com/minecraft-gaming-trivia/",
             "title": "Minecraft - Gaming Trivia",
@@ -89,22 +105,6 @@
             ],
             "date_published": "2022-11-07T16:19:46-05:00",
             "date_modified": "2022-11-07T16:21:56-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/rollercoaster-tycoon-3-gaming-trivia/",
-            "url": "https://consoleloop.com/rollercoaster-tycoon-3-gaming-trivia/",
-            "title": "RollerCoaster Tycoon 3 - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"453\" height=\"805\" src=\"https://www.youtube.com/embed/lmgD-7Ki7oM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/70/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-06T18:58:05-05:00",
-            "date_modified": "2022-11-06T18:58:05-05:00"
         }
     ]
 }
