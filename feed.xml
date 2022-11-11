@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-10T15:12:51-05:00</updated>
+    <updated>2022-11-10T20:52:51-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Battlefield 2042 Is Coming To Game Pass Ultimate and Dark Souls Servers Back Online</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/battlefield-2042-is-coming-to-game-pass-ultimate-and-dark-souls-servers-back-online/"/>
+        <id>https://consoleloop.com/battlefield-2042-is-coming-to-game-pass-ultimate-and-dark-souls-servers-back-online/</id>
+        <media:content url="https://consoleloop.com/media/posts/78/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-10T20:52:51-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/78/thumbnail.webp" class="type:primaryImage" alt="Console Loop 34" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/5SaRAiatx3o" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Marvel&#x27;s Wolverine - Gaming Trivia</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/73/thumbnail.webp" class="type:primaryImage" alt="Marvel&#x27;s Spider-Man Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/IFvkOd1q01w" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kojima&#x27;s Cloud-Based Game Leaked and Ratchet &amp; Clank Rift Apart Is Getting Free DLC - Console Loop</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/kojimas-cloud-based-game-leaked-and-ratchet-and-clank-rift-apart-is-getting-free-dlc-console-loop/"/>
-        <id>https://consoleloop.com/kojimas-cloud-based-game-leaked-and-ratchet-and-clank-rift-apart-is-getting-free-dlc-console-loop/</id>
-        <media:content url="https://consoleloop.com/media/posts/72/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-07T23:06:29-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/72/thumbnail.webp" class="type:primaryImage" alt="Console Loop 31" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/b_lPUZHRNGs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
