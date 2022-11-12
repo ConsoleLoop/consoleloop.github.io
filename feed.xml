@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-11T17:40:35-05:00</updated>
+    <updated>2022-11-11T23:32:13-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Control 2 Has Been Confirmed and Hogwarts Legacy Shows New Look At Gameplay</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/control-2-has-been-confirmed-and-hogwarts-legacy-shows-new-look-at-gameplay/"/>
+        <id>https://consoleloop.com/control-2-has-been-confirmed-and-hogwarts-legacy-shows-new-look-at-gameplay/</id>
+        <media:content url="https://consoleloop.com/media/posts/80/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-11T23:32:13-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/80/thumbnail.webp" class="type:primaryImage" alt="Console Loop 35" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/04cwPST3KvQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Invincibility Glitch - Call of Duty Modern Warfare 2</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/75/thumbnail.webp" class="type:primaryImage" alt="Minecraft Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/NBl-ZGUjDo0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Project Cars Is Coming To An End and Ubisoft Is Refunding Prince of Persia Pre-orders</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/project-cars-is-coming-to-an-end-and-ubisoft-is-refunding-prince-of-persia-pre-orders/"/>
-        <id>https://consoleloop.com/project-cars-is-coming-to-an-end-and-ubisoft-is-refunding-prince-of-persia-pre-orders/</id>
-        <media:content url="https://consoleloop.com/media/posts/74/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-08T22:26:32-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/74/thumbnail.webp" class="type:primaryImage" alt="Console Loop 32" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Ka6m5HvcuX4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
