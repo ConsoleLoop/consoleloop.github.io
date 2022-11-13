@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-12T19:30:12-05:00</updated>
+    <updated>2022-11-13T12:28:11-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>RX 5500 | 8GB vs 16GB RAM Benchmarks | Assassin&#x27;s Creed Odyssey</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/"/>
+        <id>https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/</id>
+        <media:content url="https://consoleloop.com/media/posts/82/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Benchmarks"/>
+
+        <updated>2022-11-13T12:28:11-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/82/thumbnail.webp" class="type:primaryImage" alt="Assassin&#x27;s Creed Odyssey Benchmark" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/wrv-16cpLU0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RX 5500 | 8GB vs 16GB RAM Benchmarks | Rise of the Tomb Raider</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/77/thumbnail.webp" class="type:primaryImage" alt="Marvel&#x27;s Wolverine Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/33cRXYoMvTA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Doom Eternal Hit With Soundtrack Controversy and Animal Crossing Tops Charts In Japan</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/doom-eternal-hit-with-soundtrack-controversy-and-animal-crossing-tops-charts-in-japan/"/>
-        <id>https://consoleloop.com/doom-eternal-hit-with-soundtrack-controversy-and-animal-crossing-tops-charts-in-japan/</id>
-        <media:content url="https://consoleloop.com/media/posts/76/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-09T22:16:32-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/76/thumbnail.webp" class="type:primaryImage" alt="Console Loop 33" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/D9arz_ceDxc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
