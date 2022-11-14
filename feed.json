@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/xbox-gaming-trivia/",
+            "url": "https://consoleloop.com/xbox-gaming-trivia/",
+            "title": "Xbox - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/cztJ7aqlq1I\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/84/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-14T12:15:43-05:00",
+            "date_modified": "2022-11-14T12:16:10-05:00"
+        },
+        {
+            "id": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-immortals-fenyx-rising/",
+            "url": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-immortals-fenyx-rising/",
+            "title": "RX 5500 | 8GB vs 16GB RAM Benchmarks | Immortals Fenyx Rising",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Kp5lyQmqLDI\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/83/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Benchmarks"
+            ],
+            "date_published": "2022-11-14T12:14:09-05:00",
+            "date_modified": "2022-11-14T12:14:09-05:00"
+        },
+        {
             "id": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/",
             "url": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/",
             "title": "RX 5500 | 8GB vs 16GB RAM Benchmarks | Assassin&#x27;s Creed Odyssey",
@@ -73,38 +105,6 @@
             ],
             "date_published": "2022-11-11T17:40:35-05:00",
             "date_modified": "2022-11-11T17:40:35-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/battlefield-2042-is-coming-to-game-pass-ultimate-and-dark-souls-servers-back-online/",
-            "url": "https://consoleloop.com/battlefield-2042-is-coming-to-game-pass-ultimate-and-dark-souls-servers-back-online/",
-            "title": "Battlefield 2042 Is Coming To Game Pass Ultimate and Dark Souls Servers Back Online",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/5SaRAiatx3o\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/78/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Console Loops"
-            ],
-            "date_published": "2022-11-10T20:52:51-05:00",
-            "date_modified": "2022-11-10T20:52:51-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/marvels-wolverine-gaming-trivia/",
-            "url": "https://consoleloop.com/marvels-wolverine-gaming-trivia/",
-            "title": "Marvel&#x27;s Wolverine - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/33cRXYoMvTA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/77/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-10T15:12:51-05:00",
-            "date_modified": "2022-11-10T15:12:51-05:00"
         }
     ]
 }
