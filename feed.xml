@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-14T12:16:10-05:00</updated>
+    <updated>2022-11-15T15:59:25-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Ghost of Tsushima - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/ghost-of-tsushima-gaming-trivia/"/>
+        <id>https://consoleloop.com/ghost-of-tsushima-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/86/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-15T15:59:25-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/86/thumbnail.webp" class="type:primaryImage" alt="Ghost of Tsushima Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/SS4jdBdYIs4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>New Naruto Game Might Have Leaked and 2022 Game Awards Nominees Revealed</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/"/>
+        <id>https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/</id>
+        <media:content url="https://consoleloop.com/media/posts/85/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-15T15:56:04-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/85/thumbnail.webp" class="type:primaryImage" alt="Console Loop 36" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/iEft6TOQG-s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Xbox - Gaming Trivia</title>
         <author>
@@ -86,46 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/81/thumbnail.webp" class="type:primaryImage" alt="Rise of the Tomb Raider Benchmark" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/25V9rtG9vjc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Control 2 Has Been Confirmed and Hogwarts Legacy Shows New Look At Gameplay</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/control-2-has-been-confirmed-and-hogwarts-legacy-shows-new-look-at-gameplay/"/>
-        <id>https://consoleloop.com/control-2-has-been-confirmed-and-hogwarts-legacy-shows-new-look-at-gameplay/</id>
-        <media:content url="https://consoleloop.com/media/posts/80/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-11T23:32:13-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/80/thumbnail.webp" class="type:primaryImage" alt="Console Loop 35" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/04cwPST3KvQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Invincibility Glitch - Call of Duty Modern Warfare 2</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/invincibility-glitch-call-of-duty-modern-warfare-2/"/>
-        <id>https://consoleloop.com/invincibility-glitch-call-of-duty-modern-warfare-2/</id>
-        <media:content url="https://consoleloop.com/media/posts/79/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Call of Duty Modern Warfare 2 Videos"/>
-
-        <updated>2022-11-11T17:40:35-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/79/thumbnail.webp" class="type:primaryImage" alt="Call of Duty Invincibility Glitch" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/9r2mckggjF4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

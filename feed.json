@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/ghost-of-tsushima-gaming-trivia/",
+            "url": "https://consoleloop.com/ghost-of-tsushima-gaming-trivia/",
+            "title": "Ghost of Tsushima - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/SS4jdBdYIs4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/86/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-15T15:59:25-05:00",
+            "date_modified": "2022-11-15T15:59:25-05:00"
+        },
+        {
+            "id": "https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/",
+            "url": "https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/",
+            "title": "New Naruto Game Might Have Leaked and 2022 Game Awards Nominees Revealed",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/iEft6TOQG-s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/85/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-11-15T15:56:04-05:00",
+            "date_modified": "2022-11-15T15:56:04-05:00"
+        },
+        {
             "id": "https://consoleloop.com/xbox-gaming-trivia/",
             "url": "https://consoleloop.com/xbox-gaming-trivia/",
             "title": "Xbox - Gaming Trivia",
@@ -73,38 +105,6 @@
             ],
             "date_published": "2022-11-12T19:30:12-05:00",
             "date_modified": "2022-11-12T19:30:12-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/control-2-has-been-confirmed-and-hogwarts-legacy-shows-new-look-at-gameplay/",
-            "url": "https://consoleloop.com/control-2-has-been-confirmed-and-hogwarts-legacy-shows-new-look-at-gameplay/",
-            "title": "Control 2 Has Been Confirmed and Hogwarts Legacy Shows New Look At Gameplay",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/04cwPST3KvQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/80/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Console Loops"
-            ],
-            "date_published": "2022-11-11T23:32:13-05:00",
-            "date_modified": "2022-11-11T23:32:13-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/invincibility-glitch-call-of-duty-modern-warfare-2/",
-            "url": "https://consoleloop.com/invincibility-glitch-call-of-duty-modern-warfare-2/",
-            "title": "Invincibility Glitch - Call of Duty Modern Warfare 2",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/9r2mckggjF4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/79/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Call of Duty Modern Warfare 2 Videos"
-            ],
-            "date_published": "2022-11-11T17:40:35-05:00",
-            "date_modified": "2022-11-11T17:40:35-05:00"
         }
     ]
 }
