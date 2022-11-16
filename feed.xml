@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-15T15:59:25-05:00</updated>
+    <updated>2022-11-16T14:34:54-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Uncharted Drake&#x27;s Fortune - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/uncharted-drakes-fortune-gaming-trivia/"/>
+        <id>https://consoleloop.com/uncharted-drakes-fortune-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/88/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-16T14:34:54-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/88/thumbnail.webp" class="type:primaryImage" alt="Uncharted Drake&#x27;s Fortune Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/KbbEasyzKg8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>PlayStation VR 2 Game Prices Revealed and Overwatch 2 Mid-Season Update Delayed</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/"/>
+        <id>https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/</id>
+        <media:content url="https://consoleloop.com/media/posts/87/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-16T14:33:40-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/87/thumbnail.webp" class="type:primaryImage" alt="Console Loop 37" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ufhVuSBp-OU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ghost of Tsushima - Gaming Trivia</title>
         <author>
@@ -86,46 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/83/thumbnail.webp" class="type:primaryImage" alt="Immortals Fenyx Rising Benchmark" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Kp5lyQmqLDI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>RX 5500 | 8GB vs 16GB RAM Benchmarks | Assassin&#x27;s Creed Odyssey</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/"/>
-        <id>https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/</id>
-        <media:content url="https://consoleloop.com/media/posts/82/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Benchmarks"/>
-
-        <updated>2022-11-13T12:28:11-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/82/thumbnail.webp" class="type:primaryImage" alt="Assassin&#x27;s Creed Odyssey Benchmark" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/wrv-16cpLU0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>RX 5500 | 8GB vs 16GB RAM Benchmarks | Rise of the Tomb Raider</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-rise-of-the-tomb-raider/"/>
-        <id>https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-rise-of-the-tomb-raider/</id>
-        <media:content url="https://consoleloop.com/media/posts/81/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Benchmarks"/>
-
-        <updated>2022-11-12T19:30:12-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/81/thumbnail.webp" class="type:primaryImage" alt="Rise of the Tomb Raider Benchmark" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/25V9rtG9vjc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

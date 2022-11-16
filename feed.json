@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/uncharted-drakes-fortune-gaming-trivia/",
+            "url": "https://consoleloop.com/uncharted-drakes-fortune-gaming-trivia/",
+            "title": "Uncharted Drake&#x27;s Fortune - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/KbbEasyzKg8\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/88/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-16T14:34:54-05:00",
+            "date_modified": "2022-11-16T14:34:54-05:00"
+        },
+        {
+            "id": "https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/",
+            "url": "https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/",
+            "title": "PlayStation VR 2 Game Prices Revealed and Overwatch 2 Mid-Season Update Delayed",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ufhVuSBp-OU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/87/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-11-16T14:33:40-05:00",
+            "date_modified": "2022-11-16T14:33:40-05:00"
+        },
+        {
             "id": "https://consoleloop.com/ghost-of-tsushima-gaming-trivia/",
             "url": "https://consoleloop.com/ghost-of-tsushima-gaming-trivia/",
             "title": "Ghost of Tsushima - Gaming Trivia",
@@ -73,38 +105,6 @@
             ],
             "date_published": "2022-11-14T12:14:09-05:00",
             "date_modified": "2022-11-14T12:14:09-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/",
-            "url": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-assassins-creed-odyssey/",
-            "title": "RX 5500 | 8GB vs 16GB RAM Benchmarks | Assassin&#x27;s Creed Odyssey",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/wrv-16cpLU0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/82/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Benchmarks"
-            ],
-            "date_published": "2022-11-13T12:28:11-05:00",
-            "date_modified": "2022-11-13T12:28:11-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-rise-of-the-tomb-raider/",
-            "url": "https://consoleloop.com/rx-5500-or-8gb-vs-16gb-ram-benchmarks-or-rise-of-the-tomb-raider/",
-            "title": "RX 5500 | 8GB vs 16GB RAM Benchmarks | Rise of the Tomb Raider",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/25V9rtG9vjc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/81/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Benchmarks"
-            ],
-            "date_published": "2022-11-12T19:30:12-05:00",
-            "date_modified": "2022-11-12T19:30:12-05:00"
         }
     ]
 }
