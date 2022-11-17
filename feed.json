@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/",
+            "url": "https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/",
+            "title": "Bethesda Rejects Mick Gordon&#x27;s Allegations and Dead Island 2 Has Been Delayed Again",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/eilFeQnzFkw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/91/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-11-17T17:14:33-05:00",
+            "date_modified": "2022-11-17T17:14:33-05:00"
+        },
+        {
+            "id": "https://consoleloop.com/gotham-knights-gaming-trivia/",
+            "url": "https://consoleloop.com/gotham-knights-gaming-trivia/",
+            "title": "Gotham Knights - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/vGag00qcL6E\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/90/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-17T17:13:27-05:00",
+            "date_modified": "2022-11-17T17:13:27-05:00"
+        },
+        {
             "id": "https://consoleloop.com/tony-hawks-underground-xbox-series-s-frame-rate-test/",
             "url": "https://consoleloop.com/tony-hawks-underground-xbox-series-s-frame-rate-test/",
             "title": "Tony Hawk&#x27;s Underground - Xbox Series S - Frame Rate Test",
@@ -73,38 +105,6 @@
             ],
             "date_published": "2022-11-15T15:59:25-05:00",
             "date_modified": "2022-11-15T15:59:25-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/",
-            "url": "https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/",
-            "title": "New Naruto Game Might Have Leaked and 2022 Game Awards Nominees Revealed",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/iEft6TOQG-s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/85/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Console Loops"
-            ],
-            "date_published": "2022-11-15T15:56:04-05:00",
-            "date_modified": "2022-11-15T15:56:04-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/xbox-gaming-trivia/",
-            "url": "https://consoleloop.com/xbox-gaming-trivia/",
-            "title": "Xbox - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/cztJ7aqlq1I\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/84/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-14T12:15:43-05:00",
-            "date_modified": "2022-11-14T12:16:10-05:00"
         }
     ]
 }

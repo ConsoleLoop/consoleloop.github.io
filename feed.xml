@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-16T18:28:16-05:00</updated>
+    <updated>2022-11-17T17:14:33-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Bethesda Rejects Mick Gordon&#x27;s Allegations and Dead Island 2 Has Been Delayed Again</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/"/>
+        <id>https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/</id>
+        <media:content url="https://consoleloop.com/media/posts/91/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-17T17:14:33-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/91/thumbnail.webp" class="type:primaryImage" alt="Console Loop 38" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/eilFeQnzFkw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Gotham Knights - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/gotham-knights-gaming-trivia/"/>
+        <id>https://consoleloop.com/gotham-knights-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/90/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-17T17:13:27-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/90/thumbnail.webp" class="type:primaryImage" alt="Gotham Knights Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vGag00qcL6E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tony Hawk&#x27;s Underground - Xbox Series S - Frame Rate Test</title>
         <author>
@@ -86,46 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/86/thumbnail.webp" class="type:primaryImage" alt="Ghost of Tsushima Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/SS4jdBdYIs4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Naruto Game Might Have Leaked and 2022 Game Awards Nominees Revealed</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/"/>
-        <id>https://consoleloop.com/new-naruto-game-might-have-leaked-and-2022-game-awards-nominees-revealed/</id>
-        <media:content url="https://consoleloop.com/media/posts/85/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-15T15:56:04-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/85/thumbnail.webp" class="type:primaryImage" alt="Console Loop 36" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/iEft6TOQG-s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Xbox - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/xbox-gaming-trivia/"/>
-        <id>https://consoleloop.com/xbox-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/84/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-14T12:16:10-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/84/thumbnail.webp" class="type:primaryImage" alt="Xbox Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/cztJ7aqlq1I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
