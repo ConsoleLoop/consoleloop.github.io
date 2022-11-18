@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/resident-evil-7-gaming-trivia/",
+            "url": "https://consoleloop.com/resident-evil-7-gaming-trivia/",
+            "title": "Resident Evil 7 - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/BwF-vlXsNq0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/92/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-18T18:35:25-05:00",
+            "date_modified": "2022-11-18T18:35:25-05:00"
+        },
+        {
             "id": "https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/",
             "url": "https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/",
             "title": "Bethesda Rejects Mick Gordon&#x27;s Allegations and Dead Island 2 Has Been Delayed Again",
@@ -89,22 +105,6 @@
             ],
             "date_published": "2022-11-16T14:33:40-05:00",
             "date_modified": "2022-11-16T14:33:40-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/ghost-of-tsushima-gaming-trivia/",
-            "url": "https://consoleloop.com/ghost-of-tsushima-gaming-trivia/",
-            "title": "Ghost of Tsushima - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/SS4jdBdYIs4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/86/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-15T15:59:25-05:00",
-            "date_modified": "2022-11-15T15:59:25-05:00"
         }
     ]
 }

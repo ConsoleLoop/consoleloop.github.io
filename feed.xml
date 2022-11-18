@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-17T17:14:33-05:00</updated>
+    <updated>2022-11-18T18:35:25-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Resident Evil 7 - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/resident-evil-7-gaming-trivia/"/>
+        <id>https://consoleloop.com/resident-evil-7-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/92/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-18T18:35:25-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/92/thumbnail.webp" class="type:primaryImage" alt="Resident Evil 7 Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/BwF-vlXsNq0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bethesda Rejects Mick Gordon&#x27;s Allegations and Dead Island 2 Has Been Delayed Again</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/87/thumbnail.webp" class="type:primaryImage" alt="Console Loop 37" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ufhVuSBp-OU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ghost of Tsushima - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/ghost-of-tsushima-gaming-trivia/"/>
-        <id>https://consoleloop.com/ghost-of-tsushima-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/86/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-15T15:59:25-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/86/thumbnail.webp" class="type:primaryImage" alt="Ghost of Tsushima Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/SS4jdBdYIs4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
