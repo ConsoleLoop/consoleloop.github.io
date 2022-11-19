@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/marvels-spider-man-voice-actor-replaced-in-the-sequel-and-sonic-co-creator-arrested/",
+            "url": "https://consoleloop.com/marvels-spider-man-voice-actor-replaced-in-the-sequel-and-sonic-co-creator-arrested/",
+            "title": "Marvel&#x27;s Spider-Man Voice Actor Replaced In The Sequel and Sonic Co-Creator Arrested",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/bYEDnZuK_qQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/93/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-11-18T20:58:13-05:00",
+            "date_modified": "2022-11-18T20:58:13-05:00"
+        },
+        {
             "id": "https://consoleloop.com/resident-evil-7-gaming-trivia/",
             "url": "https://consoleloop.com/resident-evil-7-gaming-trivia/",
             "title": "Resident Evil 7 - Gaming Trivia",
@@ -89,22 +105,6 @@
             ],
             "date_published": "2022-11-16T14:34:54-05:00",
             "date_modified": "2022-11-16T14:34:54-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/",
-            "url": "https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/",
-            "title": "PlayStation VR 2 Game Prices Revealed and Overwatch 2 Mid-Season Update Delayed",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ufhVuSBp-OU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/87/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Console Loops"
-            ],
-            "date_published": "2022-11-16T14:33:40-05:00",
-            "date_modified": "2022-11-16T14:33:40-05:00"
         }
     ]
 }

@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-18T18:35:25-05:00</updated>
+    <updated>2022-11-18T20:58:13-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Marvel&#x27;s Spider-Man Voice Actor Replaced In The Sequel and Sonic Co-Creator Arrested</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/marvels-spider-man-voice-actor-replaced-in-the-sequel-and-sonic-co-creator-arrested/"/>
+        <id>https://consoleloop.com/marvels-spider-man-voice-actor-replaced-in-the-sequel-and-sonic-co-creator-arrested/</id>
+        <media:content url="https://consoleloop.com/media/posts/93/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-18T20:58:13-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/93/thumbnail.webp" class="type:primaryImage" alt="Console Loop 39" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/bYEDnZuK_qQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resident Evil 7 - Gaming Trivia</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/88/thumbnail.webp" class="type:primaryImage" alt="Uncharted Drake&#x27;s Fortune Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/KbbEasyzKg8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>PlayStation VR 2 Game Prices Revealed and Overwatch 2 Mid-Season Update Delayed</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/"/>
-        <id>https://consoleloop.com/playstation-vr-2-game-prices-revealed-and-overwatch-2-mid-season-update-delayed/</id>
-        <media:content url="https://consoleloop.com/media/posts/87/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-16T14:33:40-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/87/thumbnail.webp" class="type:primaryImage" alt="Console Loop 37" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ufhVuSBp-OU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
