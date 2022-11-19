@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-18T20:58:13-05:00</updated>
+    <updated>2022-11-19T16:26:37-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Tony Hawk&#x27;s Underground 2 - Xbox Series S - Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/tony-hawks-underground-2-xbox-series-s-frame-rate-test/"/>
+        <id>https://consoleloop.com/tony-hawks-underground-2-xbox-series-s-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/95/thumbnail.webp" medium="image" />
+            <category term="XBSX2"/>
+            <category term="Videos"/>
+
+        <updated>2022-11-19T16:26:37-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/95/thumbnail.webp" class="type:primaryImage" alt="Tony Hawk&#x27;s Underground 2 Xbox Series S" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vBQtBWZ-yJI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>God of War - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/god-of-war-gaming-trivia/"/>
+        <id>https://consoleloop.com/god-of-war-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/94/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-19T16:25:21-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/94/thumbnail.webp" class="type:primaryImage" alt="God of War Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/eAYCEMncdMo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Marvel&#x27;s Spider-Man Voice Actor Replaced In The Sequel and Sonic Co-Creator Arrested</title>
         <author>
@@ -86,46 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/90/thumbnail.webp" class="type:primaryImage" alt="Gotham Knights Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vGag00qcL6E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tony Hawk&#x27;s Underground - Xbox Series S - Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/tony-hawks-underground-xbox-series-s-frame-rate-test/"/>
-        <id>https://consoleloop.com/tony-hawks-underground-xbox-series-s-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/89/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-11-16T18:28:16-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/89/thumbnail.webp" class="type:primaryImage" alt="Tony Hawk&#x27;s Underground Xbox Series S" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/9dZs8YwT3do" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Uncharted Drake&#x27;s Fortune - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/uncharted-drakes-fortune-gaming-trivia/"/>
-        <id>https://consoleloop.com/uncharted-drakes-fortune-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/88/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-16T14:34:54-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/88/thumbnail.webp" class="type:primaryImage" alt="Uncharted Drake&#x27;s Fortune Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/KbbEasyzKg8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
