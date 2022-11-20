@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/halo-gaming-trivia/",
+            "url": "https://consoleloop.com/halo-gaming-trivia/",
+            "title": "Halo - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/BoKb6HW_XWk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/97/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-20T13:20:31-05:00",
+            "date_modified": "2022-11-20T13:20:31-05:00"
+        },
+        {
             "id": "https://consoleloop.com/evil-west-dev-discusses-xbox-series-s-port-and-cooking-mama-wins-lawsuit/",
             "url": "https://consoleloop.com/evil-west-dev-discusses-xbox-series-s-port-and-cooking-mama-wins-lawsuit/",
             "title": "Evil West Dev Discusses Xbox Series S Port and Cooking Mama Wins Lawsuit",
@@ -89,22 +105,6 @@
             ],
             "date_published": "2022-11-18T18:35:25-05:00",
             "date_modified": "2022-11-18T18:35:25-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/",
-            "url": "https://consoleloop.com/bethesda-rejects-mick-gordons-allegations-and-dead-island-2-has-been-delayed-again/",
-            "title": "Bethesda Rejects Mick Gordon&#x27;s Allegations and Dead Island 2 Has Been Delayed Again",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/eilFeQnzFkw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/91/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Console Loops"
-            ],
-            "date_published": "2022-11-17T17:14:33-05:00",
-            "date_modified": "2022-11-17T17:14:33-05:00"
         }
     ]
 }
