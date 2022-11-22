@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-22T07:49:18-05:00</updated>
+    <updated>2022-11-22T10:28:02-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Dragon Ball Xenoverse - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/dragon-ball-xenoverse-gaming-trivia/"/>
+        <id>https://consoleloop.com/dragon-ball-xenoverse-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/100/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-22T10:28:02-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/100/thumbnail.webp" class="type:primaryImage" alt="Dragon Ball Xenoverse Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/P4l3P5p6xPo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pokemon Scarlet and Violet Framerate Issues and Star Citizen Is Free In November</title>
         <author>
@@ -20,12 +40,12 @@
             <category term="Videos"/>
             <category term="Console Loops"/>
 
-        <updated>2022-11-22T07:49:18-05:00</updated>
+        <updated>2022-11-22T10:26:20-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/99/thumbnail.webp" class="type:primaryImage" alt="Console Loop 41" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/bI5y0fSCVug" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/W7RnGfnb6E8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/95/thumbnail.webp" class="type:primaryImage" alt="Tony Hawk&#x27;s Underground 2 Xbox Series S" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vBQtBWZ-yJI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>God of War - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/god-of-war-gaming-trivia/"/>
-        <id>https://consoleloop.com/god-of-war-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/94/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-19T16:25:21-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/94/thumbnail.webp" class="type:primaryImage" alt="God of War Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/eAYCEMncdMo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
