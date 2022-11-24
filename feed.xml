@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-23T23:51:03-05:00</updated>
+    <updated>2022-11-24T09:18:13-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>NetherRealm&#x27;s Next Possible Game Revealed and No Man&#x27;s Sky Events Return</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/netherrealms-next-possible-game-revealed-and-no-mans-sky-events-return/"/>
+        <id>https://consoleloop.com/netherrealms-next-possible-game-revealed-and-no-mans-sky-events-return/</id>
+        <media:content url="https://consoleloop.com/media/posts/102/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-24T09:18:13-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/102/thumbnail.webp" class="type:primaryImage" alt="Console Loop 42" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2q931osSjVU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dark Souls - Gaming Trivia</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/97/thumbnail.webp" class="type:primaryImage" alt="Halo Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/BoKb6HW_XWk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Evil West Dev Discusses Xbox Series S Port and Cooking Mama Wins Lawsuit</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/evil-west-dev-discusses-xbox-series-s-port-and-cooking-mama-wins-lawsuit/"/>
-        <id>https://consoleloop.com/evil-west-dev-discusses-xbox-series-s-port-and-cooking-mama-wins-lawsuit/</id>
-        <media:content url="https://consoleloop.com/media/posts/96/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-19T21:29:28-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/96/thumbnail.webp" class="type:primaryImage" alt="Console Loop 40" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OqAJRE49bjw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
