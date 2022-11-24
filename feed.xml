@@ -3,29 +3,29 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-23T12:38:10-05:00</updated>
+    <updated>2022-11-23T23:51:03-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
     <entry>
-        <title>Kirby and the Forgotten Land - Gaming Trivia</title>
+        <title>Dark Souls - Gaming Trivia</title>
         <author>
             <name>ConsoleLoop</name>
         </author>
-        <link href="https://consoleloop.com/kirby-and-the-forgotten-land-gaming-trivia/"/>
-        <id>https://consoleloop.com/kirby-and-the-forgotten-land-gaming-trivia/</id>
+        <link href="https://consoleloop.com/dark-souls-gaming-trivia/"/>
+        <id>https://consoleloop.com/dark-souls-gaming-trivia/</id>
         <media:content url="https://consoleloop.com/media/posts/101/thumbnail.webp" medium="image" />
             <category term="Videos"/>
             <category term="Gaming Trivia"/>
 
-        <updated>2022-11-23T12:38:10-05:00</updated>
+        <updated>2022-11-23T23:51:03-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/101/thumbnail.webp" class="type:primaryImage" alt="Kirby and the Forgotten Land Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-u9RqxbZgO4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+                    <p><img src="https://consoleloop.com/media/posts/101/thumbnail.webp" class="type:primaryImage" alt="Dark Souls Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/hu1J7GVUFbc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
