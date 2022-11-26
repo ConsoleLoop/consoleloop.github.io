@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-24T22:31:07-05:00</updated>
+    <updated>2022-11-25T20:32:38-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>The Callisto Protocol Season Pass Detailed and Deus Ex Go Is Shutting Down</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/the-callisto-protocol-season-pass-detailed-and-deus-ex-go-is-shutting-down/"/>
+        <id>https://consoleloop.com/the-callisto-protocol-season-pass-detailed-and-deus-ex-go-is-shutting-down/</id>
+        <media:content url="https://consoleloop.com/media/posts/105/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-11-25T20:32:38-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/105/thumbnail.webp" class="type:primaryImage" alt="Console Loop 43" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/I4JLrkSFE4I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dragon Age Inquisition - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/dragon-age-inquisition-gaming-trivia/"/>
+        <id>https://consoleloop.com/dragon-age-inquisition-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/104/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-25T18:36:17-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/104/thumbnail.webp" class="type:primaryImage" alt="Dragon Age Inquisition Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Kgq5FUnREng" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mario Kart 8 Deluxe - Gaming Trivia</title>
         <author>
@@ -86,46 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/100/thumbnail.webp" class="type:primaryImage" alt="Dragon Ball Xenoverse Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/P4l3P5p6xPo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pokemon Scarlet and Violet Framerate Issues and Star Citizen Is Free In November</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/pokemon-scarlet-and-violet-framerate-issues-and-star-citizen-is-free-in-november/"/>
-        <id>https://consoleloop.com/pokemon-scarlet-and-violet-framerate-issues-and-star-citizen-is-free-in-november/</id>
-        <media:content url="https://consoleloop.com/media/posts/99/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-22T10:26:20-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/99/thumbnail.webp" class="type:primaryImage" alt="Console Loop 41" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/W7RnGfnb6E8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ratchet &amp; Clank - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/ratchet-and-clank-gaming-trivia/"/>
-        <id>https://consoleloop.com/ratchet-and-clank-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/98/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-21T10:57:12-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/98/thumbnail.webp" class="type:primaryImage" alt="Ratchet &amp; Clank Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/64C6DpxXiJc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
