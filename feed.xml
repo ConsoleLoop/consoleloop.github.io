@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-25T20:32:38-05:00</updated>
+    <updated>2022-11-26T21:29:12-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Rise of the Tomb Raider - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/rise-of-the-tomb-raider-gaming-trivia/"/>
+        <id>https://consoleloop.com/rise-of-the-tomb-raider-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/106/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-26T21:29:12-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/106/thumbnail.webp" class="type:primaryImage" alt="Rise of the Tomb Raider Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PVZ5RM4j6cQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Callisto Protocol Season Pass Detailed and Deus Ex Go Is Shutting Down</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/101/thumbnail.webp" class="type:primaryImage" alt="Dark Souls Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/hu1J7GVUFbc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Dragon Ball Xenoverse - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/dragon-ball-xenoverse-gaming-trivia/"/>
-        <id>https://consoleloop.com/dragon-ball-xenoverse-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/100/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-22T10:28:02-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/100/thumbnail.webp" class="type:primaryImage" alt="Dragon Ball Xenoverse Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/P4l3P5p6xPo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
