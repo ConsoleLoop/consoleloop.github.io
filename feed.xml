@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-11-27T19:34:49-05:00</updated>
+    <updated>2022-11-28T18:45:10-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Legacy of Kain Soul Reaver - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/legacy-of-kain-soul-reaver-gaming-trivia/"/>
+        <id>https://consoleloop.com/legacy-of-kain-soul-reaver-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/108/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-11-28T18:45:10-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/108/thumbnail.webp" class="type:primaryImage" alt="Legacy of Kain Soul Reaver Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DIQ_ChYh308" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Saints Row IV - Gaming Trivia</title>
         <author>
@@ -106,26 +126,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/103/thumbnail.webp" class="type:primaryImage" alt="Mario Kart 8 Deluxe Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-UAqmANRlpk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>NetherRealm&#x27;s Next Possible Game Revealed and No Man&#x27;s Sky Events Return</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/netherrealms-next-possible-game-revealed-and-no-mans-sky-events-return/"/>
-        <id>https://consoleloop.com/netherrealms-next-possible-game-revealed-and-no-mans-sky-events-return/</id>
-        <media:content url="https://consoleloop.com/media/posts/102/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-11-24T09:18:13-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/102/thumbnail.webp" class="type:primaryImage" alt="Console Loop 42" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2q931osSjVU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
