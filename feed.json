@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/minecraft-avatar-legends-dlc-announced-and-humongous-classic-collection-limited-run/",
+            "url": "https://consoleloop.com/minecraft-avatar-legends-dlc-announced-and-humongous-classic-collection-limited-run/",
+            "title": "Minecraft Avatar Legends DLC Announced and Humongous Classic Collection Limited Run",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/5UiJmq0mjwA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/110/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-11-30T08:55:58-05:00",
+            "date_modified": "2022-11-30T08:55:58-05:00"
+        },
+        {
+            "id": "https://consoleloop.com/assassins-creed-gaming-trivia/",
+            "url": "https://consoleloop.com/assassins-creed-gaming-trivia/",
+            "title": "Assassin&#x27;s Creed - Gaming Trivia",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/jVk4kY4YDw0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/109/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Gaming Trivia"
+            ],
+            "date_published": "2022-11-30T08:54:50-05:00",
+            "date_modified": "2022-11-30T08:54:50-05:00"
+        },
+        {
             "id": "https://consoleloop.com/legacy-of-kain-soul-reaver-gaming-trivia/",
             "url": "https://consoleloop.com/legacy-of-kain-soul-reaver-gaming-trivia/",
             "title": "Legacy of Kain Soul Reaver - Gaming Trivia",
@@ -73,38 +105,6 @@
             ],
             "date_published": "2022-11-25T20:32:38-05:00",
             "date_modified": "2022-11-25T20:32:38-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/dragon-age-inquisition-gaming-trivia/",
-            "url": "https://consoleloop.com/dragon-age-inquisition-gaming-trivia/",
-            "title": "Dragon Age Inquisition - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Kgq5FUnREng\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/104/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-25T18:36:17-05:00",
-            "date_modified": "2022-11-25T18:36:17-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/mario-kart-8-deluxe-gaming-trivia/",
-            "url": "https://consoleloop.com/mario-kart-8-deluxe-gaming-trivia/",
-            "title": "Mario Kart 8 Deluxe - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/-UAqmANRlpk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/103/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-24T22:31:07-05:00",
-            "date_modified": "2022-11-24T22:31:07-05:00"
         }
     ]
 }
