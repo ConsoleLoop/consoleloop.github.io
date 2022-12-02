@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
+            "url": "https://consoleloop.com/xbsx2-recommended-settings-list/",
+            "title": "XBSX2 Recommended Settings List",
+            "summary": "Game State XSS¹ Resolution XSX² Resolution Hardware Fixes Madden NFL 11 Playable 2560x1440 ? Tony Hawk's Underground Playable 3840x2160 ? Tony Hawk's Underground 2 Playable&hellip;",
+            "content_html": "<table class=\"table table-bordered table-dark\" style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 24.1084%;\">Game</td>\n<td style=\"width: 23.3951%;\">State</td>\n<td style=\"width: 17.5464%;\">XSS¹ Resolution</td>\n<td style=\"width: 11.2696%;\">XSX² Resolution</td>\n<td style=\"width: 23.5378%;\">Hardware Fixes</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/tDzl0zLRJng\" target=\"_blank\" rel=\"noopener noreferrer\">Madden NFL 11</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">2560x1440</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/9dZs8YwT3do\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Underground</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/vBQtBWZ-yJI\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Underground 2</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">2560x1440</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\">Wild Arms Hack</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/3CKmDlxQ0Rw\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's American Wasteland</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">1920x1080</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\">Wild Arms Hack</td>\n</tr>\n</tbody>\n</table>\n<h6>¹ Xbox Series S     <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">² Xbox Series X</span></h6>",
+            "image": "https://consoleloop.com/media/posts/113/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Tips &amp; Tricks"
+            ],
+            "date_published": "2022-12-02T13:38:29-05:00",
+            "date_modified": "2022-12-02T14:07:12-05:00"
+        },
+        {
             "id": "https://consoleloop.com/tony-hawks-american-wasteland-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/tony-hawks-american-wasteland-xbox-series-s-4k-frame-rate-test/",
             "title": "Tony Hawk&#x27;s American Wasteland - Xbox Series S - 4K Frame Rate Test",
@@ -89,22 +105,6 @@
             ],
             "date_published": "2022-11-28T18:45:10-05:00",
             "date_modified": "2022-11-28T18:45:10-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/saints-row-iv-gaming-trivia/",
-            "url": "https://consoleloop.com/saints-row-iv-gaming-trivia/",
-            "title": "Saints Row IV - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/hky8P-sLd9Y\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/107/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-27T19:34:49-05:00",
-            "date_modified": "2022-11-27T19:34:49-05:00"
         }
     ]
 }
