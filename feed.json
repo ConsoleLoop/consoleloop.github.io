@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/tony-hawks-american-wasteland-xbox-series-s-4k-frame-rate-test/",
+            "url": "https://consoleloop.com/tony-hawks-american-wasteland-xbox-series-s-4k-frame-rate-test/",
+            "title": "Tony Hawk&#x27;s American Wasteland - Xbox Series S - 4K Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/3CKmDlxQ0Rw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/112/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-01T20:54:32-05:00",
+            "date_modified": "2022-12-01T20:54:32-05:00"
+        },
+        {
             "id": "https://consoleloop.com/madden-nfl-11-xbox-series-s-frame-rate-test/",
             "url": "https://consoleloop.com/madden-nfl-11-xbox-series-s-frame-rate-test/",
             "title": "Madden NFL 11 - Xbox Series S - Frame Rate Test",
@@ -89,22 +105,6 @@
             ],
             "date_published": "2022-11-27T19:34:49-05:00",
             "date_modified": "2022-11-27T19:34:49-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/rise-of-the-tomb-raider-gaming-trivia/",
-            "url": "https://consoleloop.com/rise-of-the-tomb-raider-gaming-trivia/",
-            "title": "Rise of the Tomb Raider - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/PVZ5RM4j6cQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/106/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-11-26T21:29:12-05:00",
-            "date_modified": "2022-11-26T21:29:12-05:00"
         }
     ]
 }
