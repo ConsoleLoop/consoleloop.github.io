@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-02T14:07:12-05:00</updated>
+    <updated>2022-12-02T23:07:40-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>No Man&#x27;s Sky - Gaming Trivia</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/no-mans-sky-gaming-trivia/"/>
+        <id>https://consoleloop.com/no-mans-sky-gaming-trivia/</id>
+        <media:content url="https://consoleloop.com/media/posts/114/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Gaming Trivia"/>
+
+        <updated>2022-12-02T23:07:40-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/114/thumbnail.webp" class="type:primaryImage" alt="No Man&#x27;s Sky Gaming Trivia" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Q7BDI44F6zQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>XBSX2 Recommended Settings List</title>
         <author>
@@ -149,26 +169,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/109/thumbnail.webp" class="type:primaryImage" alt="Assassin&#x27;s Creed Gaming Trivia" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/jVk4kY4YDw0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Legacy of Kain Soul Reaver - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/legacy-of-kain-soul-reaver-gaming-trivia/"/>
-        <id>https://consoleloop.com/legacy-of-kain-soul-reaver-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/108/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-28T18:45:10-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/108/thumbnail.webp" class="type:primaryImage" alt="Legacy of Kain Soul Reaver Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DIQ_ChYh308" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
