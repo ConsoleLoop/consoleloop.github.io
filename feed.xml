@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-02T23:07:40-05:00</updated>
+    <updated>2022-12-03T00:21:20-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>New Amnesia Game Announced and Sonic Frontiers Is Getting Free Story DLC</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/new-amnesia-game-announced-and-sonic-frontiers-is-getting-free-story-dlc/"/>
+        <id>https://consoleloop.com/new-amnesia-game-announced-and-sonic-frontiers-is-getting-free-story-dlc/</id>
+        <media:content url="https://consoleloop.com/media/posts/115/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-12-03T00:21:20-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/115/thumbnail.webp" class="type:primaryImage" alt="Console Loop 45" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GwB1PxEGvNU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>No Man&#x27;s Sky - Gaming Trivia</title>
         <author>
@@ -149,26 +169,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/110/thumbnail.webp" class="type:primaryImage" alt="Console Loop 44" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/5UiJmq0mjwA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Assassin&#x27;s Creed - Gaming Trivia</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/assassins-creed-gaming-trivia/"/>
-        <id>https://consoleloop.com/assassins-creed-gaming-trivia/</id>
-        <media:content url="https://consoleloop.com/media/posts/109/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Gaming Trivia"/>
-
-        <updated>2022-11-30T08:56:47-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/109/thumbnail.webp" class="type:primaryImage" alt="Assassin&#x27;s Creed Gaming Trivia" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/jVk4kY4YDw0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
