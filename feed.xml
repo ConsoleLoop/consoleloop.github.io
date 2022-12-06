@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-06T07:02:53-05:00</updated>
+    <updated>2022-12-06T18:15:17-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Star Wars Jedi Survivor Steam Leaks and The Callisto Protocol Poor PC Performance</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/star-wars-jedi-survivor-steam-leaks-and-the-callisto-protocol-poor-pc-performance/"/>
+        <id>https://consoleloop.com/star-wars-jedi-survivor-steam-leaks-and-the-callisto-protocol-poor-pc-performance/</id>
+        <media:content url="https://consoleloop.com/media/posts/118/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-12-06T18:15:17-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/118/thumbnail.webp" class="type:primaryImage" alt="Console Loop 46" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/dEVkJ_FiYqo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Madden NFL 08 - Xbox Series S - 4K Frame Rate Test</title>
         <author>
@@ -163,26 +183,6 @@
 </tbody>
 </table>
 <h6>¹ Xbox Series S     <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">² Xbox Series X</span></h6>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tony Hawk&#x27;s American Wasteland - Xbox Series S - 4K Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/tony-hawks-american-wasteland-xbox-series-s-4k-frame-rate-test/"/>
-        <id>https://consoleloop.com/tony-hawks-american-wasteland-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/112/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-01T20:54:32-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/112/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Tony Hawk&#x27;s American Wasteland" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/3CKmDlxQ0Rw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
