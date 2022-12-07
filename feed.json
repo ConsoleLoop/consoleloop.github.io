@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/war-of-the-monsters-xbox-series-s-4k-frame-rate-test/",
+            "url": "https://consoleloop.com/war-of-the-monsters-xbox-series-s-4k-frame-rate-test/",
+            "title": "War of the Monsters - Xbox Series S - 4K Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/UnjmS1kGt-0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/119/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-07T17:34:08-05:00",
+            "date_modified": "2022-12-07T17:34:08-05:00"
+        },
+        {
             "id": "https://consoleloop.com/star-wars-jedi-survivor-steam-leaks-and-the-callisto-protocol-poor-pc-performance/",
             "url": "https://consoleloop.com/star-wars-jedi-survivor-steam-leaks-and-the-callisto-protocol-poor-pc-performance/",
             "title": "Star Wars Jedi Survivor Steam Leaks and The Callisto Protocol Poor PC Performance",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2022-12-03T00:21:20-05:00",
             "date_modified": "2022-12-03T00:21:20-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/no-mans-sky-gaming-trivia/",
-            "url": "https://consoleloop.com/no-mans-sky-gaming-trivia/",
-            "title": "No Man&#x27;s Sky - Gaming Trivia",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Q7BDI44F6zQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/114/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Gaming Trivia"
-            ],
-            "date_published": "2022-12-02T23:07:40-05:00",
-            "date_modified": "2022-12-02T23:07:40-05:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
