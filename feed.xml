@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-07T20:59:10-05:00</updated>
+    <updated>2022-12-08T13:22:07-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>NCAA Football 11 - Xbox Series S - 4K Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/ncaa-football-11-xbox-series-s-4k-frame-rate-test/"/>
+        <id>https://consoleloop.com/ncaa-football-11-xbox-series-s-4k-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/120/thumbnail.webp" medium="image" />
+            <category term="XBSX2"/>
+            <category term="Videos"/>
+
+        <updated>2022-12-08T13:22:07-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/120/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S NCAA Football 11" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PBqe23qufhE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>War of the Monsters - Xbox Series S - 4K Frame Rate Test</title>
         <author>
@@ -86,26 +106,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/116/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Tony Hawk&#x27;s Pro Skater 4" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OghJ1Ky1tIk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Amnesia Game Announced and Sonic Frontiers Is Getting Free Story DLC</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/new-amnesia-game-announced-and-sonic-frontiers-is-getting-free-story-dlc/"/>
-        <id>https://consoleloop.com/new-amnesia-game-announced-and-sonic-frontiers-is-getting-free-story-dlc/</id>
-        <media:content url="https://consoleloop.com/media/posts/115/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-12-03T00:21:20-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/115/thumbnail.webp" class="type:primaryImage" alt="Console Loop 45" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/GwB1PxEGvNU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

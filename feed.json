@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/ncaa-football-11-xbox-series-s-4k-frame-rate-test/",
+            "url": "https://consoleloop.com/ncaa-football-11-xbox-series-s-4k-frame-rate-test/",
+            "title": "NCAA Football 11 - Xbox Series S - 4K Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/PBqe23qufhE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/120/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-08T13:22:07-05:00",
+            "date_modified": "2022-12-08T13:22:07-05:00"
+        },
+        {
             "id": "https://consoleloop.com/war-of-the-monsters-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/war-of-the-monsters-xbox-series-s-4k-frame-rate-test/",
             "title": "War of the Monsters - Xbox Series S - 4K Frame Rate Test",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2022-12-04T17:06:12-05:00",
             "date_modified": "2022-12-04T17:06:12-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/new-amnesia-game-announced-and-sonic-frontiers-is-getting-free-story-dlc/",
-            "url": "https://consoleloop.com/new-amnesia-game-announced-and-sonic-frontiers-is-getting-free-story-dlc/",
-            "title": "New Amnesia Game Announced and Sonic Frontiers Is Getting Free Story DLC",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/GwB1PxEGvNU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/115/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Console Loops"
-            ],
-            "date_published": "2022-12-03T00:21:20-05:00",
-            "date_modified": "2022-12-03T00:21:20-05:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
