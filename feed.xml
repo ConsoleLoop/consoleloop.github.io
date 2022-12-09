@@ -119,11 +119,11 @@
         <media:content url="https://consoleloop.com/media/posts/113/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-08T14:00:29-05:00</updated>
+        <updated>2022-12-09T11:45:43-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/113/thumbnail.webp" alt="XBSX2 PS2 Emulator Recommended Settings" />
-                    Game State XSS¹ Resolution XSX² Resolution Hardware Fixes Madden NFL 08 Playable 2560x1440 ? Madden NFL 11 Playable 2560x1440 ? NCAA Football 11 Playable 3840x2160&hellip;
+                    Game State XSS¹ Resolution XSX² Resolution Hardware Fixes Madden NFL 08 Playable 2560x1440 ? Madden NFL 11 Playable 2560x1440 ? NCAA Football 2004 Playable 1280x720&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -151,6 +151,13 @@
 <td style="width: 17.5464%; height: 79.1562px;">2560x1440</td>
 <td style="width: 11.2696%; height: 79.1562px;">?</td>
 <td style="width: 23.5378%; height: 79.1562px;"> </td>
+</tr>
+<tr>
+<td style="width: 24.1084%;"><a href="https://youtu.be/YNq2CPOG8CY" target="_blank" rel="noopener noreferrer">NCAA Football 2004</a></td>
+<td style="width: 23.3951%;">Playable</td>
+<td style="width: 17.5464%;">1280x720</td>
+<td style="width: 11.2696%;">?</td>
+<td style="width: 23.5378%;"> </td>
 </tr>
 <tr>
 <td style="width: 24.1084%;"><a href="https://youtu.be/PBqe23qufhE" target="_blank" rel="noopener noreferrer">NCAA Football 11</a></td>
