@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-08T14:00:29-05:00</updated>
+    <updated>2022-12-09T12:00:00-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>NCAA Football 2004 - Xbox Series S - 4K Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/"/>
+        <id>https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/121/thumbnail.png" medium="image" />
+            <category term="XBSX2"/>
+            <category term="Videos"/>
+
+        <updated>2022-12-09T12:00:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/121/thumbnail.png" class="type:primaryImage" alt="Xbox Series S NCAA Football 2004" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/YNq2CPOG8CY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>NCAA Football 11 - Xbox Series S - 4K Frame Rate Test</title>
         <author>
@@ -86,26 +106,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/117/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Madden NFL 08" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/j6WsXNxsbhk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tony Hawk&#x27;s Pro Skater 4 - Xbox Series S - 4K Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/tony-hawks-pro-skater-4-xbox-series-s-4k-frame-rate-test/"/>
-        <id>https://consoleloop.com/tony-hawks-pro-skater-4-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/116/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-04T17:06:12-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/116/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Tony Hawk&#x27;s Pro Skater 4" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OghJ1Ky1tIk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

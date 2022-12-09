@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/",
+            "url": "https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/",
+            "title": "NCAA Football 2004 - Xbox Series S - 4K Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YNq2CPOG8CY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/121/thumbnail.png",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-09T12:00:00-05:00",
+            "date_modified": "2022-12-09T12:00:00-05:00"
+        },
+        {
             "id": "https://consoleloop.com/ncaa-football-11-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/ncaa-football-11-xbox-series-s-4k-frame-rate-test/",
             "title": "NCAA Football 11 - Xbox Series S - 4K Frame Rate Test",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2022-12-05T20:00:00-05:00",
             "date_modified": "2022-12-06T07:02:53-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/tony-hawks-pro-skater-4-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/tony-hawks-pro-skater-4-xbox-series-s-4k-frame-rate-test/",
-            "title": "Tony Hawk&#x27;s Pro Skater 4 - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/OghJ1Ky1tIk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/116/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-04T17:06:12-05:00",
-            "date_modified": "2022-12-04T17:06:12-05:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
