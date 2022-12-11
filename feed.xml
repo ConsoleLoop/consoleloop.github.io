@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-10T20:53:49-05:00</updated>
+    <updated>2022-12-11T17:49:56-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>God of War - Xbox Series S - 4K Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/god-of-war-xbox-series-s-4k-frame-rate-test/"/>
+        <id>https://consoleloop.com/god-of-war-xbox-series-s-4k-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/123/thumbnail.webp" medium="image" />
+            <category term="XBSX2"/>
+            <category term="Videos"/>
+
+        <updated>2022-12-11T17:46:55-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/123/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S God of War" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ZIwATj2Tpu4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Death Stranding 2 Was Just Announced Along With Several Release Dates For Other Games</title>
         <author>
@@ -36,15 +56,15 @@
         </author>
         <link href="https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/"/>
         <id>https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/121/thumbnail.png" medium="image" />
+        <media:content url="https://consoleloop.com/media/posts/121/thumbnail.webp" medium="image" />
             <category term="XBSX2"/>
             <category term="Videos"/>
 
-        <updated>2022-12-09T12:00:00-05:00</updated>
+        <updated>2022-12-11T17:49:56-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/121/thumbnail.png" class="type:primaryImage" alt="Xbox Series S NCAA Football 2004" /></p>
+                    <p><img src="https://consoleloop.com/media/posts/121/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S NCAA Football 2004" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/YNq2CPOG8CY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
@@ -90,26 +110,6 @@
         </content>
     </entry>
     <entry>
-        <title>Star Wars Jedi Survivor Steam Leaks and The Callisto Protocol Poor PC Performance</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/star-wars-jedi-survivor-steam-leaks-and-the-callisto-protocol-poor-pc-performance/"/>
-        <id>https://consoleloop.com/star-wars-jedi-survivor-steam-leaks-and-the-callisto-protocol-poor-pc-performance/</id>
-        <media:content url="https://consoleloop.com/media/posts/118/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-12-06T18:15:17-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/118/thumbnail.webp" class="type:primaryImage" alt="Console Loop 46" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/dEVkJ_FiYqo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>XBSX2 Recommended Settings List</title>
         <author>
             <name>ConsoleLoop</name>
@@ -119,11 +119,11 @@
         <media:content url="https://consoleloop.com/media/posts/113/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-09T11:45:43-05:00</updated>
+        <updated>2022-12-11T17:48:08-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/113/thumbnail.webp" alt="XBSX2 PS2 Emulator Recommended Settings" />
-                    Game State XSS¹ Resolution XSX² Resolution Hardware Fixes Madden NFL 08 Playable 2560x1440 ? Madden NFL 11 Playable 2560x1440 ? NCAA Football 2004 Playable 1280x720&hellip;
+                    Game State XSS¹ Resolution XSX² Resolution Hardware Fixes God of War Playable 1920x1080 ? Madden NFL 08 Playable 2560x1440 ? Madden NFL 11 Playable 2560x1440&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -137,6 +137,13 @@
 <td style="width: 17.5464%; height: 79.1562px;">XSS¹ Resolution</td>
 <td style="width: 11.2696%; height: 79.1562px;">XSX² Resolution</td>
 <td style="width: 23.5378%; height: 79.1562px;">Hardware Fixes</td>
+</tr>
+<tr>
+<td style="width: 24.1084%;"><a href="https://youtu.be/ZIwATj2Tpu4" target="_blank" rel="noopener noreferrer">God of War</a></td>
+<td style="width: 23.3951%;">Playable</td>
+<td style="width: 17.5464%;">1920x1080</td>
+<td style="width: 11.2696%;">?</td>
+<td style="width: 23.5378%;"> </td>
 </tr>
 <tr style="height: 79.1562px;">
 <td style="width: 24.1084%; height: 79.1562px;"><a href="https://youtu.be/j6WsXNxsbhk" target="_blank" rel="noopener noreferrer">Madden NFL 08</a></td>
