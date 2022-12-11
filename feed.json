@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/death-stranding-2-was-just-announced-along-with-several-release-dates-for-other-games/",
+            "url": "https://consoleloop.com/death-stranding-2-was-just-announced-along-with-several-release-dates-for-other-games/",
+            "title": "Death Stranding 2 Was Just Announced Along With Several Release Dates For Other Games",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/TebgvP874oc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/122/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-10T20:53:49-05:00",
+            "date_modified": "2022-12-10T20:53:49-05:00"
+        },
+        {
             "id": "https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/",
             "title": "NCAA Football 2004 - Xbox Series S - 4K Frame Rate Test",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2022-12-06T18:15:17-05:00",
             "date_modified": "2022-12-06T18:15:17-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/madden-nfl-08-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/madden-nfl-08-xbox-series-s-4k-frame-rate-test/",
-            "title": "Madden NFL 08 - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/j6WsXNxsbhk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/117/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-05T20:00:00-05:00",
-            "date_modified": "2022-12-06T07:02:53-05:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
