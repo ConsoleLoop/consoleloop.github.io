@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/marvels-spider-man-2-release-window-leaked-and-hogwarts-legacy-has-been-delayed/",
+            "url": "https://consoleloop.com/marvels-spider-man-2-release-window-leaked-and-hogwarts-legacy-has-been-delayed/",
+            "title": "Marvel&#x27;s Spider-Man 2 Release Window Leaked and Hogwarts Legacy Has Been Delayed",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Qvb3m6uGZFo\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/126/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-12-14T12:48:03-05:00",
+            "date_modified": "2022-12-14T12:48:03-05:00"
+        },
+        {
             "id": "https://consoleloop.com/spider-man-friend-or-foe-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/spider-man-friend-or-foe-xbox-series-s-4k-frame-rate-test/",
             "title": "Spider Man Friend or Foe - Xbox Series S - 4K Frame Rate Test",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2022-12-10T20:53:49-05:00",
             "date_modified": "2022-12-10T20:53:49-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/ncaa-football-2004-xbox-series-s-4k-frame-rate-test/",
-            "title": "NCAA Football 2004 - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YNq2CPOG8CY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/121/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-09T12:00:00-05:00",
-            "date_modified": "2022-12-11T17:49:56-05:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
