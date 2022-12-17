@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/spider-man-3-xbox-series-s-4k-frame-rate-test/",
+            "url": "https://consoleloop.com/spider-man-3-xbox-series-s-4k-frame-rate-test/",
+            "title": "Spider-Man 3 - Xbox Series S - 4K Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/kz_CqpbPdJ4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/128/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-16T22:39:11-05:00",
+            "date_modified": "2022-12-16T22:39:11-05:00"
+        },
+        {
             "id": "https://consoleloop.com/dragon-ball-z-budokai-tenkaichi-3-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/dragon-ball-z-budokai-tenkaichi-3-xbox-series-s-4k-frame-rate-test/",
             "title": "Dragon Ball Z Budokai Tenkaichi 3 - Xbox Series S - 4K Frame Rate Test",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2022-12-12T12:40:52-05:00",
             "date_modified": "2022-12-12T12:40:52-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/god-of-war-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/god-of-war-xbox-series-s-4k-frame-rate-test/",
-            "title": "God of War - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ZIwATj2Tpu4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/123/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-11T17:46:55-05:00",
-            "date_modified": "2022-12-11T17:46:55-05:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
