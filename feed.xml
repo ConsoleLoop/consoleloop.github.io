@@ -3,7 +3,7 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-16T22:39:11-05:00</updated>
+    <updated>2022-12-16T22:59:30-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
@@ -119,7 +119,7 @@
         <media:content url="https://consoleloop.com/media/posts/113/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-15T19:45:02-05:00</updated>
+        <updated>2022-12-16T22:59:30-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/113/thumbnail.webp" alt="XBSX2 PS2 Emulator Recommended Settings" />
@@ -177,6 +177,13 @@
 <td style="width: 24.1084%;"><a href="https://youtu.be/PBqe23qufhE" target="_blank" rel="noopener noreferrer">NCAA Football 11</a></td>
 <td style="width: 23.3951%;">Playable</td>
 <td style="width: 17.5464%;">3840x2160</td>
+<td style="width: 11.2696%;">?</td>
+<td style="width: 23.5378%;"> </td>
+</tr>
+<tr>
+<td style="width: 24.1084%;"><a href="https://youtu.be/kz_CqpbPdJ4" target="_blank" rel="noopener noreferrer">Spider-Man 3</a></td>
+<td style="width: 23.3951%;">Unstable</td>
+<td style="width: 17.5464%;">1920x1080</td>
 <td style="width: 11.2696%;">?</td>
 <td style="width: 23.5378%;"> </td>
 </tr>
