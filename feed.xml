@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-18T00:09:24-05:00</updated>
+    <updated>2022-12-18T12:21:57-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Horizon Multiplayer Revealed and Amazon Games Is Publishing The Next Tomb Raider Game</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/horizon-multiplayer-revealed-and-amazon-games-is-publishing-the-next-tomb-raider-game/"/>
+        <id>https://consoleloop.com/horizon-multiplayer-revealed-and-amazon-games-is-publishing-the-next-tomb-raider-game/</id>
+        <media:content url="https://consoleloop.com/media/posts/130/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-12-18T12:21:57-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/130/thumbnail.webp" class="type:primaryImage" alt="Console Loop 49" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/oLZtKuOO5U4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Matrix Path of Neo - Xbox Series S - 4K Frame Rate Test</title>
         <author>
@@ -86,26 +106,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/126/thumbnail.webp" class="type:primaryImage" alt="Console Loop 48" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Qvb3m6uGZFo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Spider Man Friend or Foe - Xbox Series S - 4K Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/spider-man-friend-or-foe-xbox-series-s-4k-frame-rate-test/"/>
-        <id>https://consoleloop.com/spider-man-friend-or-foe-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/125/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-13T21:41:46-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/125/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Spider Man Friend or Foe" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/EqBove1Bn94" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
