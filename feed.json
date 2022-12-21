@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/dragon-ball-z-sagas-xbox-series-s-4k-frame-rate-test/",
+            "url": "https://consoleloop.com/dragon-ball-z-sagas-xbox-series-s-4k-frame-rate-test/",
+            "title": "Dragon Ball Z Sagas - Xbox Series S - 4K Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/RMGpry7v458\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/132/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-20T21:18:51-08:00",
+            "date_modified": "2022-12-20T21:18:51-08:00"
+        },
+        {
+            "id": "https://consoleloop.com/true-crime-streets-of-la-xbox-series-s-4k-frame-rate-test/",
+            "url": "https://consoleloop.com/true-crime-streets-of-la-xbox-series-s-4k-frame-rate-test/",
+            "title": "True Crime Streets of LA - Xbox Series S - 4K Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/lB4epcmTc3g\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/131/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "XBSX2",
+                   "Videos"
+            ],
+            "date_published": "2022-12-20T21:17:40-08:00",
+            "date_modified": "2022-12-20T21:17:40-08:00"
+        },
+        {
             "id": "https://consoleloop.com/horizon-multiplayer-revealed-and-amazon-games-is-publishing-the-next-tomb-raider-game/",
             "url": "https://consoleloop.com/horizon-multiplayer-revealed-and-amazon-games-is-publishing-the-next-tomb-raider-game/",
             "title": "Horizon Multiplayer Revealed and Amazon Games Is Publishing The Next Tomb Raider Game",
@@ -23,8 +55,8 @@
                    "Videos",
                    "Console Loops"
             ],
-            "date_published": "2022-12-18T12:21:57-05:00",
-            "date_modified": "2022-12-18T12:21:57-05:00"
+            "date_published": "2022-12-18T09:21:57-08:00",
+            "date_modified": "2022-12-18T09:21:57-08:00"
         },
         {
             "id": "https://consoleloop.com/the-matrix-path-of-neo-xbox-series-s-4k-frame-rate-test/",
@@ -39,8 +71,8 @@
                    "XBSX2",
                    "Videos"
             ],
-            "date_published": "2022-12-17T23:45:00-05:00",
-            "date_modified": "2022-12-18T00:06:14-05:00"
+            "date_published": "2022-12-17T20:45:00-08:00",
+            "date_modified": "2022-12-17T21:06:14-08:00"
         },
         {
             "id": "https://consoleloop.com/spider-man-3-xbox-series-s-4k-frame-rate-test/",
@@ -55,47 +87,15 @@
                    "XBSX2",
                    "Videos"
             ],
-            "date_published": "2022-12-16T22:39:11-05:00",
-            "date_modified": "2022-12-16T22:39:11-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/dragon-ball-z-budokai-tenkaichi-3-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/dragon-ball-z-budokai-tenkaichi-3-xbox-series-s-4k-frame-rate-test/",
-            "title": "Dragon Ball Z Budokai Tenkaichi 3 - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Sgjukrsnqpw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/127/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-15T19:43:29-05:00",
-            "date_modified": "2022-12-15T19:43:29-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/marvels-spider-man-2-release-window-leaked-and-hogwarts-legacy-has-been-delayed/",
-            "url": "https://consoleloop.com/marvels-spider-man-2-release-window-leaked-and-hogwarts-legacy-has-been-delayed/",
-            "title": "Marvel&#x27;s Spider-Man 2 Release Window Leaked and Hogwarts Legacy Has Been Delayed",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Qvb3m6uGZFo\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/126/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Videos",
-                   "Console Loops"
-            ],
-            "date_published": "2022-12-14T12:48:03-05:00",
-            "date_modified": "2022-12-14T12:48:03-05:00"
+            "date_published": "2022-12-16T19:39:11-08:00",
+            "date_modified": "2022-12-16T19:39:11-08:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
             "url": "https://consoleloop.com/xbsx2-recommended-settings-list/",
             "title": "XBSX2 Recommended Settings List",
             "summary": "Game State XSS¹ Resolution XSX² Resolution Hardware Fixes Dragon Ball Z Budokai Tenkaichi 3 Playable 2560x1440 ? TC Offset X: 360 TC Offset Y: 540&hellip;",
-            "content_html": "<table class=\"table table-bordered table-dark\" style=\"border-collapse: collapse; width: 100%; height: 582.89px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\">Game</td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">State</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">XSS¹ Resolution</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">XSX² Resolution</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\">Hardware Fixes</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/Sgjukrsnqpw\" target=\"_blank\" rel=\"noopener noreferrer\">Dragon Ball Z Budokai Tenkaichi 3</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">2560x1440</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\">TC Offset X: 360<br>TC Offset Y: 540</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/ZIwATj2Tpu4\" target=\"_blank\" rel=\"noopener noreferrer\">God of War</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">1920x1080</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/j6WsXNxsbhk\" target=\"_blank\" rel=\"noopener noreferrer\">Madden NFL 08</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">2560x1440</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/tDzl0zLRJng\" target=\"_blank\" rel=\"noopener noreferrer\">Madden NFL 11</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">2560x1440</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/YNq2CPOG8CY\" target=\"_blank\" rel=\"noopener noreferrer\">NCAA Football 2004</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">1280x720</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/PBqe23qufhE\" target=\"_blank\" rel=\"noopener noreferrer\">NCAA Football 11</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/kz_CqpbPdJ4\" target=\"_blank\" rel=\"noopener noreferrer\">Spider-Man 3</a></td>\n<td style=\"width: 23.3951%;\">Unstable</td>\n<td style=\"width: 17.5464%;\">1920x1080</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/PyzluQ6LlEU\" target=\"_blank\" rel=\"noopener noreferrer\">The Matrix Path of Neo</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">1920x1080</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\">Merge Sprite: On<br>Half-Pixel Offset: Special Texture</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/Uy9zWVJJ2Xg\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Pro Skater 3</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/OghJ1Ky1tIk\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Pro Skater 4</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">3840x2160</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/9dZs8YwT3do\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Underground</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">3840x2160</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/vBQtBWZ-yJI\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Underground 2</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">2560x1440</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\">Wild Arms Hack</td>\n</tr>\n<tr style=\"height: 107.953px;\">\n<td style=\"width: 24.1084%; height: 107.953px;\"><a href=\"https://youtu.be/3CKmDlxQ0Rw\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's American Wasteland</a></td>\n<td style=\"width: 23.3951%; height: 107.953px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 107.953px;\">1920x1080</td>\n<td style=\"width: 11.2696%; height: 107.953px;\">?</td>\n<td style=\"width: 23.5378%; height: 107.953px;\">Wild Arms Hack</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/EqBove1Bn94\" target=\"_blank\" rel=\"noopener noreferrer\">Spider-Man Friend or Foe</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/UnjmS1kGt-0\" target=\"_blank\" rel=\"noopener noreferrer\">War of the Monsters</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n</tbody>\n</table>\n<h6>¹ Xbox Series S     <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">² Xbox Series X</span></h6>",
+            "content_html": "<table class=\"table table-bordered table-dark\" style=\"border-collapse: collapse; width: 100%; height: 582.89px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\">Game</td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">State</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">XSS¹ Resolution</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">XSX² Resolution</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\">Hardware Fixes</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/Sgjukrsnqpw\" target=\"_blank\" rel=\"noopener noreferrer\">Dragon Ball Z Budokai Tenkaichi 3</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">2560x1440</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\">TC Offset X: 360<br>TC Offset Y: 540</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/RMGpry7v458\" target=\"_blank\" rel=\"noopener noreferrer\">Dragon Ball Z Sagas</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/ZIwATj2Tpu4\" target=\"_blank\" rel=\"noopener noreferrer\">God of War</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">1920x1080</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/j6WsXNxsbhk\" target=\"_blank\" rel=\"noopener noreferrer\">Madden NFL 08</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">2560x1440</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/tDzl0zLRJng\" target=\"_blank\" rel=\"noopener noreferrer\">Madden NFL 11</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">2560x1440</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/YNq2CPOG8CY\" target=\"_blank\" rel=\"noopener noreferrer\">NCAA Football 2004</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">1280x720</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/PBqe23qufhE\" target=\"_blank\" rel=\"noopener noreferrer\">NCAA Football 11</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/kz_CqpbPdJ4\" target=\"_blank\" rel=\"noopener noreferrer\">Spider-Man 3</a></td>\n<td style=\"width: 23.3951%;\">Unstable</td>\n<td style=\"width: 17.5464%;\">1920x1080</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/PyzluQ6LlEU\" target=\"_blank\" rel=\"noopener noreferrer\">The Matrix Path of Neo</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">1920x1080</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\">Merge Sprite: On<br>Half-Pixel Offset: Special Texture</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/Uy9zWVJJ2Xg\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Pro Skater 3</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/OghJ1Ky1tIk\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Pro Skater 4</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">3840x2160</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/9dZs8YwT3do\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Underground</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">3840x2160</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\"> </td>\n</tr>\n<tr style=\"height: 79.1562px;\">\n<td style=\"width: 24.1084%; height: 79.1562px;\"><a href=\"https://youtu.be/vBQtBWZ-yJI\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's Underground 2</a></td>\n<td style=\"width: 23.3951%; height: 79.1562px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 79.1562px;\">2560x1440</td>\n<td style=\"width: 11.2696%; height: 79.1562px;\">?</td>\n<td style=\"width: 23.5378%; height: 79.1562px;\">Wild Arms Hack</td>\n</tr>\n<tr style=\"height: 107.953px;\">\n<td style=\"width: 24.1084%; height: 107.953px;\"><a href=\"https://youtu.be/3CKmDlxQ0Rw\" target=\"_blank\" rel=\"noopener noreferrer\">Tony Hawk's American Wasteland</a></td>\n<td style=\"width: 23.3951%; height: 107.953px;\">Playable</td>\n<td style=\"width: 17.5464%; height: 107.953px;\">1920x1080</td>\n<td style=\"width: 11.2696%; height: 107.953px;\">?</td>\n<td style=\"width: 23.5378%; height: 107.953px;\">Wild Arms Hack</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/lB4epcmTc3g\" target=\"_blank\" rel=\"noopener noreferrer\">True Crime Streets of LA</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">2560x1440</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\">Wild Arms Hack</td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/EqBove1Bn94\" target=\"_blank\" rel=\"noopener noreferrer\">Spider-Man Friend or Foe</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 24.1084%;\"><a href=\"https://youtu.be/UnjmS1kGt-0\" target=\"_blank\" rel=\"noopener noreferrer\">War of the Monsters</a></td>\n<td style=\"width: 23.3951%;\">Playable</td>\n<td style=\"width: 17.5464%;\">3840x2160</td>\n<td style=\"width: 11.2696%;\">?</td>\n<td style=\"width: 23.5378%;\"> </td>\n</tr>\n</tbody>\n</table>\n<h6>¹ Xbox Series S     <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">² Xbox Series X</span></h6>",
             "image": "https://consoleloop.com/media/posts/113/thumbnail.webp",
             "author": {
                 "name": "ConsoleLoop"
@@ -103,8 +103,8 @@
             "tags": [
                    "Tips &amp; Tricks"
             ],
-            "date_published": "2022-12-02T13:38:29-05:00",
-            "date_modified": "2022-12-18T00:09:24-05:00"
+            "date_published": "2022-12-02T10:38:29-08:00",
+            "date_modified": "2022-12-20T21:21:59-08:00"
         }
     ]
 }
