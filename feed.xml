@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-20T21:43:36-08:00</updated>
+    <updated>2022-12-21T12:53:39-08:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Nintendo Switch Joy-Con&#x27;s Are Mechanically Flawed and Xbox Game Pass Might Get Ads</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/nintendo-switch-joy-cons-are-mechanically-flawed-and-xbox-game-pass-might-get-ads/"/>
+        <id>https://consoleloop.com/nintendo-switch-joy-cons-are-mechanically-flawed-and-xbox-game-pass-might-get-ads/</id>
+        <media:content url="https://consoleloop.com/media/posts/133/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2022-12-21T12:53:39-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/133/thumbnail.webp" class="type:primaryImage" alt="Console Loop 50" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/yPrbl4Rw3fA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dragon Ball Z Sagas - Xbox Series S - 4K Frame Rate Test</title>
         <author>
@@ -86,26 +106,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/129/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S The Matrix Path of Neo" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PyzluQ6LlEU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Spider-Man 3 - Xbox Series S - 4K Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/spider-man-3-xbox-series-s-4k-frame-rate-test/"/>
-        <id>https://consoleloop.com/spider-man-3-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/128/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-16T19:39:11-08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/128/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Spider-Man 3" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/kz_CqpbPdJ4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

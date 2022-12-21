@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/nintendo-switch-joy-cons-are-mechanically-flawed-and-xbox-game-pass-might-get-ads/",
+            "url": "https://consoleloop.com/nintendo-switch-joy-cons-are-mechanically-flawed-and-xbox-game-pass-might-get-ads/",
+            "title": "Nintendo Switch Joy-Con&#x27;s Are Mechanically Flawed and Xbox Game Pass Might Get Ads",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/yPrbl4Rw3fA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/133/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-12-21T12:53:39-08:00",
+            "date_modified": "2022-12-21T12:53:39-08:00"
+        },
+        {
             "id": "https://consoleloop.com/dragon-ball-z-sagas-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/dragon-ball-z-sagas-xbox-series-s-4k-frame-rate-test/",
             "title": "Dragon Ball Z Sagas - Xbox Series S - 4K Frame Rate Test",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2022-12-17T20:45:00-08:00",
             "date_modified": "2022-12-17T21:06:14-08:00"
-        },
-        {
-            "id": "https://consoleloop.com/spider-man-3-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/spider-man-3-xbox-series-s-4k-frame-rate-test/",
-            "title": "Spider-Man 3 - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/kz_CqpbPdJ4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/128/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-16T19:39:11-08:00",
-            "date_modified": "2022-12-16T19:39:11-08:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
