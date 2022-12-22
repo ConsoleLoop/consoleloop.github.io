@@ -3,7 +3,7 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-22T18:10:08-05:00</updated>
+    <updated>2022-12-22T18:14:22-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
@@ -119,11 +119,11 @@
         <media:content url="https://consoleloop.com/media/posts/113/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-21T00:21:59-05:00</updated>
+        <updated>2022-12-22T18:14:22-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/113/thumbnail.webp" alt="XBSX2 PS2 Emulator Recommended Settings" />
-                    Game State XSS¹ Resolution XSX² Resolution Hardware Fixes Dragon Ball Z Budokai Tenkaichi 3 Playable 2560x1440 ? TC Offset X: 360 TC Offset Y: 540&hellip;
+                    Game State Xbox Series S Resolution Hardware Fixes Dragon Ball Z Budokai Tenkaichi 3 Playable 2560x1440 TC Offset X: 360 TC Offset Y: 540 Dragon&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -132,134 +132,121 @@
                 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%; height: 582.89px;" border="1">
 <tbody>
 <tr style="height: 79.1562px;">
-<td style="width: 24.1084%; height: 79.1562px;">Game</td>
-<td style="width: 23.3951%; height: 79.1562px;">State</td>
-<td style="width: 17.5464%; height: 79.1562px;">XSS¹ Resolution</td>
-<td style="width: 11.2696%; height: 79.1562px;">XSX² Resolution</td>
-<td style="width: 23.5378%; height: 79.1562px;">Hardware Fixes</td>
+<td style="width: 27.2468%; height: 79.1562px;">Game</td>
+<td style="width: 26.3909%; height: 79.1562px;">State</td>
+<td style="width: 19.8288%; height: 79.1562px;">Xbox Series S Resolution</td>
+<td style="width: 26.5335%; height: 79.1562px;">Hardware Fixes</td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/Sgjukrsnqpw" target="_blank" rel="noopener noreferrer">Dragon Ball Z Budokai Tenkaichi 3</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">2560x1440</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;">TC Offset X: 360<br>TC Offset Y: 540</td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/Sgjukrsnqpw" target="_blank" rel="noopener noreferrer">Dragon Ball Z Budokai Tenkaichi 3</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">2560x1440</td>
+<td style="width: 26.5335%;">TC Offset X: 360<br>TC Offset Y: 540</td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/RMGpry7v458" target="_blank" rel="noopener noreferrer">Dragon Ball Z Sagas</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">3840x2160</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/RMGpry7v458" target="_blank" rel="noopener noreferrer">Dragon Ball Z Sagas</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">3840x2160</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/ZIwATj2Tpu4" target="_blank" rel="noopener noreferrer">God of War</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">1920x1080</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/ZIwATj2Tpu4" target="_blank" rel="noopener noreferrer">God of War</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">1920x1080</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 <tr style="height: 79.1562px;">
-<td style="width: 24.1084%; height: 79.1562px;"><a href="https://youtu.be/j6WsXNxsbhk" target="_blank" rel="noopener noreferrer">Madden NFL 08</a></td>
-<td style="width: 23.3951%; height: 79.1562px;">Playable</td>
-<td style="width: 17.5464%; height: 79.1562px;">2560x1440</td>
-<td style="width: 11.2696%; height: 79.1562px;">?</td>
-<td style="width: 23.5378%; height: 79.1562px;"> </td>
+<td style="width: 27.2468%; height: 79.1562px;"><a href="https://youtu.be/j6WsXNxsbhk" target="_blank" rel="noopener noreferrer">Madden NFL 08</a></td>
+<td style="width: 26.3909%; height: 79.1562px;">Playable</td>
+<td style="width: 19.8288%; height: 79.1562px;">2560x1440</td>
+<td style="width: 26.5335%; height: 79.1562px;"> </td>
 </tr>
 <tr style="height: 79.1562px;">
-<td style="width: 24.1084%; height: 79.1562px;"><a href="https://youtu.be/tDzl0zLRJng" target="_blank" rel="noopener noreferrer">Madden NFL 11</a></td>
-<td style="width: 23.3951%; height: 79.1562px;">Playable</td>
-<td style="width: 17.5464%; height: 79.1562px;">2560x1440</td>
-<td style="width: 11.2696%; height: 79.1562px;">?</td>
-<td style="width: 23.5378%; height: 79.1562px;"> </td>
+<td style="width: 27.2468%; height: 79.1562px;"><a href="https://youtu.be/tDzl0zLRJng" target="_blank" rel="noopener noreferrer">Madden NFL 11</a></td>
+<td style="width: 26.3909%; height: 79.1562px;">Playable</td>
+<td style="width: 19.8288%; height: 79.1562px;">2560x1440</td>
+<td style="width: 26.5335%; height: 79.1562px;"> </td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/YNq2CPOG8CY" target="_blank" rel="noopener noreferrer">NCAA Football 2004</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">1280x720</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/6E8S6l6NqmY" target="_blank" rel="noopener noreferrer">NBA 09 The Inside</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">3840x2160</td>
+<td style="width: 26.5335%;">TC Offset X: 420<br>TC Offset Y: 600</td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/PBqe23qufhE" target="_blank" rel="noopener noreferrer">NCAA Football 11</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">3840x2160</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/YNq2CPOG8CY" target="_blank" rel="noopener noreferrer">NCAA Football 2004</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">1280x720</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/kz_CqpbPdJ4" target="_blank" rel="noopener noreferrer">Spider-Man 3</a></td>
-<td style="width: 23.3951%;">Unstable</td>
-<td style="width: 17.5464%;">1920x1080</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/PBqe23qufhE" target="_blank" rel="noopener noreferrer">NCAA Football 11</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">3840x2160</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/PyzluQ6LlEU" target="_blank" rel="noopener noreferrer">The Matrix Path of Neo</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">1920x1080</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;">Merge Sprite: On<br>Half-Pixel Offset: Special Texture</td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/kz_CqpbPdJ4" target="_blank" rel="noopener noreferrer">Spider-Man 3</a></td>
+<td style="width: 26.3909%;">Unstable</td>
+<td style="width: 19.8288%;">1920x1080</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/Uy9zWVJJ2Xg" target="_blank" rel="noopener noreferrer">Tony Hawk's Pro Skater 3</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">3840x2160</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/PyzluQ6LlEU" target="_blank" rel="noopener noreferrer">The Matrix Path of Neo</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">1920x1080</td>
+<td style="width: 26.5335%;">Merge Sprite: On<br>Half-Pixel Offset: Special Texture</td>
+</tr>
+<tr>
+<td style="width: 27.2468%;"><a href="https://youtu.be/Uy9zWVJJ2Xg" target="_blank" rel="noopener noreferrer">Tony Hawk's Pro Skater 3</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">3840x2160</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 <tr style="height: 79.1562px;">
-<td style="width: 24.1084%; height: 79.1562px;"><a href="https://youtu.be/OghJ1Ky1tIk" target="_blank" rel="noopener noreferrer">Tony Hawk's Pro Skater 4</a></td>
-<td style="width: 23.3951%; height: 79.1562px;">Playable</td>
-<td style="width: 17.5464%; height: 79.1562px;">3840x2160</td>
-<td style="width: 11.2696%; height: 79.1562px;">?</td>
-<td style="width: 23.5378%; height: 79.1562px;"> </td>
+<td style="width: 27.2468%; height: 79.1562px;"><a href="https://youtu.be/OghJ1Ky1tIk" target="_blank" rel="noopener noreferrer">Tony Hawk's Pro Skater 4</a></td>
+<td style="width: 26.3909%; height: 79.1562px;">Playable</td>
+<td style="width: 19.8288%; height: 79.1562px;">3840x2160</td>
+<td style="width: 26.5335%; height: 79.1562px;"> </td>
 </tr>
 <tr style="height: 79.1562px;">
-<td style="width: 24.1084%; height: 79.1562px;"><a href="https://youtu.be/9dZs8YwT3do" target="_blank" rel="noopener noreferrer">Tony Hawk's Underground</a></td>
-<td style="width: 23.3951%; height: 79.1562px;">Playable</td>
-<td style="width: 17.5464%; height: 79.1562px;">3840x2160</td>
-<td style="width: 11.2696%; height: 79.1562px;">?</td>
-<td style="width: 23.5378%; height: 79.1562px;"> </td>
+<td style="width: 27.2468%; height: 79.1562px;"><a href="https://youtu.be/9dZs8YwT3do" target="_blank" rel="noopener noreferrer">Tony Hawk's Underground</a></td>
+<td style="width: 26.3909%; height: 79.1562px;">Playable</td>
+<td style="width: 19.8288%; height: 79.1562px;">3840x2160</td>
+<td style="width: 26.5335%; height: 79.1562px;"> </td>
 </tr>
 <tr style="height: 79.1562px;">
-<td style="width: 24.1084%; height: 79.1562px;"><a href="https://youtu.be/vBQtBWZ-yJI" target="_blank" rel="noopener noreferrer">Tony Hawk's Underground 2</a></td>
-<td style="width: 23.3951%; height: 79.1562px;">Playable</td>
-<td style="width: 17.5464%; height: 79.1562px;">2560x1440</td>
-<td style="width: 11.2696%; height: 79.1562px;">?</td>
-<td style="width: 23.5378%; height: 79.1562px;">Wild Arms Hack</td>
+<td style="width: 27.2468%; height: 79.1562px;"><a href="https://youtu.be/vBQtBWZ-yJI" target="_blank" rel="noopener noreferrer">Tony Hawk's Underground 2</a></td>
+<td style="width: 26.3909%; height: 79.1562px;">Playable</td>
+<td style="width: 19.8288%; height: 79.1562px;">2560x1440</td>
+<td style="width: 26.5335%; height: 79.1562px;">Wild Arms Hack</td>
 </tr>
 <tr style="height: 107.953px;">
-<td style="width: 24.1084%; height: 107.953px;"><a href="https://youtu.be/3CKmDlxQ0Rw" target="_blank" rel="noopener noreferrer">Tony Hawk's American Wasteland</a></td>
-<td style="width: 23.3951%; height: 107.953px;">Playable</td>
-<td style="width: 17.5464%; height: 107.953px;">1920x1080</td>
-<td style="width: 11.2696%; height: 107.953px;">?</td>
-<td style="width: 23.5378%; height: 107.953px;">Wild Arms Hack</td>
+<td style="width: 27.2468%; height: 107.953px;"><a href="https://youtu.be/3CKmDlxQ0Rw" target="_blank" rel="noopener noreferrer">Tony Hawk's American Wasteland</a></td>
+<td style="width: 26.3909%; height: 107.953px;">Playable</td>
+<td style="width: 19.8288%; height: 107.953px;">1920x1080</td>
+<td style="width: 26.5335%; height: 107.953px;">Wild Arms Hack</td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/lB4epcmTc3g" target="_blank" rel="noopener noreferrer">True Crime Streets of LA</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">2560x1440</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;">Wild Arms Hack</td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/lB4epcmTc3g" target="_blank" rel="noopener noreferrer">True Crime Streets of LA</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">2560x1440</td>
+<td style="width: 26.5335%;">Wild Arms Hack</td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/EqBove1Bn94" target="_blank" rel="noopener noreferrer">Spider-Man Friend or Foe</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">3840x2160</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/EqBove1Bn94" target="_blank" rel="noopener noreferrer">Spider-Man Friend or Foe</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">3840x2160</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 <tr>
-<td style="width: 24.1084%;"><a href="https://youtu.be/UnjmS1kGt-0" target="_blank" rel="noopener noreferrer">War of the Monsters</a></td>
-<td style="width: 23.3951%;">Playable</td>
-<td style="width: 17.5464%;">3840x2160</td>
-<td style="width: 11.2696%;">?</td>
-<td style="width: 23.5378%;"> </td>
+<td style="width: 27.2468%;"><a href="https://youtu.be/UnjmS1kGt-0" target="_blank" rel="noopener noreferrer">War of the Monsters</a></td>
+<td style="width: 26.3909%;">Playable</td>
+<td style="width: 19.8288%;">3840x2160</td>
+<td style="width: 26.5335%;"> </td>
 </tr>
 </tbody>
 </table>
-<h6>¹ Xbox Series S     <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">² Xbox Series X</span></h6>
             ]]>
         </content>
     </entry>
