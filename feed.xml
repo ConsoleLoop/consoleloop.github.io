@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-22T19:11:18-05:00</updated>
+    <updated>2022-12-23T03:59:22-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>How To Play PS2 Games On Xbox Series S and X - Tips &amp; Tricks</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/how-to-play-ps2-games-on-xbox-series-s-and-x-tips-and-tricks/"/>
+        <id>https://consoleloop.com/how-to-play-ps2-games-on-xbox-series-s-and-x-tips-and-tricks/</id>
+        <media:content url="https://consoleloop.com/media/posts/136/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Tips &amp; Tricks"/>
+
+        <updated>2022-12-23T03:59:22-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/136/thumbnail.webp" class="type:primaryImage" alt="How To Play PS2 Games On Xbox Series S and X Tips &amp; Tricks" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7dp4Q_BmRp0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Call of Duty Modern Warfare II Safe Locations</title>
         <author>
@@ -146,26 +166,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/132/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Dragon Ball Z Sagas" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/RMGpry7v458" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>True Crime Streets of LA - Xbox Series S - 4K Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/true-crime-streets-of-la-xbox-series-s-4k-frame-rate-test/"/>
-        <id>https://consoleloop.com/true-crime-streets-of-la-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/131/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-21T00:43:36-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/131/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S True Crime Streets of LA" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/lB4epcmTc3g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/how-to-play-ps2-games-on-xbox-series-s-and-x-tips-and-tricks/",
+            "url": "https://consoleloop.com/how-to-play-ps2-games-on-xbox-series-s-and-x-tips-and-tricks/",
+            "title": "How To Play PS2 Games On Xbox Series S and X - Tips &amp; Tricks",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/7dp4Q_BmRp0\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/136/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Tips &amp; Tricks"
+            ],
+            "date_published": "2022-12-23T03:58:54-05:00",
+            "date_modified": "2022-12-23T03:59:22-05:00"
+        },
+        {
             "id": "https://consoleloop.com/call-of-duty-modern-warfare-ii-safe-locations/",
             "url": "https://consoleloop.com/call-of-duty-modern-warfare-ii-safe-locations/",
             "title": "Call of Duty Modern Warfare II Safe Locations",
@@ -74,22 +90,6 @@
             ],
             "date_published": "2022-12-21T00:18:51-05:00",
             "date_modified": "2022-12-21T00:18:51-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/true-crime-streets-of-la-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/true-crime-streets-of-la-xbox-series-s-4k-frame-rate-test/",
-            "title": "True Crime Streets of LA - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/lB4epcmTc3g\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/131/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-20T00:17:00-05:00",
-            "date_modified": "2022-12-21T00:43:36-05:00"
         },
         {
             "id": "https://consoleloop.com/xbsx2-recommended-settings-list/",
