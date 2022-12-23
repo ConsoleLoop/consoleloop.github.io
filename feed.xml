@@ -3,7 +3,7 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-23T03:59:22-05:00</updated>
+    <updated>2022-12-23T18:12:38-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
@@ -20,12 +20,12 @@
             <category term="Videos"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-23T03:59:22-05:00</updated>
+        <updated>2022-12-23T18:12:38-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/136/thumbnail.webp" class="type:primaryImage" alt="How To Play PS2 Games On Xbox Series S and X Tips &amp; Tricks" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7dp4Q_BmRp0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/kAk5M56_AaQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
