@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/sifu-is-coming-to-xbox-steam-and-rockstar-dmcad-goat-simulator-3-trailer/",
+            "url": "https://consoleloop.com/sifu-is-coming-to-xbox-steam-and-rockstar-dmcad-goat-simulator-3-trailer/",
+            "title": "Sifu Is Coming To Xbox + Steam and Rockstar DMCA&#x27;d Goat Simulator 3 Trailer",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Afq06JuKEJM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/141/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2022-12-26T18:42:57-05:00",
+            "date_modified": "2022-12-26T18:50:22-05:00"
+        },
+        {
             "id": "https://consoleloop.com/ape-escape-2-xbox-series-s-4k-frame-rate-test/",
             "url": "https://consoleloop.com/ape-escape-2-xbox-series-s-4k-frame-rate-test/",
             "title": "Ape Escape 2 - Xbox Series S - 4K Frame Rate Test",
@@ -57,22 +73,6 @@
             ],
             "date_published": "2022-12-25T19:22:01-05:00",
             "date_modified": "2022-12-25T19:22:01-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/nba-2k11-xbox-series-s-4k-frame-rate-test/",
-            "url": "https://consoleloop.com/nba-2k11-xbox-series-s-4k-frame-rate-test/",
-            "title": "NBA 2K11 - Xbox Series S - 4K Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ktUw363ZQ6A\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/137/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "XBSX2",
-                   "Videos"
-            ],
-            "date_published": "2022-12-24T22:19:47-05:00",
-            "date_modified": "2022-12-24T22:19:47-05:00"
         },
         {
             "id": "https://consoleloop.com/how-to-play-ps2-games-on-xbox-series-s-and-x-tips-and-tricks/",
