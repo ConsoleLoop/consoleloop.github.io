@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-26T18:50:22-05:00</updated>
+    <updated>2022-12-27T12:14:18-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Tony Hawk&#x27;s Project 8 - Xbox Series S - 4K Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/tony-hawks-project-8-xbox-series-s-4k-frame-rate-test/"/>
+        <id>https://consoleloop.com/tony-hawks-project-8-xbox-series-s-4k-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/142/thumbnail.webp" medium="image" />
+            <category term="XBSX2"/>
+            <category term="Videos"/>
+
+        <updated>2022-12-27T12:13:21-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/142/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Tony Hawk&#x27;s Project 8" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AoSyxJzg0Us" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sifu Is Coming To Xbox + Steam and Rockstar DMCA&#x27;d Goat Simulator 3 Trailer</title>
         <author>
@@ -70,26 +90,6 @@
         </content>
     </entry>
     <entry>
-        <title>Mortal Kombat Shaolin Monks - Xbox Series S - 4K Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/mortal-kombat-shaolin-monks-xbox-series-s-4k-frame-rate-test/"/>
-        <id>https://consoleloop.com/mortal-kombat-shaolin-monks-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/138/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-25T19:22:01-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/138/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Mortal Kombat Shaolin Monks" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/sD7R3QvA6Bo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>How To Play PS2 Games On Xbox Series S and X - Tips &amp; Tricks</title>
         <author>
             <name>ConsoleLoop</name>
@@ -119,7 +119,7 @@
         <media:content url="https://consoleloop.com/media/posts/113/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-26T13:01:19-05:00</updated>
+        <updated>2022-12-27T12:14:18-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/113/thumbnail.webp" alt="XBSX2 PS2 Emulator Recommended Settings" />
@@ -281,7 +281,7 @@
 <td style="width: 12.5535%;"> </td>
 </tr>
 <tr>
-<td style="width: 26.5335%;">Tony Hawk's Project 8</td>
+<td style="width: 26.5335%;"><a href="https://youtu.be/AoSyxJzg0Us" target="_blank" rel="noopener noreferrer">Tony Hawk's Project 8</a></td>
 <td style="width: 25.3923%;">Playable</td>
 <td style="width: 19.6862%;">1440p</td>
 <td style="width: 15.9772%;">TC Offset X: 41<br>TC Offset Y: 60</td>
