@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-28T12:08:15-05:00</updated>
+    <updated>2022-12-29T13:50:08-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Tony Hawk&#x27;s Proving Ground - Xbox Series S - 4K Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/tony-hawks-proving-ground-xbox-series-s-4k-frame-rate-test/"/>
+        <id>https://consoleloop.com/tony-hawks-proving-ground-xbox-series-s-4k-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/144/thumbnail.webp" medium="image" />
+            <category term="XBSX2"/>
+            <category term="Videos"/>
+
+        <updated>2022-12-29T13:44:55-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/144/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Tony Hawk&#x27;s Proving Ground" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/SqAsB1vifMs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Teenage Mutant Ninja Turtles 3 Mutant Nightmare - Xbox Series S - 4K Frame Rate Test</title>
         <author>
@@ -70,26 +90,6 @@
         </content>
     </entry>
     <entry>
-        <title>Ape Escape 2 - Xbox Series S - 4K Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/ape-escape-2-xbox-series-s-4k-frame-rate-test/"/>
-        <id>https://consoleloop.com/ape-escape-2-xbox-series-s-4k-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/140/thumbnail.webp" medium="image" />
-            <category term="XBSX2"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-26T12:56:16-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/140/thumbnail.webp" class="type:primaryImage" alt="Xbox Series S Ape Escape 2" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/G-stuCY16mY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>How To Play PS2 Games On Xbox Series S and X - Tips &amp; Tricks</title>
         <author>
             <name>ConsoleLoop</name>
@@ -119,7 +119,7 @@
         <media:content url="https://consoleloop.com/media/posts/113/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-28T12:08:15-05:00</updated>
+        <updated>2022-12-29T13:50:08-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/113/thumbnail.webp" alt="XBSX2 PS2 Emulator Recommended Settings" />
@@ -293,6 +293,13 @@
 <td style="width: 19.6862%;">1440p</td>
 <td style="width: 15.9772%;">TC Offset X: 41<br>TC Offset Y: 60</td>
 <td style="width: 12.5535%;">Widescreen Mode in settings gives you more visibility.</td>
+</tr>
+<tr>
+<td style="width: 26.5335%;"><a href="https://youtu.be/SqAsB1vifMs" target="_blank" rel="noopener noreferrer">Tony Hawk's Proving Ground</a></td>
+<td style="width: 25.3923%;">Occasional Crashes</td>
+<td style="width: 19.6862%;">4K</td>
+<td style="width: 15.9772%;">Wild Arms Hack<br>TC Offset X: 100<br>TC Offset Y: 180</td>
+<td style="width: 12.5535%;">For Split-Screen you will need to lower resolution.</td>
 </tr>
 <tr>
 <td style="width: 26.5335%;"><a href="https://youtu.be/lB4epcmTc3g" target="_blank" rel="noopener noreferrer">True Crime Streets of LA</a></td>
