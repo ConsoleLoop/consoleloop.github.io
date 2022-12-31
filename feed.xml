@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-30T16:09:27-05:00</updated>
+    <updated>2022-12-31T15:08:32-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Need For Speed Undercover - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/need-for-speed-undercover-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/need-for-speed-undercover-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/147/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2022-12-31T02:04:32-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/147/thumbnail.webp" class="type:primaryImage" alt="Need For Speed Undercover" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/5ddBSZnMfIo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AetherSX2 Recommended Settings List</title>
         <author>
@@ -19,11 +39,11 @@
         <media:content url="https://consoleloop.com/media/posts/146/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-30T16:09:27-05:00</updated>
+        <updated>2022-12-31T15:08:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
-                    Game State Xbox Series S Resolution Hardware Fixes Harry Potter and the Sorcerer's Stone Playable 4K The 60fps patch performs very inconsistent, so I don't&hellip;
+                    Game State Xbox Series S Resolution Hardware Fixes Harry Potter and the Sorcerer's Stone Playable 4K The 60fps patch performs very inconsistently, so I don't&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -50,7 +70,20 @@
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
 <tr>
-<td style="width: 100%;" colspan="4">The 60fps patch performs very inconsistent, so I don't recommend it.</td>
+<td style="width: 100%;" colspan="4">The 60fps patch performs very inconsistently, so I don't recommend it. Inside the castle, I noticed frame drops but they were brief.</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/5ddBSZnMfIo" target="_blank" rel="noopener noreferrer">Need For Speed Undercover</a></td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">1440p</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4">It has small stutters regardless of resolution but is still playable, just not at 4K. One scene did have graphical glitches but I've not noticed them anywhere else.</td>
 </tr>
 </tbody>
 </table>
@@ -134,26 +167,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/142/thumbnail.webp" class="type:primaryImage" alt="Tony Hawk&#x27;s Project 8" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AoSyxJzg0Us" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sifu Is Coming To Xbox + Steam and Rockstar DMCA&#x27;d Goat Simulator 3 Trailer</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/sifu-is-coming-to-xbox-steam-and-rockstar-dmcad-goat-simulator-3-trailer/"/>
-        <id>https://consoleloop.com/sifu-is-coming-to-xbox-steam-and-rockstar-dmcad-goat-simulator-3-trailer/</id>
-        <media:content url="https://consoleloop.com/media/posts/141/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2022-12-26T18:50:22-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/141/thumbnail.webp" class="type:primaryImage" alt="Console Loop 51" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Afq06JuKEJM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
