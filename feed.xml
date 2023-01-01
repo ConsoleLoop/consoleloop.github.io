@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2022-12-31T15:08:32-05:00</updated>
+    <updated>2023-01-01T13:48:47-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Spider-Man 2 - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/spider-man-2-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/spider-man-2-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/148/thumbnail.png" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-01T13:42:06-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/148/thumbnail.png" class="type:primaryImage" alt="Spider-Man 2" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/voXQKJM-GiY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Need For Speed Undercover - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -39,7 +59,7 @@
         <media:content url="https://consoleloop.com/media/posts/146/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2022-12-31T15:08:32-05:00</updated>
+        <updated>2023-01-01T13:48:47-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
@@ -84,6 +104,19 @@
 </tr>
 <tr>
 <td style="width: 100%;" colspan="4">It has small stutters regardless of resolution but is still playable, just not at 4K. One scene did have graphical glitches but I've not noticed them anywhere else.</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/voXQKJM-GiY" target="_blank" rel="noopener noreferrer">Spider-Man 2</a></td>
+<td class="align-center" style="width: 12.4182%;">Glitchy</td>
+<td class="align-center" style="width: 16.9757%;">1440p</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4">4K causes crashes and random textures are glitchy. Turning off V-Sync does decrease frame rate drops but as a result introduces screen tearing.</td>
 </tr>
 </tbody>
 </table>
@@ -147,26 +180,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/143/thumbnail.webp" class="type:primaryImage" alt="Teenage Mutant Ninja Turtles 3 Mutant Nightmare" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/YWM-hXohP-A" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tony Hawk&#x27;s Project 8 - Xbox Series S - XBSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/tony-hawks-project-8-xbox-series-s-xbsx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/tony-hawks-project-8-xbox-series-s-xbsx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/142/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-29T16:49:21-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/142/thumbnail.webp" class="type:primaryImage" alt="Tony Hawk&#x27;s Project 8" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AoSyxJzg0Us" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
