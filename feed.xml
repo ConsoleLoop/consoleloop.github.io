@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-01T13:48:47-05:00</updated>
+    <updated>2023-01-02T17:47:01-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Midnight Club 3 DUB Edition Remix - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/midnight-club-3-dub-edition-remix-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/midnight-club-3-dub-edition-remix-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/150/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-02T17:41:51-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/150/thumbnail.webp" class="type:primaryImage" alt="Midnight Club 3 DUB Edition Remix" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/3JBE-2oZHJM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Spider-Man 2 - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -50,20 +70,20 @@
         </content>
     </entry>
     <entry>
-        <title>AetherSX2 Recommended Settings List</title>
+        <title>Xbox Series X|S Recommended AetherSX2 Settings List</title>
         <author>
             <name>ConsoleLoop</name>
         </author>
-        <link href="https://consoleloop.com/aethersx2-recommended-settings-list/"/>
-        <id>https://consoleloop.com/aethersx2-recommended-settings-list/</id>
+        <link href="https://consoleloop.com/xbox-series-xors-recommended-aethersx2-settings-list/"/>
+        <id>https://consoleloop.com/xbox-series-xors-recommended-aethersx2-settings-list/</id>
         <media:content url="https://consoleloop.com/media/posts/146/thumbnail.webp" medium="image" />
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-01T13:48:47-05:00</updated>
+        <updated>2023-01-02T17:47:01-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
-                    Game State Xbox Series S Resolution Hardware Fixes Harry Potter and the Sorcerer's Stone Playable 4K The 60fps patch performs very inconsistently, so I don't&hellip;
+                    Game State Xbox Series S Resolution Hardware Fixes Harry Potter and the Sorcerer's Stone Playable 4K Inside the castle, I noticed frame drops but they&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -90,7 +110,20 @@
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
 <tr>
-<td style="width: 100%;" colspan="4">The 60fps patch performs very inconsistently, so I don't recommend it. Inside the castle, I noticed frame drops but they were brief.</td>
+<td style="width: 100%;" colspan="4">Inside the castle, I noticed frame drops but they were brief. The 60fps patch performs very inconsistently, so I don't recommend it.</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/3JBE-2oZHJM" target="_blank" rel="noopener noreferrer">Midnight Club 3 - DUB Edition Remix</a></td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">1440p</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4"> </td>
 </tr>
 </tbody>
 </table>
@@ -117,6 +150,45 @@
 </tr>
 <tr>
 <td style="width: 100%;" colspan="4">4K causes crashes and random textures are glitchy. Turning off V-Sync does decrease frame rate drops but as a result introduces screen tearing.</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Tony Hawk's Underground</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4K</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4">It has a glitch that tanks the frame rate to half, opening the quick menu and resuming gets rid of it.</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Tony Hawk's Underground 2</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">1440p</td>
+<td class="align-center" style="width: 16.9757%;">Wild Arms Hack<br>TC Offset X: 20<br>TC Offset Y: 140</td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4">It has a glitch that tanks the frame rate to half, opening the quick menu and resuming gets rid of it. The ghosting issue caused by upscaling is an issue, enable hardware hacks to reduce it.</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Tony Hawk's American Wasteland</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">1440p</td>
+<td class="align-center" style="width: 16.9757%;">Wild Arms Hack</td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4">The ghosting issue caused by upscaling is an issue, enable hardware hacks to reduce it.</td>
 </tr>
 </tbody>
 </table>
@@ -160,26 +232,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/144/thumbnail.webp" class="type:primaryImage" alt="Tony Hawk&#x27;s Proving Ground" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/SqAsB1vifMs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Teenage Mutant Ninja Turtles 3 Mutant Nightmare - Xbox Series S - XBSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/teenage-mutant-ninja-turtles-3-mutant-nightmare-xbox-series-s-xbsx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/teenage-mutant-ninja-turtles-3-mutant-nightmare-xbox-series-s-xbsx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/143/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-29T16:48:56-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/143/thumbnail.webp" class="type:primaryImage" alt="Teenage Mutant Ninja Turtles 3 Mutant Nightmare" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/YWM-hXohP-A" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
