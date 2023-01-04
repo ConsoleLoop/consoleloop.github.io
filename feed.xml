@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-03T05:06:56-05:00</updated>
+    <updated>2023-01-04T03:30:43-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>God of War II - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/god-of-war-ii-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/god-of-war-ii-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/152/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-04T03:28:36-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/152/thumbnail.webp" class="type:primaryImage" alt="God of War II" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OBU13-jHQVM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bomberman Generation - Xbox Series S - Dolphin Frame Rate Test</title>
         <author>
@@ -46,56 +66,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/150/thumbnail.webp" class="type:primaryImage" alt="Midnight Club 3 DUB Edition Remix" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/3JBE-2oZHJM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Xbox Series X|S Recommended Dolphin Settings List</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/xbox-series-xors-recommended-dolphin-settings-list/"/>
-        <id>https://consoleloop.com/xbox-series-xors-recommended-dolphin-settings-list/</id>
-        <media:content url="https://consoleloop.com/media/posts/149/thumbnail.webp" medium="image" />
-            <category term="Xbox Series X"/>
-            <category term="Xbox Series S"/>
-            <category term="Tips &amp; Tricks"/>
-
-        <updated>2023-01-03T04:36:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://consoleloop.com/media/posts/149/thumbnail.webp" alt="Dolphin Recommended Settings" />
-                    Game State Xbox Series S Resolution RetroArch Version Bomberman Generation Playable 4K 1.14.0 Currently testing multiple GameCube games, so far a couple have randomly crashed,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/149/thumbnail.webp" class="type:primaryImage" alt="Dolphin Recommended Settings" /></p>
-                <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr style="height: 79.1562px;">
-<td style="width: 53.6303%; height: 79.1562px;">Game</td>
-<td class="align-center" style="width: 12.4182%; height: 79.1562px;">State</td>
-<td class="align-center" style="width: 16.9757%; height: 79.1562px;">
-<p>Xbox Series S Resolution</p>
-</td>
-<td class="align-center" style="width: 16.9757%; height: 79.1562px;">RetroArch Version</td>
-</tr>
-</tbody>
-</table>
-<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 53.6303%;"><a href="https://youtu.be/l_MWAyP17Gc" target="_blank" rel="noopener noreferrer">Bomberman Generation</a></td>
-<td class="align-center" style="width: 12.4182%;">Playable</td>
-<td class="align-center" style="width: 16.9757%;">4K</td>
-<td class="align-center" style="width: 16.9757%;">1.14.0</td>
-</tr>
-<tr>
-<td style="width: 100%;" colspan="4">Currently testing multiple GameCube games, so far a couple have randomly crashed, including this one, and I've yet to pinpoint the cause.</td>
-</tr>
-</tbody>
-</table>
             ]]>
         </content>
     </entry>
@@ -151,7 +121,7 @@
             <category term="Xbox Series S"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-03T05:04:55-05:00</updated>
+        <updated>2023-01-04T03:30:43-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
@@ -192,6 +162,16 @@
 <td style="width: 53.6303%;">Dragon Ball Z Sagas</td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/OBU13-jHQVM" target="_blank" rel="noopener noreferrer">God of War II</a></td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">2x (720p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
 </tbody>
