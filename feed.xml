@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-04T03:30:43-05:00</updated>
+    <updated>2023-01-04T15:14:02-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Yu Yu Hakusho Dark Tournament - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/yu-yu-hakusho-dark-tournament-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/yu-yu-hakusho-dark-tournament-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/154/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-04T15:14:02-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/154/thumbnail.webp" class="type:primaryImage" alt="Yu Yu Hakusho Dark Tournament" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2Brw3llSL98" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>An Exploit Compromises Nintendo Consoles and Payday 3 Pre-Alpha Footage Revealed - Console Loop</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/an-exploit-compromises-nintendo-consoles-and-payday-3-pre-alpha-footage-revealed-console-loop/"/>
+        <id>https://consoleloop.com/an-exploit-compromises-nintendo-consoles-and-payday-3-pre-alpha-footage-revealed-console-loop/</id>
+        <media:content url="https://consoleloop.com/media/posts/153/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2023-01-04T15:12:21-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/153/thumbnail.webp" class="type:primaryImage" alt="Console Loop 52" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/_t64bTzilbk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>God of War II - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -50,26 +90,6 @@
         </content>
     </entry>
     <entry>
-        <title>Midnight Club 3 DUB Edition Remix - Xbox Series S - AetherSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/midnight-club-3-dub-edition-remix-xbox-series-s-aethersx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/midnight-club-3-dub-edition-remix-xbox-series-s-aethersx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/150/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2023-01-02T17:41:51-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/150/thumbnail.webp" class="type:primaryImage" alt="Midnight Club 3 DUB Edition Remix" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/3JBE-2oZHJM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Spider-Man 2 - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
             <name>ConsoleLoop</name>
@@ -86,26 +106,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/148/thumbnail.png" class="type:primaryImage" alt="Spider-Man 2" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/voXQKJM-GiY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Need For Speed Undercover - Xbox Series S - AetherSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/need-for-speed-undercover-xbox-series-s-aethersx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/need-for-speed-undercover-xbox-series-s-aethersx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/147/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2022-12-31T02:04:32-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/147/thumbnail.webp" class="type:primaryImage" alt="Need For Speed Undercover" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/5ddBSZnMfIo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>

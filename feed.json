@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://consoleloop.com/yu-yu-hakusho-dark-tournament-xbox-series-s-aethersx2-frame-rate-test/",
+            "url": "https://consoleloop.com/yu-yu-hakusho-dark-tournament-xbox-series-s-aethersx2-frame-rate-test/",
+            "title": "Yu Yu Hakusho Dark Tournament - Xbox Series S - AetherSX2 Frame Rate Test",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/2Brw3llSL98\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/154/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Xbox Series S",
+                   "Videos"
+            ],
+            "date_published": "2023-01-04T15:14:02-05:00",
+            "date_modified": "2023-01-04T15:14:02-05:00"
+        },
+        {
+            "id": "https://consoleloop.com/an-exploit-compromises-nintendo-consoles-and-payday-3-pre-alpha-footage-revealed-console-loop/",
+            "url": "https://consoleloop.com/an-exploit-compromises-nintendo-consoles-and-payday-3-pre-alpha-footage-revealed-console-loop/",
+            "title": "An Exploit Compromises Nintendo Consoles and Payday 3 Pre-Alpha Footage Revealed - Console Loop",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/_t64bTzilbk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "image": "https://consoleloop.com/media/posts/153/thumbnail.webp",
+            "author": {
+                "name": "ConsoleLoop"
+            },
+            "tags": [
+                   "Videos",
+                   "Console Loops"
+            ],
+            "date_published": "2023-01-04T15:12:21-05:00",
+            "date_modified": "2023-01-04T15:12:21-05:00"
+        },
+        {
             "id": "https://consoleloop.com/god-of-war-ii-xbox-series-s-aethersx2-frame-rate-test/",
             "url": "https://consoleloop.com/god-of-war-ii-xbox-series-s-aethersx2-frame-rate-test/",
             "title": "God of War II - Xbox Series S - AetherSX2 Frame Rate Test",
@@ -43,22 +75,6 @@
             "date_modified": "2023-01-03T05:06:56-05:00"
         },
         {
-            "id": "https://consoleloop.com/midnight-club-3-dub-edition-remix-xbox-series-s-aethersx2-frame-rate-test/",
-            "url": "https://consoleloop.com/midnight-club-3-dub-edition-remix-xbox-series-s-aethersx2-frame-rate-test/",
-            "title": "Midnight Club 3 DUB Edition Remix - Xbox Series S - AetherSX2 Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/3JBE-2oZHJM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/150/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Xbox Series S",
-                   "Videos"
-            ],
-            "date_published": "2023-01-02T17:41:51-05:00",
-            "date_modified": "2023-01-02T17:41:51-05:00"
-        },
-        {
             "id": "https://consoleloop.com/spider-man-2-xbox-series-s-aethersx2-frame-rate-test/",
             "url": "https://consoleloop.com/spider-man-2-xbox-series-s-aethersx2-frame-rate-test/",
             "title": "Spider-Man 2 - Xbox Series S - AetherSX2 Frame Rate Test",
@@ -73,22 +89,6 @@
             ],
             "date_published": "2023-01-01T13:42:06-05:00",
             "date_modified": "2023-01-01T13:42:06-05:00"
-        },
-        {
-            "id": "https://consoleloop.com/need-for-speed-undercover-xbox-series-s-aethersx2-frame-rate-test/",
-            "url": "https://consoleloop.com/need-for-speed-undercover-xbox-series-s-aethersx2-frame-rate-test/",
-            "title": "Need For Speed Undercover - Xbox Series S - AetherSX2 Frame Rate Test",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/5ddBSZnMfIo\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
-            "image": "https://consoleloop.com/media/posts/147/thumbnail.webp",
-            "author": {
-                "name": "ConsoleLoop"
-            },
-            "tags": [
-                   "Xbox Series S",
-                   "Videos"
-            ],
-            "date_published": "2022-12-31T02:04:32-05:00",
-            "date_modified": "2022-12-31T02:04:32-05:00"
         },
         {
             "id": "https://consoleloop.com/xbox-series-xors-recommended-aethersx2-settings-list/",
