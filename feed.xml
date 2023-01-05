@@ -3,7 +3,7 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-04T15:14:02-05:00</updated>
+    <updated>2023-01-04T19:41:14-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
@@ -20,12 +20,12 @@
             <category term="Xbox Series S"/>
             <category term="Videos"/>
 
-        <updated>2023-01-04T15:14:02-05:00</updated>
+        <updated>2023-01-04T19:28:18-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/154/thumbnail.webp" class="type:primaryImage" alt="Yu Yu Hakusho Dark Tournament" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/2Brw3llSL98" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/aKZuA01KO8Y" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -121,7 +121,7 @@
             <category term="Xbox Series S"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-04T03:30:43-05:00</updated>
+        <updated>2023-01-04T19:41:14-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
@@ -324,6 +324,19 @@
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/aKZuA01KO8Y" target="_blank" rel="noopener noreferrer">Yu Yu Hakusho Dark Tournament</a></td>
+<td class="align-center" style="width: 12.4182%;">Laggy</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4">4K is unplayable, but anything below that resolution is still laggy.</td>
 </tr>
 </tbody>
 </table>
