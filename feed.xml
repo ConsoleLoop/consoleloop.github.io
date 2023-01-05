@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-04T19:41:14-05:00</updated>
+    <updated>2023-01-05T15:22:35-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Ultimate Spider-Man - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/ultimate-spider-man-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/ultimate-spider-man-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/155/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-05T15:22:35-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/155/thumbnail.webp" class="type:primaryImage" alt="Ultimate Spider-Man" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-exp-3CSZDw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Yu Yu Hakusho Dark Tournament - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -70,26 +90,6 @@
         </content>
     </entry>
     <entry>
-        <title>Bomberman Generation - Xbox Series S - Dolphin Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/bomberman-generation-xbox-series-s-dolphin-frame-rate-test/"/>
-        <id>https://consoleloop.com/bomberman-generation-xbox-series-s-dolphin-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/151/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2023-01-03T05:06:56-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/151/thumbnail.webp" class="type:primaryImage" alt="Bomberman Generation" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/l_MWAyP17Gc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Spider-Man 2 - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
             <name>ConsoleLoop</name>
@@ -121,7 +121,7 @@
             <category term="Xbox Series S"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-04T19:41:14-05:00</updated>
+        <updated>2023-01-05T15:21:37-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
@@ -314,6 +314,19 @@
 </tr>
 <tr>
 <td style="width: 100%;" colspan="4">There's ghosting caused by upscaling, enable hardware hacks to reduce it.</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/-exp-3CSZDw" target="_blank" rel="noopener noreferrer">Ultimate Spider-Man</a></td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+<tr>
+<td style="width: 100%;" colspan="4">It has frame drops every few seconds but is still very playable.</td>
 </tr>
 </tbody>
 </table>
