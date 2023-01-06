@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-05T15:22:35-05:00</updated>
+    <updated>2023-01-06T13:05:37-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>The Simpsons Hit &amp; Run - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/the-simpsons-hit-and-run-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/the-simpsons-hit-and-run-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/156/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-06T12:59:08-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/156/thumbnail.webp" class="type:primaryImage" alt="The Simpsons Hit &amp; Run" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/h0C5DDNIzFg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ultimate Spider-Man - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -26,26 +46,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/155/thumbnail.webp" class="type:primaryImage" alt="Ultimate Spider-Man" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-exp-3CSZDw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Yu Yu Hakusho Dark Tournament - Xbox Series S - AetherSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/yu-yu-hakusho-dark-tournament-xbox-series-s-aethersx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/yu-yu-hakusho-dark-tournament-xbox-series-s-aethersx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/154/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2023-01-04T19:28:18-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/154/thumbnail.webp" class="type:primaryImage" alt="Yu Yu Hakusho Dark Tournament" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/aKZuA01KO8Y" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -121,7 +121,7 @@
             <category term="Xbox Series S"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-05T15:21:37-05:00</updated>
+        <updated>2023-01-06T13:05:37-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
@@ -150,9 +150,6 @@
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;">TC Offset X: 360<br>TC Offset Y: 540</td>
-</tr>
-<tr>
-<td style="width: 100%;" colspan="4">There's ghosting caused by upscaling, enable hardware hacks to reduce it.</td>
 </tr>
 </tbody>
 </table>
@@ -184,9 +181,6 @@
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
-<tr>
-<td style="width: 100%;" colspan="4">Inside the castle, I noticed frame drops but they were brief. The 60fps patch performs very inconsistently, so I don't recommend it.</td>
-</tr>
 </tbody>
 </table>
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
@@ -207,9 +201,6 @@
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
-<tr>
-<td style="width: 100%;" colspan="4">There's ghosting caused by upscaling, enable hardware hacks to reduce it.</td>
-</tr>
 </tbody>
 </table>
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
@@ -219,9 +210,6 @@
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
-</tr>
-<tr>
-<td style="width: 100%;" colspan="4">It has small stutters regardless of resolution but is still playable, just not at 4K. One scene did have graphical glitches but I've not noticed them anywhere else.</td>
 </tr>
 </tbody>
 </table>
@@ -233,15 +221,22 @@
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
-<tr>
-<td style="width: 100%;" colspan="4">4K causes crashes and random textures are glitchy. Turning off V-Sync does decrease frame rate drops but as a result introduces screen tearing.</td>
-</tr>
 </tbody>
 </table>
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 53.6303%;">Spider-Man Friend or Foe</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/h0C5DDNIzFg" target="_blank" rel="noopener noreferrer">The Simpsons Hit &amp; Run</a></td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
@@ -286,9 +281,6 @@
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
-<tr>
-<td style="width: 100%;" colspan="4">It has a glitch that tanks the frame rate to half, opening the quick menu and resuming gets rid of it.</td>
-</tr>
 </tbody>
 </table>
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
@@ -297,10 +289,7 @@
 <td style="width: 53.6303%;">Tony Hawk's Underground 2</td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
-<td class="align-center" style="width: 16.9757%;">Wild Arms Hack<br>TC Offset X: 20<br>TC Offset Y: 140</td>
-</tr>
-<tr>
-<td style="width: 100%;" colspan="4">It has a glitch that tanks the frame rate to half, opening the quick menu and resuming gets rid of it. There's ghosting caused by upscaling, enable hardware hacks to reduce it.</td>
+<td class="align-center" style="width: 16.9757%;">Wild Arms Hack<br>TC Offset X: 40<br>TC Offset Y: 140</td>
 </tr>
 </tbody>
 </table>
@@ -312,9 +301,6 @@
 <td class="align-center" style="width: 16.9757%;">3x (1080p)</td>
 <td class="align-center" style="width: 16.9757%;">Wild Arms Hack</td>
 </tr>
-<tr>
-<td style="width: 100%;" colspan="4">There's ghosting caused by upscaling, enable hardware hacks to reduce it.</td>
-</tr>
 </tbody>
 </table>
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
@@ -324,9 +310,6 @@
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
-</tr>
-<tr>
-<td style="width: 100%;" colspan="4">It has frame drops every few seconds but is still very playable.</td>
 </tr>
 </tbody>
 </table>
@@ -347,9 +330,6 @@
 <td class="align-center" style="width: 12.4182%;">Laggy</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
-</tr>
-<tr>
-<td style="width: 100%;" colspan="4">4K is unplayable, but anything below that resolution is still laggy.</td>
 </tr>
 </tbody>
 </table>
