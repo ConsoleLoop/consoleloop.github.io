@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-07T07:02:26-05:00</updated>
+    <updated>2023-01-08T16:48:50-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Yu-Gi-Oh! GX The Beginning of Destiny - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/yu-gi-oh-gx-the-beginning-of-destiny-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/yu-gi-oh-gx-the-beginning-of-destiny-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/159/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-08T16:48:02-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/159/thumbnail.webp" class="type:primaryImage" alt="Yu-Gi-Oh! GX The Beginning of Destiny" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/rn-U11kbHS8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Justice League Heroes - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/justice-league-heroes-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/justice-league-heroes-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/158/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-08T06:18:00-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/158/thumbnail.webp" class="type:primaryImage" alt="Justice League Heroes" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AiV5JFbKmc0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Resident Evil 4 - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -26,26 +66,6 @@
             <![CDATA[
                     <p><img src="https://consoleloop.com/media/posts/157/thumbnail.webp" class="type:primaryImage" alt="Resident Evil 4" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/LONCc4GJx-E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Simpsons Hit &amp; Run - Xbox Series S - AetherSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/the-simpsons-hit-and-run-xbox-series-s-aethersx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/the-simpsons-hit-and-run-xbox-series-s-aethersx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/156/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2023-01-06T12:59:08-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/156/thumbnail.webp" class="type:primaryImage" alt="The Simpsons Hit &amp; Run" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/h0C5DDNIzFg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -90,26 +110,6 @@
         </content>
     </entry>
     <entry>
-        <title>God of War II - Xbox Series S - AetherSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/god-of-war-ii-xbox-series-s-aethersx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/god-of-war-ii-xbox-series-s-aethersx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/152/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2023-01-04T03:28:36-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/152/thumbnail.webp" class="type:primaryImage" alt="God of War II" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/OBU13-jHQVM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Xbox Series X|S Recommended AetherSX2 Settings List</title>
         <author>
             <name>ConsoleLoop</name>
@@ -121,7 +121,7 @@
             <category term="Xbox Series S"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-07T07:02:26-05:00</updated>
+        <updated>2023-01-08T16:48:50-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
@@ -179,6 +179,16 @@
 <td style="width: 53.6303%;"><a href="https://youtu.be/I28b4qukUFI" target="_blank" rel="noopener noreferrer">Harry Potter and the Sorcerer's Stone</a></td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/AiV5JFbKmc0" target="_blank" rel="noopener noreferrer">Justice League Heroes</a></td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
 </tbody>
@@ -327,6 +337,16 @@
 <tbody>
 <tr>
 <td style="width: 53.6303%;">War of the Monsters</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/rn-U11kbHS8" target="_blank" rel="noopener noreferrer">Yu-Gi-Oh! GX The Beginning of Destiny</a></td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
