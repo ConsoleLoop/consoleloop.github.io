@@ -3,12 +3,52 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-08T16:48:50-05:00</updated>
+    <updated>2023-01-09T17:23:06-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Madden 23 Franchise Saves Corrupted and CD Projekt Settles Cyberpunk 2077 Lawsuit</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/madden-23-franchise-saves-corrupted-and-cd-projekt-settles-cyberpunk-2077-lawsuit/"/>
+        <id>https://consoleloop.com/madden-23-franchise-saves-corrupted-and-cd-projekt-settles-cyberpunk-2077-lawsuit/</id>
+        <media:content url="https://consoleloop.com/media/posts/161/thumbnail.webp" medium="image" />
+            <category term="Videos"/>
+            <category term="Console Loops"/>
+
+        <updated>2023-01-09T17:23:06-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/161/thumbnail.webp" class="type:primaryImage" alt="Console Loop 53" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/VBXAJLJxxy0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>True Crime New York City - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/true-crime-new-york-city-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/true-crime-new-york-city-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/160/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-09T17:20:59-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/160/thumbnail.webp" class="type:primaryImage" alt="True Crime New York City" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/N3jyb0wx-4o" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Yu-Gi-Oh! GX The Beginning of Destiny - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -70,46 +110,6 @@
         </content>
     </entry>
     <entry>
-        <title>Ultimate Spider-Man - Xbox Series S - AetherSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/ultimate-spider-man-xbox-series-s-aethersx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/ultimate-spider-man-xbox-series-s-aethersx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/155/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2023-01-05T15:22:35-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/155/thumbnail.webp" class="type:primaryImage" alt="Ultimate Spider-Man" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/-exp-3CSZDw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>An Exploit Compromises Nintendo Consoles and Payday 3 Pre-Alpha Footage Revealed - Console Loop</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/an-exploit-compromises-nintendo-consoles-and-payday-3-pre-alpha-footage-revealed-console-loop/"/>
-        <id>https://consoleloop.com/an-exploit-compromises-nintendo-consoles-and-payday-3-pre-alpha-footage-revealed-console-loop/</id>
-        <media:content url="https://consoleloop.com/media/posts/153/thumbnail.webp" medium="image" />
-            <category term="Videos"/>
-            <category term="Console Loops"/>
-
-        <updated>2023-01-04T15:12:21-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/153/thumbnail.webp" class="type:primaryImage" alt="Console Loop 52" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/_t64bTzilbk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Xbox Series X|S Recommended AetherSX2 Settings List</title>
         <author>
             <name>ConsoleLoop</name>
@@ -121,7 +121,7 @@
             <category term="Xbox Series S"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-08T16:48:50-05:00</updated>
+        <updated>2023-01-09T11:06:13-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
@@ -326,6 +326,16 @@
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/N3jyb0wx-4o" target="_blank" rel="noopener noreferrer">True Crime New York City</a></td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">3x (1080p)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <td style="width: 53.6303%;"><a href="https://youtu.be/-exp-3CSZDw" target="_blank" rel="noopener noreferrer">Ultimate Spider-Man</a></td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
@@ -349,6 +359,16 @@
 <td style="width: 53.6303%;"><a href="https://youtu.be/rn-U11kbHS8" target="_blank" rel="noopener noreferrer">Yu-Gi-Oh! GX The Beginning of Destiny</a></td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Yu-Gi-Oh! The Duelists of the Roses</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
 </tbody>
