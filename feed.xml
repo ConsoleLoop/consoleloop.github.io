@@ -3,12 +3,32 @@
     <title>ConsoleLoop</title>
     <link href="https://consoleloop.com/feed.xml" rel="self" />
     <link href="https://consoleloop.com" />
-    <updated>2023-01-11T11:15:46-05:00</updated>
+    <updated>2023-01-11T11:53:30-05:00</updated>
     <author>
         <name>ConsoleLoop</name>
     </author>
     <id>https://consoleloop.com</id>
 
+    <entry>
+        <title>Ape Escape 3 - Xbox Series S - AetherSX2 Frame Rate Test</title>
+        <author>
+            <name>ConsoleLoop</name>
+        </author>
+        <link href="https://consoleloop.com/ape-escape-3-xbox-series-s-aethersx2-frame-rate-test/"/>
+        <id>https://consoleloop.com/ape-escape-3-xbox-series-s-aethersx2-frame-rate-test/</id>
+        <media:content url="https://consoleloop.com/media/posts/164/thumbnail.webp" medium="image" />
+            <category term="Xbox Series S"/>
+            <category term="Videos"/>
+
+        <updated>2023-01-11T11:53:30-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://consoleloop.com/media/posts/164/thumbnail.webp" class="type:primaryImage" alt="Ape Escape 3" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/106t6OwZAZI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Harry Potter and the Chamber of Secrets - Xbox Series S - AetherSX2 Frame Rate Test</title>
         <author>
@@ -90,26 +110,6 @@
         </content>
     </entry>
     <entry>
-        <title>Resident Evil 4 - Xbox Series S - AetherSX2 Frame Rate Test</title>
-        <author>
-            <name>ConsoleLoop</name>
-        </author>
-        <link href="https://consoleloop.com/resident-evil-4-xbox-series-s-aethersx2-frame-rate-test/"/>
-        <id>https://consoleloop.com/resident-evil-4-xbox-series-s-aethersx2-frame-rate-test/</id>
-        <media:content url="https://consoleloop.com/media/posts/157/thumbnail.webp" medium="image" />
-            <category term="Xbox Series S"/>
-            <category term="Videos"/>
-
-        <updated>2023-01-07T07:00:17-05:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://consoleloop.com/media/posts/157/thumbnail.webp" class="type:primaryImage" alt="Resident Evil 4" /></p>
-                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/LONCc4GJx-E" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Xbox Series X|S Recommended AetherSX2 Settings List</title>
         <author>
             <name>ConsoleLoop</name>
@@ -121,11 +121,11 @@
             <category term="Xbox Series S"/>
             <category term="Tips &amp; Tricks"/>
 
-        <updated>2023-01-11T11:15:46-05:00</updated>
+        <updated>2023-01-11T11:52:36-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://consoleloop.com/media/posts/146/thumbnail.webp" alt="AetherSX2 Recommended Settings" />
-                    Game State Xbox Series S Resolution Hardware Fixes Dragon Ball Z Budokai Tenkaichi 3 Playable 4x (1440p) TC Offset X: 360 TC Offset Y: 540&hellip;
+                    Game State Xbox Series S Resolution Hardware Fixes Ape Escape 2 Playable 6x (4K) Ape Escape 3 Playable 4x (1440p) Dragon Ball Z Budokai Tenkaichi&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -146,6 +146,26 @@
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
+<td style="width: 53.6303%;">Ape Escape 2</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;"><a href="https://youtu.be/106t6OwZAZI" target="_blank" rel="noopener noreferrer">Ape Escape 3</a></td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <td style="width: 53.6303%;">Dragon Ball Z Budokai Tenkaichi 3</td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
@@ -159,6 +179,16 @@
 <td style="width: 53.6303%;">Dragon Ball Z Sagas</td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">God of War</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">3x (1080p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
 </tbody>
@@ -206,10 +236,70 @@
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
+<td style="width: 53.6303%;">Madden NFL 08</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Madden NFL 11</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <td style="width: 53.6303%;"><a href="https://youtu.be/3JBE-2oZHJM" target="_blank" rel="noopener noreferrer">Midnight Club 3 - DUB Edition Remix</a></td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Mortal Kombat Shaolin Monks</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">NBA 2K9</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">NBA 2K11</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">NBA 09 The Inside</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;">TC Offset X: 420<br>TC Offset Y: 600</td>
 </tr>
 </tbody>
 </table>
@@ -246,9 +336,29 @@
 <table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
+<td style="width: 53.6303%;">Spider-Man The Movie</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <td style="width: 53.6303%;"><a href="https://youtu.be/voXQKJM-GiY" target="_blank" rel="noopener noreferrer">Spider-Man 2</a></td>
 <td class="align-center" style="width: 12.4182%;">Glitchy</td>
 <td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
+<td class="align-center" style="width: 16.9757%;"> </td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Spider-Man 3</td>
+<td class="align-center" style="width: 12.4182%;">Laggy</td>
+<td class="align-center" style="width: 16.9757%;">3x (1080p)</td>
 <td class="align-center" style="width: 16.9757%;"> </td>
 </tr>
 </tbody>
@@ -329,6 +439,36 @@
 <td style="width: 53.6303%;">Tony Hawk's American Wasteland</td>
 <td class="align-center" style="width: 12.4182%;">Playable</td>
 <td class="align-center" style="width: 16.9757%;">3x (1080p)</td>
+<td class="align-center" style="width: 16.9757%;">Wild Arms Hack</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Tony Hawk's Project 8</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
+<td class="align-center" style="width: 16.9757%;">Wild Arms Hack<br>TC Offset X: 41<br>TC Offset Y: 160</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">Tony Hawk's Proving Ground</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">6x (4K)</td>
+<td class="align-center" style="width: 16.9757%;">Wild Arms Hack<br>TC Offset X: 100<br>TC Offset Y: 180</td>
+</tr>
+</tbody>
+</table>
+<table class="table table-bordered table-dark" style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 53.6303%;">True Crime Streets of LA</td>
+<td class="align-center" style="width: 12.4182%;">Playable</td>
+<td class="align-center" style="width: 16.9757%;">4x (1440p)</td>
 <td class="align-center" style="width: 16.9757%;">Wild Arms Hack</td>
 </tr>
 </tbody>
